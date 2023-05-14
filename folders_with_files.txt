@@ -1,0 +1,1721 @@
+Folders with files:
+Barren KY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Winston MS (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Yalobusha MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Harrison MS (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pemiscot MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Piatt IL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Uinta WY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bracken KY (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Hardeman TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Attala MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Waukesha WI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lee AL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Polk MN (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Traill ND (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Poweshiek IA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rutherford NC (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Cuyahoga OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Appanoose IA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Boulder CO (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Foard TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lane OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tripp SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Benton AR (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Nobles MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson WV (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Mississippi AR (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Washington VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Durham NC (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Leake MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kings CA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Ogle IL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Cowlitz WA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tippah MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Deaf Smith TX (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Latimer OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Conway AR (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Faulk SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Polk MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Davidson NC (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Multnomah OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Runnels TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jackson MS (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Sangamon IL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Blount TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pondera MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Warren MO (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Greenlee AZ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Freestone TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kimble TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Monongalia WV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wayne NY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Crook OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Ottawa OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Itawamba MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson TX (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Dunklin MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Warren MS (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Oconee GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Cleveland OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wichita KS (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Newton IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+McLean KY (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Montgomery IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pulaski IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Reagan TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lincoln ME (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Pottawattamie IA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bell KY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Pittsylvania VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Livingston NY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Jefferson OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Duval FL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+McCulloch TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Decatur IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington MS (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Cuming NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Richmond VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Miami OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Putnam OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Union OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Alexandria city VA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Bryan OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Craighead AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Knox IN (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Baltimore city MD (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Providence RI (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Copiah MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Laurel KY (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Elkhart IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Toole MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Mower MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Albany NY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Deuel SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Houston AL (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Atascosa TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tillman OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Clinton MI (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Sequatchie TN (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+White IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lanier GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Monroe IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tulsa OK (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Winneshiek IA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson CO (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Ogemaw MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pushmataha OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lincoln NE (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Issaquena MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Coos OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Seminole FL (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Baker OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pickens SC (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Coryell TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rhea TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Highland OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Scott IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Windham CT (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Decatur IA (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Waushara WI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Garfield MT (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Hoonah-Angoon Census Area (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Lake OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Westchester NY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Clinton MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Brazos TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington MN (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Poinsett AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Union OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Daviess IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Okfuskee OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington KY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rensselaer NY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Calloway KY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Miner SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Watonwan MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Robeson NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Cabell WV (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Fairfax city VA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Washington AL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Jefferson MT (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Franklin IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wetzel WV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+McClain OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Orange TX (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Hamblen TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tompkins NY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson MS (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Roanoke VA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Napa CA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Washington OK (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Wheeler OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Upshur WV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Plumas CA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Twiggs GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Daviess KY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tippecanoe IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Catawba NC (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Charleston SC (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Wasatch UT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Gwinnett GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Marion OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Millard UT (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Greer OK (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Fairfield OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Decatur GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pettis MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Weakley TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Prowers CO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Barnstable MA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Beaver OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Arenac MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Benewah ID (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Columbia OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Red Lake MN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Upshur TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Koochiching MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lincoln OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Upson GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Glasscock TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Marion OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Huntington IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington CO (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Noble IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kitsap WA (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Union NJ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Outagamie WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Piute UT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Catron NM (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bowie TX (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Clatsop OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clinton IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson AL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Blaine OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson KY (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Grant OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Garfield OK (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Daviess MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Denver CO (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Flathead MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Champaign OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Johnson IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Allen OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Fulton IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Columbiana OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Ozaukee WI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clackamas OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Orange FL (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Dundy NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Cabarrus NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pasquotank NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Boone IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Coffey KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Haakon SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sacramento CA (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Yavapai AZ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Harnett NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Ziebach SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Auglaize OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Androscoggin ME (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Monterey CA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Jackson CO (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+McCone MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bell TX (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Powder River MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Grant WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Cocke TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Hudspeth TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Camden NJ (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Glascock GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Houston TX (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Meagher MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Martin IN (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Essex NY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Wabaunsee KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Harrison IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Boise ID (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Burke NC (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Wayne OH (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Camden NC (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Merced CA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Montgomery AL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Summit OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Tillamook OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Whitley IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Belmont OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Tulare CA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Curry OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Benton OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Starke IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Labette KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Orange IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Howard IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Hopkins TX (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Stutsman ND (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Warren IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sherman OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Broomfield CO (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Honolulu HI (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Grayson KY (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Shackelford TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Smyth VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Harney OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+McMinn TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Somerset ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Alfalfa OK (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Washington TX (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Mackinac MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Somerset NJ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Galveston TX (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Delaware OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Colleton SC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Klamath OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Newton MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Malheur OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Gogebic MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jackson IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Orange NY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Portage OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Gibson IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bernalillo NM (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Shelby IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Storey NV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Hardeman TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tyler TX (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Kearny KS (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Doddridge WV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Macoupin IL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bullitt KY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wayne MS (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Wallowa OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Finney KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wasco OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Deuel NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Trousdale TN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Owen IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Gilliam OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Echols GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Morrow OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wayne MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Holmes OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Racine WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Beaverhead MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tuscaloosa AL (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Hamilton IN (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clinton PA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Washoe NV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Blackford IN (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Ottawa OH (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Clay MO (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Rooks KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Izard AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Porter IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Morrow OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Pinellas FL (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Polk AR (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Washakie WY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sumter SC (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Norfolk MA (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Switzerland IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson TN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Scioto OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Orangeburg SC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Carson TX (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Kinney TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rockwall TX (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Irion TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Nuckolls NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Murray OK (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bronx NY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wells IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Washington ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Passaic NJ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Audrain MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Erie PA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Washington NC (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Oxford ME (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Routt CO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Miami IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+McCreary KY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Putnam IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson ID (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Shiawassee MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Yellow Medicine MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Minnehaha SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Burleson TX (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Oktibbeha MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dearborn IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lake IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Collin TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Spotsylvania VA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Jefferson OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Perry IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Washington AR (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Riverside CA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Mercer OH (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Hoke NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pittsburg OK (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Gilpin CO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Tyrrell NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Ravalli MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Piscataquis ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Autauga AL (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Washita OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Shawnee KS (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Pleasants WV (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rush IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Owsley KY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Clinton NY (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Covington AL (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Franklin ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dallas MO (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Sagadahoc ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clallam WA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kittson MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Randolph IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Fairfax VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Saratoga NY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Merrimack NH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Taylor WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Donley TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Grant MN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Butler OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Richmond city VA (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Washington MD (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Jefferson IL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Yell AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Ouachita AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Umatilla OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Muscogee GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Independence AR (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Unicoi TN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Chenango NY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sequoyah OK (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Nance NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Rogers OK (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Kanabec MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington NY (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Union IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Telfair GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Choctaw OK (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Middlesex NJ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kalawao HI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Aroostook ME (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Berkshire MA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Hartford CT (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bartholomew IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Alpine CA (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Madison IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Charlotte FL (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Franklin OH (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Gosper NE (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington ID (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Sanilac MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Corson SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Missaukee MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Grant IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clinton IL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Mountrail ND (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Willacy TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Johnston OK (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Bollinger MO (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Beadle SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Morgan IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Vermillion IN (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+DeBaca NM (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Lawrence IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Marion IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Faulkner AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Codington SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Chicot AR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Juab UT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jerauld SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Taliaferro GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Conecuh AL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+York ME (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Vanderburgh IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Anoka MN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Greensville VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson AR (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Philadelphia PA (2 files):
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Grant OK (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Union MS (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Union GA (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Washington OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Bulloch GA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Randolph MO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Washington IL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Iosco MI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Blount AL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson NE (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Greene IN (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Noble OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Tipton IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Panola MS (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Kleberg TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Gregg TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Okaloosa FL (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clinton OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Schenectady NY (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dimmit TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Amherst VA (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Allen IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson NY (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Schleicher TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Brown IN (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Ripley IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Douglas OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Milwaukee WI (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Alamance NC (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Jackson OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Nueces TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Camas ID (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Josephine OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Marshall IN (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Union SC (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Delta CO (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Allamakee IA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wilbarger TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dallas TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Deschutes OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kings NY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Darke OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wythe VA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Wyandot OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Fountain IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Harrison OH (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Queens NY (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sharkey MS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Clinch GA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Polk OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Collingsworth TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Washington WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Wayne IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Austin TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dutchess NY (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Benton IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Davis UT (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Clay IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Northumberland PA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+McLean IL (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Delaware OK (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Hodgeman KS (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Somervell TX (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Linn OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Dane WI (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Franklin TN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Erie OH (1 files):
+BLM_2020-07-01_2020-08-01.parquet
+Coconino AZ (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Cavalier ND (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Warren OH (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Spink SD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Kenosha WI (1 files):
+BLM_2020-08-01_2020-09-01.parquet
+Delaware IN (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Uintah UT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Baltimore MD (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Miami-Dade FL (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Yamhill OR (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Essex MA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
+Treasure MT (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Perquimans NC (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Sullivan IN (2 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+Alameda CA (3 files):
+BLM_2020-07-01_2020-08-01.parquet
+BLM_2020-08-01_2020-09-01.parquet
+BLM_2020-09-01_2020-10-01.parquet
+Jefferson PA (1 files):
+BLM_2020-09-01_2020-10-01.parquet
