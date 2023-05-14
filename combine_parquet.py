@@ -2,6 +2,7 @@ import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 
+
 def combine_parquet(folder_path, output_file_path, output_file_name):
     folder_path = Path(folder_path)
     output_file_path = Path(output_file_path)
@@ -24,7 +25,16 @@ def combine_parquet(folder_path, output_file_path, output_file_name):
         df["filepath"] = str(file)
 
         # Convert the 'quotedTweet' column to nullable integer type
-        df["quotedTweet"] = df["quotedTweet"].apply(lambda x: x if isinstance(x, int) else pd.NA).astype(pd.Int64Dtype())
+        df["quotedTweet"] = (
+            df["quotedTweet"]
+            .apply(lambda x: x if isinstance(x, int) else pd.NA)
+            .astype(pd.Int64Dtype())
+        )
+        # df["inReplyToUser"] = (
+        #     df["inReplyToUser"]
+        #     .apply(lambda x: x if isinstance(x, int) else pd.NA)
+        #     .astype(pd.Int64Dtype())
+        # )
 
         # Append the DataFrame to the list
         dfs.append(df)
@@ -35,20 +45,19 @@ def combine_parquet(folder_path, output_file_path, output_file_name):
         folder_info = [[folder_name, output_file_name, len(combined_data)]]
 
     # Write the combined data to a Parquet file
-    combined_data.to_parquet(
-        output_file_path / output_file_name, engine="pyarrow", index=False
-    )
+    combined_data.to_parquet(output_file_path / output_file_name, index=False)
 
     return folder_info
 
+
 # Define the folder path where the Parquet files are located
-folder_path = "/Users/fahad/Desktop/data/Thesis data/data5"
+folder_path = "/Users/fahad/Desktop/Data/Thesis data/data4"
 
 # Define the output file path for the combined Parquet file
 output_file_path = "/Users/fahad/Desktop/processed_data"
 
 # Define the output file name for the combined Parquet file
-output_file_name = "combined_data5.parquet"
+output_file_name = "combined_data4.parquet"
 
 folder_info = combine_parquet(folder_path, output_file_path, output_file_name)
 
