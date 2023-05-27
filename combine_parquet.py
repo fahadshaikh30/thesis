@@ -120,14 +120,14 @@ def combine_parquetv2(folder_path, output_file_path, output_file_name):
     return folder_info
 
 # Define the folder path where the Parquet files are located
-folder_path = "/Users/fahad/Desktop/Data/More data"
+folder_path = "data/Middle Suburbs"
 
 # Define the output file path for the combined Parquet file
 output_file_path = "/Users/fahad/Desktop/processed_data"
 
 # Define the output file name for the combined Parquet file
-output_file_name = "combined_data9.parquet"
+output_file_name = "combined_data15.parquet"
 
-folder_info = combine_parquetv2(folder_path, output_file_path, output_file_name)
+folder_info = combine_parquet(folder_path, output_file_path, output_file_name)
 
 print(folder_info)
