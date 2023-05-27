@@ -1,7 +1,7 @@
 import pandas as pd
 
-source = "/Users/fahad/Desktop/processed_data/combined_data6.parquet"
-dest = "/Users/fahad/Desktop/preprocessed_data/processed_data11.parquet"
+source = "/Users/fahad/Desktop/processed_data/combined_data20.parquet" #20
+dest = "/Users/fahad/Desktop/preprocessed_data/processed_data31.parquet"
 
 
 def main(source, dest):
@@ -46,15 +46,15 @@ def main(source, dest):
         "protected",
         "username",
         "statusesCount",
-        "link.indices",
-        "link.tcourl",
-        "link.text",
-        "link.url",
-        "link",
-        "label.badgeUrl",
-        "label.description",
-        "label.longDescription",
-        "label.url",
+        # "link.indices",
+        # "link.tcourl",
+        # "link.text",
+        # "link.url",
+        # "link",
+        # "label.badgeUrl",
+        # "label.description",
+        # "label.longDescription",
+        # "label.url",
     ]
     user_df.drop(user_df_dropped_cols, inplace=True, axis=1)
 
