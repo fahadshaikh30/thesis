@@ -20,21 +20,21 @@ def combine_parquet(folder_path, output_file_path, output_file_name):
         # Read the Parquet file into a DataFrame
         df = pd.read_parquet(file)
 
-        # Add a new column with the title of the file
-        df["filename"] = file.stem
-        df["filepath"] = str(file)
+        # # Add a new column with the title of the file
+        # df["filename"] = file.stem
+        # df["filepath"] = str(file)
 
-        # Convert the 'quotedTweet' column to nullable integer type
-        df["quotedTweet"] = (
-            df["quotedTweet"]
-            .apply(lambda x: x if isinstance(x, int) else pd.NA)
-            .astype(pd.Int64Dtype())
-        )
-        df["inReplyToUser"] = (
-            df["inReplyToUser"]
-            .apply(lambda x: x if isinstance(x, int) else pd.NA)
-            .astype(pd.Int64Dtype())
-        )
+        # # Convert the 'quotedTweet' column to nullable integer type
+        # df["quotedTweet"] = (
+        #     df["quotedTweet"]
+        #     .apply(lambda x: x if isinstance(x, int) else pd.NA)
+        #     .astype(pd.Int64Dtype())
+        # )
+        # df["inReplyToUser"] = (
+        #     df["inReplyToUser"]
+        #     .apply(lambda x: x if isinstance(x, int) else pd.NA)
+        #     .astype(pd.Int64Dtype())
+        # )
 
         # Append the DataFrame to the list
         dfs.append(df)
@@ -120,13 +120,13 @@ def combine_parquetv2(folder_path, output_file_path, output_file_name):
     return folder_info
 
 # Define the folder path where the Parquet files are located
-folder_path = "data"
+folder_path = r"C:\Users\fashaikh\Desktop\Thesis main\selected_data"
 
 # Define the output file path for the combined Parquet file
-output_file_path = "/Users/fahad/Desktop/processed_data"
+output_file_path = r"C:\Users\fashaikh\Desktop\Thesis main"
 
 # Define the output file name for the combined Parquet file
-output_file_name = "combined_data20.parquet"
+output_file_name = "combined_data.parquet"
 
 folder_info = combine_parquet(folder_path, output_file_path, output_file_name)
 
