@@ -3,7 +3,7 @@ import os
 import snscrape.modules.twitter as twitter
 import dataclasses
 
-start_date = "2020-05-01"
+start_date = "2020-01-01"
 end_date = "2022-12-31"
 
 
