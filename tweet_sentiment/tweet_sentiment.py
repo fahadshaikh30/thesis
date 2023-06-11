@@ -3,7 +3,7 @@ import pandas as pd
 from tqdm import tqdm
 from pathlib import Path
 
-path = '/Users/fahad/development/thesis/partitioned_data/bigCities.parquet'
+path = r'C:\Users\fashaikh\Desktop\Thesis main\partitioned_data\LDSEnclaves.parquet'
 model = tweetnlp.load_model('sentiment')
 
 def get_sentiment(path):
@@ -23,8 +23,9 @@ def get_sentiment(path):
 
     filename = Path(path).stem + f"_sentiment"
 
-    output_path = f'/Users/fahad/development/thesis/tweet_sentiment/{filename}.parquet'
+    output_path = fr'C:\Users\fashaikh\Desktop\Thesis main\thesis\tweet_sentiment\{filename}.parquet'
 
     df.to_parquet(output_path)
+
 
 get_sentiment(path)
