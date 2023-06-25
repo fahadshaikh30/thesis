@@ -3,29 +3,42 @@ import pandas as pd
 from tqdm import tqdm
 from pathlib import Path
 
-path = r'C:\Users\fashaikh\Desktop\Thesis main\partitioned_data\LDSEnclaves.parquet'
-model = tweetnlp.load_model('sentiment')
+path = r'C:\Users\fashaikh\Desktop\Thesis main\partitioned_data\GrayingAmerica.parquet'
+smodel = tweetnlp.load_model('sentiment')
+emodel = tweetnlp.load_model('emotion')
 
-def get_sentiment(path):
+def get_sentiment_emotion(path):
     df = pd.read_parquet(path)
 
     text = list(df['cleanedContent'])
 
-    res = []
+    sen = []
+    em = []
 
     for i in tqdm(text):
-        sentiment_result = model.sentiment(i, return_probability=True)
-        res.append(sentiment_result)
+        sentiment_result = smodel.sentiment(i, return_probability=True)
+        emotion_result = emodel.emotion(i, return_probability=True)
+        sen.append(sentiment_result)
+        em.append(emotion_result)
     
-    data = pd.json_normalize(res)
+    sdata = pd.json_normalize(sen)
 
-    df = pd.concat(objs=[df, data], axis=1)
+    sdf = pd.concat(objs=[df, sdata], axis=1)
 
-    filename = Path(path).stem + f"_sentiment"
+    edata = pd.json_normalize(em)
 
-    output_path = fr'C:\Users\fashaikh\Desktop\Thesis main\thesis\tweet_sentiment\{filename}.parquet'
+    edf = pd.concat(objs=[df, edata], axis=1)
 
-    df.to_parquet(output_path)
+    sfilename = Path(path).stem + f"_sentiment"
 
+    efilename = Path(path).stem + f"_emotion"
 
-get_sentiment(path)
+    soutput_path = fr'C:\Users\fashaikh\Desktop\Thesis main\sentiment_results\{sfilename}.parquet'
+    
+    eoutput_path = fr'C:\Users\fashaikh\Desktop\Thesis main\emotion_results\{efilename}.parquet'
+
+    sdf.to_parquet(soutput_path)
+
+    edf.to_parquet(eoutput_path)
+
+get_sentiment_emotion(path)
