@@ -49,6 +49,7 @@ def combine_parquet(folder_path, output_file_path, output_file_name):
 
     return folder_info
 
+
 def combine_parquetv2(folder_path, output_file_path, output_file_name):
     folder_path = Path(folder_path)
     output_file_path = Path(output_file_path)
@@ -114,10 +115,13 @@ def combine_parquetv2(folder_path, output_file_path, output_file_name):
         folder_info.append([folder_name, folder, num_files])
 
     # Save folder information as a CSV file
-    folder_info_df = pd.DataFrame(folder_info, columns=["Main Folder", "Subfolder", "File Count"])
+    folder_info_df = pd.DataFrame(
+        folder_info, columns=["Main Folder", "Subfolder", "File Count"]
+    )
     folder_info_df.to_csv(output_file_path / "folder_info.csv", index=False)
 
     return folder_info
+
 
 # Define the folder path where the Parquet files are located
 folder_path = r"C:\Users\fashaikh\Desktop\Thesis main\selected_data"
