@@ -1,0 +1,3144 @@
+,FIPS,category,total_tweets
+0,01001,Exurbs,688950
+1,01051,Exurbs,688950
+2,01083,Exurbs,688950
+3,01115,Exurbs,688950
+4,01117,Exurbs,688950
+5,05007,Exurbs,688950
+6,05085,Exurbs,688950
+7,05125,Exurbs,688950
+8,06017,Exurbs,688950
+9,06057,Exurbs,688950
+10,06061,Exurbs,688950
+11,06115,Exurbs,688950
+12,08001,Exurbs,688950
+13,08035,Exurbs,688950
+14,08039,Exurbs,688950
+15,08045,Exurbs,688950
+16,08059,Exurbs,688950
+17,08077,Exurbs,688950
+18,08123,Exurbs,688950
+19,09005,Exurbs,688950
+20,09007,Exurbs,688950
+21,12019,Exurbs,688950
+22,12089,Exurbs,688950
+23,12109,Exurbs,688950
+24,12113,Exurbs,688950
+25,12129,Exurbs,688950
+26,13013,Exurbs,688950
+27,13015,Exurbs,688950
+28,13047,Exurbs,688950
+29,13057,Exurbs,688950
+30,13077,Exurbs,688950
+31,13085,Exurbs,688950
+32,13097,Exurbs,688950
+33,13103,Exurbs,688950
+34,13113,Exurbs,688950
+35,13117,Exurbs,688950
+36,13145,Exurbs,688950
+37,13151,Exurbs,688950
+38,13157,Exurbs,688950
+39,13177,Exurbs,688950
+40,13187,Exurbs,688950
+41,13217,Exurbs,688950
+42,13219,Exurbs,688950
+43,13223,Exurbs,688950
+44,13227,Exurbs,688950
+45,13231,Exurbs,688950
+46,13247,Exurbs,688950
+47,13297,Exurbs,688950
+48,16001,Exurbs,688950
+49,16027,Exurbs,688950
+50,16045,Exurbs,688950
+51,16055,Exurbs,688950
+52,16075,Exurbs,688950
+53,16083,Exurbs,688950
+54,17007,Exurbs,688950
+55,17063,Exurbs,688950
+56,17089,Exurbs,688950
+57,17093,Exurbs,688950
+58,17097,Exurbs,688950
+59,17111,Exurbs,688950
+60,17197,Exurbs,688950
+61,18057,Exurbs,688950
+62,18059,Exurbs,688950
+63,18063,Exurbs,688950
+64,18081,Exurbs,688950
+65,19049,Exurbs,688950
+66,19153,Exurbs,688950
+67,20091,Exurbs,688950
+68,21005,Exurbs,688950
+69,21015,Exurbs,688950
+70,21029,Exurbs,688950
+71,21081,Exurbs,688950
+72,21113,Exurbs,688950
+73,21179,Exurbs,688950
+74,21185,Exurbs,688950
+75,21209,Exurbs,688950
+76,21211,Exurbs,688950
+77,21215,Exurbs,688950
+78,22005,Exurbs,688950
+79,22023,Exurbs,688950
+80,22063,Exurbs,688950
+81,22075,Exurbs,688950
+82,22103,Exurbs,688950
+83,24003,Exurbs,688950
+84,24011,Exurbs,688950
+85,24013,Exurbs,688950
+86,24015,Exurbs,688950
+87,24021,Exurbs,688950
+88,24025,Exurbs,688950
+89,24035,Exurbs,688950
+90,24041,Exurbs,688950
+91,25023,Exurbs,688950
+92,26037,Exurbs,688950
+93,27003,Exurbs,688950
+94,27019,Exurbs,688950
+95,27025,Exurbs,688950
+96,27037,Exurbs,688950
+97,27059,Exurbs,688950
+98,27095,Exurbs,688950
+99,27109,Exurbs,688950
+100,27139,Exurbs,688950
+101,27141,Exurbs,688950
+102,27163,Exurbs,688950
+103,27171,Exurbs,688950
+104,28033,Exurbs,688950
+105,28045,Exurbs,688950
+106,28073,Exurbs,688950
+107,28121,Exurbs,688950
+108,29027,Exurbs,688950
+109,29037,Exurbs,688950
+110,29043,Exurbs,688950
+111,29047,Exurbs,688950
+112,29049,Exurbs,688950
+113,29099,Exurbs,688950
+114,29113,Exurbs,688950
+115,29165,Exurbs,688950
+116,29183,Exurbs,688950
+117,29219,Exurbs,688950
+118,29225,Exurbs,688950
+119,30043,Exurbs,688950
+120,32001,Exurbs,688950
+121,32005,Exurbs,688950
+122,32019,Exurbs,688950
+123,32029,Exurbs,688950
+124,33011,Exurbs,688950
+125,33013,Exurbs,688950
+126,33015,Exurbs,688950
+127,34005,Exurbs,688950
+128,34015,Exurbs,688950
+129,34019,Exurbs,688950
+130,34033,Exurbs,688950
+131,34037,Exurbs,688950
+132,34041,Exurbs,688950
+133,35043,Exurbs,688950
+134,36091,Exurbs,688950
+135,37025,Exurbs,688950
+136,37029,Exurbs,688950
+137,37037,Exurbs,688950
+138,37053,Exurbs,688950
+139,37097,Exurbs,688950
+140,37101,Exurbs,688950
+141,37109,Exurbs,688950
+142,37179,Exurbs,688950
+143,39041,Exurbs,688950
+144,39159,Exurbs,688950
+145,39165,Exurbs,688950
+146,40017,Exurbs,688950
+147,40083,Exurbs,688950
+148,40131,Exurbs,688950
+149,40145,Exurbs,688950
+150,41005,Exurbs,688950
+151,41071,Exurbs,688950
+152,42017,Exurbs,688950
+153,42029,Exurbs,688950
+154,42089,Exurbs,688950
+155,42103,Exurbs,688950
+156,45063,Exurbs,688950
+157,45091,Exurbs,688950
+158,46033,Exurbs,688950
+159,46083,Exurbs,688950
+160,47009,Exurbs,688950
+161,47021,Exurbs,688950
+162,47043,Exurbs,688950
+163,47047,Exurbs,688950
+164,47147,Exurbs,688950
+165,47149,Exurbs,688950
+166,47165,Exurbs,688950
+167,47167,Exurbs,688950
+168,47187,Exurbs,688950
+169,47189,Exurbs,688950
+170,48021,Exurbs,688950
+171,48039,Exurbs,688950
+172,48071,Exurbs,688950
+173,48085,Exurbs,688950
+174,48091,Exurbs,688950
+175,48121,Exurbs,688950
+176,48139,Exurbs,688950
+177,48157,Exurbs,688950
+178,48167,Exurbs,688950
+179,48187,Exurbs,688950
+180,48209,Exurbs,688950
+181,48251,Exurbs,688950
+182,48257,Exurbs,688950
+183,48259,Exurbs,688950
+184,48339,Exurbs,688950
+185,48367,Exurbs,688950
+186,48397,Exurbs,688950
+187,48491,Exurbs,688950
+188,48493,Exurbs,688950
+189,48497,Exurbs,688950
+190,51007,Exurbs,688950
+191,51033,Exurbs,688950
+192,51041,Exurbs,688950
+193,51043,Exurbs,688950
+194,51047,Exurbs,688950
+195,51061,Exurbs,688950
+196,51065,Exurbs,688950
+197,51069,Exurbs,688950
+198,51075,Exurbs,688950
+199,51079,Exurbs,688950
+200,51085,Exurbs,688950
+201,51093,Exurbs,688950
+202,51095,Exurbs,688950
+203,51101,Exurbs,688950
+204,51109,Exurbs,688950
+205,51127,Exurbs,688950
+206,51137,Exurbs,688950
+207,51145,Exurbs,688950
+208,51153,Exurbs,688950
+209,51157,Exurbs,688950
+210,51161,Exurbs,688950
+211,51187,Exurbs,688950
+212,51735,Exurbs,688950
+213,53005,Exurbs,688950
+214,53057,Exurbs,688950
+215,54003,Exurbs,688950
+216,54037,Exurbs,688950
+217,55089,Exurbs,688950
+218,55109,Exurbs,688950
+219,55127,Exurbs,688950
+220,55133,Exurbs,688950
+221,56019,Exurbs,688950
+222,01003,Graying America,128348
+223,02100,Graying America,128348
+224,02105,Graying America,128348
+225,02122,Graying America,128348
+226,02170,Graying America,128348
+227,02198,Graying America,128348
+228,02230,Graying America,128348
+229,04007,Graying America,128348
+230,04011,Graying America,128348
+231,04012,Graying America,128348
+232,04015,Graying America,128348
+233,04021,Graying America,128348
+234,04025,Graying America,128348
+235,05097,Graying America,128348
+236,06003,Graying America,128348
+237,06005,Graying America,128348
+238,06009,Graying America,128348
+239,06015,Graying America,128348
+240,06027,Graying America,128348
+241,06033,Graying America,128348
+242,06035,Graying America,128348
+243,06043,Graying America,128348
+244,06045,Graying America,128348
+245,06049,Graying America,128348
+246,06051,Graying America,128348
+247,06063,Graying America,128348
+248,06091,Graying America,128348
+249,06093,Graying America,128348
+250,06103,Graying America,128348
+251,06105,Graying America,128348
+252,06109,Graying America,128348
+253,08003,Graying America,128348
+254,08007,Graying America,128348
+255,08011,Graying America,128348
+256,08015,Graying America,128348
+257,08019,Graying America,128348
+258,08025,Graying America,128348
+259,08027,Graying America,128348
+260,08029,Graying America,128348
+261,08033,Graying America,128348
+262,08037,Graying America,128348
+263,08043,Graying America,128348
+264,08047,Graying America,128348
+265,08049,Graying America,128348
+266,08053,Graying America,128348
+267,08055,Graying America,128348
+268,08057,Graying America,128348
+269,08061,Graying America,128348
+270,08065,Graying America,128348
+271,08071,Graying America,128348
+272,08073,Graying America,128348
+273,08079,Graying America,128348
+274,08081,Graying America,128348
+275,08083,Graying America,128348
+276,08085,Graying America,128348
+277,08087,Graying America,128348
+278,08089,Graying America,128348
+279,08091,Graying America,128348
+280,08093,Graying America,128348
+281,08097,Graying America,128348
+282,08099,Graying America,128348
+283,08101,Graying America,128348
+284,08103,Graying America,128348
+285,08107,Graying America,128348
+286,08111,Graying America,128348
+287,08113,Graying America,128348
+288,08117,Graying America,128348
+289,08119,Graying America,128348
+290,10005,Graying America,128348
+291,12009,Graying America,128348
+292,12015,Graying America,128348
+293,12017,Graying America,128348
+294,12021,Graying America,128348
+295,12035,Graying America,128348
+296,12043,Graying America,128348
+297,12045,Graying America,128348
+298,12053,Graying America,128348
+299,12055,Graying America,128348
+300,12061,Graying America,128348
+301,12063,Graying America,128348
+302,12067,Graying America,128348
+303,12069,Graying America,128348
+304,12071,Graying America,128348
+305,12081,Graying America,128348
+306,12083,Graying America,128348
+307,12085,Graying America,128348
+308,12087,Graying America,128348
+309,12093,Graying America,128348
+310,12101,Graying America,128348
+311,12105,Graying America,128348
+312,12111,Graying America,128348
+313,12115,Graying America,128348
+314,12119,Graying America,128348
+315,12125,Graying America,128348
+316,12127,Graying America,128348
+317,12131,Graying America,128348
+318,13281,Graying America,128348
+319,15001,Graying America,128348
+320,16003,Graying America,128348
+321,16009,Graying America,128348
+322,16013,Graying America,128348
+323,16015,Graying America,128348
+324,16017,Graying America,128348
+325,16025,Graying America,128348
+326,16035,Graying America,128348
+327,16037,Graying America,128348
+328,16059,Graying America,128348
+329,16061,Graying America,128348
+330,16063,Graying America,128348
+331,16081,Graying America,128348
+332,16085,Graying America,128348
+333,16087,Graying America,128348
+334,17009,Graying America,128348
+335,17087,Graying America,128348
+336,17145,Graying America,128348
+337,18013,Graying America,128348
+338,18153,Graying America,128348
+339,21143,Graying America,128348
+340,23003,Graying America,128348
+341,23007,Graying America,128348
+342,23009,Graying America,128348
+343,23013,Graying America,128348
+344,23015,Graying America,128348
+345,23017,Graying America,128348
+346,23021,Graying America,128348
+347,23025,Graying America,128348
+348,23027,Graying America,128348
+349,23029,Graying America,128348
+350,24047,Graying America,128348
+351,25001,Graying America,128348
+352,25007,Graying America,128348
+353,25019,Graying America,128348
+354,26001,Graying America,128348
+355,26003,Graying America,128348
+356,26009,Graying America,128348
+357,26011,Graying America,128348
+358,26013,Graying America,128348
+359,26019,Graying America,128348
+360,26029,Graying America,128348
+361,26031,Graying America,128348
+362,26033,Graying America,128348
+363,26035,Graying America,128348
+364,26039,Graying America,128348
+365,26051,Graying America,128348
+366,26053,Graying America,128348
+367,26069,Graying America,128348
+368,26071,Graying America,128348
+369,26079,Graying America,128348
+370,26083,Graying America,128348
+371,26085,Graying America,128348
+372,26089,Graying America,128348
+373,26095,Graying America,128348
+374,26097,Graying America,128348
+375,26101,Graying America,128348
+376,26119,Graying America,128348
+377,26127,Graying America,128348
+378,26129,Graying America,128348
+379,26131,Graying America,128348
+380,26135,Graying America,128348
+381,26137,Graying America,128348
+382,26141,Graying America,128348
+383,26143,Graying America,128348
+384,26153,Graying America,128348
+385,27001,Graying America,128348
+386,27021,Graying America,128348
+387,27031,Graying America,128348
+388,27057,Graying America,128348
+389,27061,Graying America,128348
+390,27071,Graying America,128348
+391,27077,Graying America,128348
+392,29015,Graying America,128348
+393,29029,Graying America,128348
+394,29063,Graying America,128348
+395,29085,Graying America,128348
+396,29089,Graying America,128348
+397,29141,Graying America,128348
+398,29209,Graying America,128348
+399,29213,Graying America,128348
+400,30007,Graying America,128348
+401,30009,Graying America,128348
+402,30023,Graying America,128348
+403,30029,Graying America,128348
+404,30037,Graying America,128348
+405,30039,Graying America,128348
+406,30041,Graying America,128348
+407,30047,Graying America,128348
+408,30057,Graying America,128348
+409,30059,Graying America,128348
+410,30065,Graying America,128348
+411,30067,Graying America,128348
+412,30077,Graying America,128348
+413,30081,Graying America,128348
+414,30095,Graying America,128348
+415,30097,Graying America,128348
+416,31123,Graying America,128348
+417,32007,Graying America,128348
+418,32009,Graying America,128348
+419,32013,Graying America,128348
+420,32015,Graying America,128348
+421,32023,Graying America,128348
+422,32027,Graying America,128348
+423,32033,Graying America,128348
+424,32510,Graying America,128348
+425,33003,Graying America,128348
+426,33007,Graying America,128348
+427,34009,Graying America,128348
+428,35003,Graying America,128348
+429,35007,Graying America,128348
+430,35011,Graying America,128348
+431,35017,Graying America,128348
+432,35021,Graying America,128348
+433,35033,Graying America,128348
+434,35037,Graying America,128348
+435,35041,Graying America,128348
+436,35051,Graying America,128348
+437,35057,Graying America,128348
+438,36019,Graying America,128348
+439,36025,Graying America,128348
+440,36031,Graying America,128348
+441,36033,Graying America,128348
+442,36039,Graying America,128348
+443,36041,Graying America,128348
+444,36089,Graying America,128348
+445,36105,Graying America,128348
+446,37005,Graying America,128348
+447,37011,Graying America,128348
+448,37019,Graying America,128348
+449,37031,Graying America,128348
+450,37039,Graying America,128348
+451,37055,Graying America,128348
+452,37173,Graying America,128348
+453,38061,Graying America,128348
+454,40025,Graying America,128348
+455,40057,Graying America,128348
+456,40059,Graying America,128348
+457,40141,Graying America,128348
+458,41001,Graying America,128348
+459,41007,Graying America,128348
+460,41011,Graying America,128348
+461,41013,Graying America,128348
+462,41015,Graying America,128348
+463,41019,Graying America,128348
+464,41021,Graying America,128348
+465,41023,Graying America,128348
+466,41025,Graying America,128348
+467,41031,Graying America,128348
+468,41033,Graying America,128348
+469,41035,Graying America,128348
+470,41037,Graying America,128348
+471,41041,Graying America,128348
+472,41043,Graying America,128348
+473,41045,Graying America,128348
+474,41047,Graying America,128348
+475,41057,Graying America,128348
+476,41059,Graying America,128348
+477,41061,Graying America,128348
+478,41063,Graying America,128348
+479,41065,Graying America,128348
+480,41069,Graying America,128348
+481,42023,Graying America,128348
+482,42053,Graying America,128348
+483,42061,Graying America,128348
+484,42105,Graying America,128348
+485,42113,Graying America,128348
+486,45051,Graying America,128348
+487,46019,Graying America,128348
+488,46047,Graying America,128348
+489,47155,Graying America,128348
+490,48023,Graying America,128348
+491,48043,Graying America,128348
+492,48045,Graying America,128348
+493,48075,Graying America,128348
+494,48081,Graying America,128348
+495,48101,Graying America,128348
+496,48105,Graying America,128348
+497,48115,Graying America,128348
+498,48123,Graying America,128348
+499,48125,Graying America,128348
+500,48129,Graying America,128348
+501,48151,Graying America,128348
+502,48155,Graying America,128348
+503,48161,Graying America,128348
+504,48175,Graying America,128348
+505,48197,Graying America,128348
+506,48207,Graying America,128348
+507,48227,Graying America,128348
+508,48243,Graying America,128348
+509,48253,Graying America,128348
+510,48255,Graying America,128348
+511,48263,Graying America,128348
+512,48267,Graying America,128348
+513,48275,Graying America,128348
+514,48293,Graying America,128348
+515,48297,Graying America,128348
+516,48299,Graying America,128348
+517,48301,Graying America,128348
+518,48307,Graying America,128348
+519,48311,Graying America,128348
+520,48327,Graying America,128348
+521,48333,Graying America,128348
+522,48335,Graying America,128348
+523,48345,Graying America,128348
+524,48353,Graying America,128348
+525,48385,Graying America,128348
+526,48403,Graying America,128348
+527,48411,Graying America,128348
+528,48443,Graying America,128348
+529,48445,Graying America,128348
+530,48447,Graying America,128348
+531,48455,Graying America,128348
+532,48495,Graying America,128348
+533,49019,Graying America,128348
+534,49043,Graying America,128348
+535,50009,Graying America,128348
+536,50013,Graying America,128348
+537,50019,Graying America,128348
+538,51091,Graying America,128348
+539,51103,Graying America,128348
+540,51113,Graying America,128348
+541,51115,Graying America,128348
+542,51119,Graying America,128348
+543,51133,Graying America,128348
+544,51163,Graying America,128348
+545,53007,Graying America,128348
+546,53009,Graying America,128348
+547,53013,Graying America,128348
+548,53015,Graying America,128348
+549,53019,Graying America,128348
+550,53027,Graying America,128348
+551,53031,Graying America,128348
+552,53039,Graying America,128348
+553,53041,Graying America,128348
+554,53045,Graying America,128348
+555,53047,Graying America,128348
+556,53049,Graying America,128348
+557,53055,Graying America,128348
+558,53059,Graying America,128348
+559,53065,Graying America,128348
+560,53069,Graying America,128348
+561,54025,Graying America,128348
+562,54075,Graying America,128348
+563,54083,Graying America,128348
+564,54093,Graying America,128348
+565,55001,Graying America,128348
+566,55007,Graying America,128348
+567,55013,Graying America,128348
+568,55037,Graying America,128348
+569,55041,Graying America,128348
+570,55051,Graying America,128348
+571,55085,Graying America,128348
+572,55113,Graying America,128348
+573,55125,Graying America,128348
+574,55129,Graying America,128348
+575,56005,Graying America,128348
+576,56007,Graying America,128348
+577,56009,Graying America,128348
+578,56011,Graying America,128348
+579,56013,Graying America,128348
+580,56029,Graying America,128348
+581,56033,Graying America,128348
+582,56035,Graying America,128348
+583,56037,Graying America,128348
+584,56039,Graying America,128348
+585,56045,Graying America,128348
+586,01005,African American South,39954
+587,01011,African American South,39954
+588,01013,African American South,39954
+589,01017,African American South,39954
+590,01023,African American South,39954
+591,01025,African American South,39954
+592,01035,African American South,39954
+593,01037,African American South,39954
+594,01047,African American South,39954
+595,01053,African American South,39954
+596,01063,African American South,39954
+597,01065,African American South,39954
+598,01069,African American South,39954
+599,01073,African American South,39954
+600,01081,African American South,39954
+601,01085,African American South,39954
+602,01087,African American South,39954
+603,01091,African American South,39954
+604,01097,African American South,39954
+605,01099,African American South,39954
+606,01101,African American South,39954
+607,01105,African American South,39954
+608,01107,African American South,39954
+609,01109,African American South,39954
+610,01113,African American South,39954
+611,01119,African American South,39954
+612,01125,African American South,39954
+613,01131,African American South,39954
+614,05003,African American South,39954
+615,05011,African American South,39954
+616,05013,African American South,39954
+617,05017,African American South,39954
+618,05027,African American South,39954
+619,05035,African American South,39954
+620,05039,African American South,39954
+621,05041,African American South,39954
+622,05043,African American South,39954
+623,05057,African American South,39954
+624,05061,African American South,39954
+625,05069,African American South,39954
+626,05073,African American South,39954
+627,05077,African American South,39954
+628,05079,African American South,39954
+629,05091,African American South,39954
+630,05093,African American South,39954
+631,05095,African American South,39954
+632,05099,African American South,39954
+633,05103,African American South,39954
+634,05107,African American South,39954
+635,05123,African American South,39954
+636,05139,African American South,39954
+637,12007,African American South,39954
+638,12013,African American South,39954
+639,12023,African American South,39954
+640,12037,African American South,39954
+641,12039,African American South,39954
+642,12047,African American South,39954
+643,12065,African American South,39954
+644,12075,African American South,39954
+645,12077,African American South,39954
+646,12079,African American South,39954
+647,12107,African American South,39954
+648,12121,African American South,39954
+649,12123,African American South,39954
+650,12133,African American South,39954
+651,13007,African American South,39954
+652,13009,African American South,39954
+653,13017,African American South,39954
+654,13021,African American South,39954
+655,13023,African American South,39954
+656,13027,African American South,39954
+657,13031,African American South,39954
+658,13033,African American South,39954
+659,13035,African American South,39954
+660,13037,African American South,39954
+661,13043,African American South,39954
+662,13049,African American South,39954
+663,13061,African American South,39954
+664,13063,African American South,39954
+665,13065,African American South,39954
+666,13069,African American South,39954
+667,13071,African American South,39954
+668,13075,African American South,39954
+669,13079,African American South,39954
+670,13081,African American South,39954
+671,13087,African American South,39954
+672,13091,African American South,39954
+673,13093,African American South,39954
+674,13095,African American South,39954
+675,13099,African American South,39954
+676,13105,African American South,39954
+677,13107,African American South,39954
+678,13109,African American South,39954
+679,13131,African American South,39954
+680,13133,African American South,39954
+681,13141,African American South,39954
+682,13159,African American South,39954
+683,13163,African American South,39954
+684,13165,African American South,39954
+685,13167,African American South,39954
+686,13169,African American South,39954
+687,13171,African American South,39954
+688,13175,African American South,39954
+689,13181,African American South,39954
+690,13185,African American South,39954
+691,13189,African American South,39954
+692,13191,African American South,39954
+693,13193,African American South,39954
+694,13197,African American South,39954
+695,13199,African American South,39954
+696,13201,African American South,39954
+697,13205,African American South,39954
+698,13207,African American South,39954
+699,13209,African American South,39954
+700,13211,African American South,39954
+701,13215,African American South,39954
+702,13221,African American South,39954
+703,13225,African American South,39954
+704,13235,African American South,39954
+705,13237,African American South,39954
+706,13239,African American South,39954
+707,13243,African American South,39954
+708,13245,African American South,39954
+709,13249,African American South,39954
+710,13251,African American South,39954
+711,13253,African American South,39954
+712,13255,African American South,39954
+713,13259,African American South,39954
+714,13261,African American South,39954
+715,13263,African American South,39954
+716,13265,African American South,39954
+717,13267,African American South,39954
+718,13269,African American South,39954
+719,13271,African American South,39954
+720,13273,African American South,39954
+721,13275,African American South,39954
+722,13277,African American South,39954
+723,13283,African American South,39954
+724,13285,African American South,39954
+725,13287,African American South,39954
+726,13289,African American South,39954
+727,13299,African American South,39954
+728,13301,African American South,39954
+729,13303,African American South,39954
+730,13307,African American South,39954
+731,13309,African American South,39954
+732,13315,African American South,39954
+733,13317,African American South,39954
+734,13319,African American South,39954
+735,17003,African American South,39954
+736,17153,African American South,39954
+737,20209,African American South,39954
+738,21075,African American South,39954
+739,22001,African American South,39954
+740,22003,African American South,39954
+741,22007,African American South,39954
+742,22009,African American South,39954
+743,22013,African American South,39954
+744,22017,African American South,39954
+745,22027,African American South,39954
+746,22029,African American South,39954
+747,22031,African American South,39954
+748,22035,African American South,39954
+749,22037,African American South,39954
+750,22039,African American South,39954
+751,22045,African American South,39954
+752,22047,African American South,39954
+753,22053,African American South,39954
+754,22057,African American South,39954
+755,22061,African American South,39954
+756,22065,African American South,39954
+757,22067,African American South,39954
+758,22069,African American South,39954
+759,22071,African American South,39954
+760,22073,African American South,39954
+761,22077,African American South,39954
+762,22079,African American South,39954
+763,22081,African American South,39954
+764,22083,African American South,39954
+765,22089,African American South,39954
+766,22091,African American South,39954
+767,22093,African American South,39954
+768,22095,African American South,39954
+769,22097,African American South,39954
+770,22099,African American South,39954
+771,22101,African American South,39954
+772,22107,African American South,39954
+773,22109,African American South,39954
+774,22113,African American South,39954
+775,22117,African American South,39954
+776,22119,African American South,39954
+777,22125,African American South,39954
+778,24019,African American South,39954
+779,28001,African American South,39954
+780,28005,African American South,39954
+781,28007,African American South,39954
+782,28011,African American South,39954
+783,28013,African American South,39954
+784,28015,African American South,39954
+785,28017,African American South,39954
+786,28021,African American South,39954
+787,28025,African American South,39954
+788,28027,African American South,39954
+789,28029,African American South,39954
+790,28031,African American South,39954
+791,28035,African American South,39954
+792,28043,African American South,39954
+793,28049,African American South,39954
+794,28051,African American South,39954
+795,28053,African American South,39954
+796,28055,African American South,39954
+797,28061,African American South,39954
+798,28063,African American South,39954
+799,28065,African American South,39954
+800,28067,African American South,39954
+801,28069,African American South,39954
+802,28075,African American South,39954
+803,28081,African American South,39954
+804,28083,African American South,39954
+805,28085,African American South,39954
+806,28087,African American South,39954
+807,28093,African American South,39954
+808,28095,African American South,39954
+809,28097,African American South,39954
+810,28101,African American South,39954
+811,28103,African American South,39954
+812,28107,African American South,39954
+813,28113,African American South,39954
+814,28119,African American South,39954
+815,28125,African American South,39954
+816,28133,African American South,39954
+817,28135,African American South,39954
+818,28137,African American South,39954
+819,28143,African American South,39954
+820,28147,African American South,39954
+821,28149,African American South,39954
+822,28151,African American South,39954
+823,28157,African American South,39954
+824,28159,African American South,39954
+825,28161,African American South,39954
+826,28163,African American South,39954
+827,29133,African American South,39954
+828,29155,African American South,39954
+829,37007,African American South,39954
+830,37015,African American South,39954
+831,37017,African American South,39954
+832,37033,African American South,39954
+833,37041,African American South,39954
+834,37047,African American South,39954
+835,37061,African American South,39954
+836,37065,African American South,39954
+837,37069,African American South,39954
+838,37077,African American South,39954
+839,37079,African American South,39954
+840,37083,African American South,39954
+841,37091,African American South,39954
+842,37095,African American South,39954
+843,37103,African American South,39954
+844,37105,African American South,39954
+845,37107,African American South,39954
+846,37117,African American South,39954
+847,37123,African American South,39954
+848,37127,African American South,39954
+849,37131,African American South,39954
+850,37137,African American South,39954
+851,37141,African American South,39954
+852,37143,African American South,39954
+853,37145,African American South,39954
+854,37147,African American South,39954
+855,37153,African American South,39954
+856,37157,African American South,39954
+857,37159,African American South,39954
+858,37163,African American South,39954
+859,37165,African American South,39954
+860,37177,African American South,39954
+861,37181,African American South,39954
+862,37185,African American South,39954
+863,37187,African American South,39954
+864,37195,African American South,39954
+865,45001,African American South,39954
+866,45003,African American South,39954
+867,45005,African American South,39954
+868,45009,African American South,39954
+869,45011,African American South,39954
+870,45017,African American South,39954
+871,45023,African American South,39954
+872,45025,African American South,39954
+873,45027,African American South,39954
+874,45029,African American South,39954
+875,45031,African American South,39954
+876,45033,African American South,39954
+877,45037,African American South,39954
+878,45039,African American South,39954
+879,45041,African American South,39954
+880,45043,African American South,39954
+881,45049,African American South,39954
+882,45053,African American South,39954
+883,45055,African American South,39954
+884,45057,African American South,39954
+885,45061,African American South,39954
+886,45065,African American South,39954
+887,45067,African American South,39954
+888,45069,African American South,39954
+889,45071,African American South,39954
+890,45075,African American South,39954
+891,45079,African American South,39954
+892,45081,African American South,39954
+893,45085,African American South,39954
+894,45087,African American South,39954
+895,45089,African American South,39954
+896,47069,African American South,39954
+897,47075,African American South,39954
+898,47095,African American South,39954
+899,47097,African American South,39954
+900,47113,African American South,39954
+901,47157,African American South,39954
+902,48001,African American South,39954
+903,48005,African American South,39954
+904,48037,African American South,39954
+905,48063,African American South,39954
+906,48073,African American South,39954
+907,48145,African American South,39954
+908,48185,African American South,39954
+909,48203,African American South,39954
+910,48225,African American South,39954
+911,48245,African American South,39954
+912,48313,African American South,39954
+913,48315,African American South,39954
+914,48349,African American South,39954
+915,48351,African American South,39954
+916,48373,African American South,39954
+917,48395,African American South,39954
+918,48405,African American South,39954
+919,48407,African American South,39954
+920,48419,African American South,39954
+921,51001,African American South,39954
+922,51009,African American South,39954
+923,51011,African American South,39954
+924,51025,African American South,39954
+925,51029,African American South,39954
+926,51031,African American South,39954
+927,51036,African American South,39954
+928,51049,African American South,39954
+929,51053,African American South,39954
+930,51057,African American South,39954
+931,51081,African American South,39954
+932,51083,African American South,39954
+933,51089,African American South,39954
+934,51097,African American South,39954
+935,51111,African American South,39954
+936,51117,African American South,39954
+937,51131,African American South,39954
+938,51135,African American South,39954
+939,51143,African American South,39954
+940,51159,African American South,39954
+941,51175,African American South,39954
+942,51181,African American South,39954
+943,51183,African American South,39954
+944,51193,African American South,39954
+945,51590,African American South,39954
+946,51595,African American South,39954
+947,51620,African American South,39954
+948,51650,African American South,39954
+949,51670,African American South,39954
+950,51690,African American South,39954
+951,51700,African American South,39954
+952,51710,African American South,39954
+953,51730,African American South,39954
+954,51740,African American South,39954
+955,51760,African American South,39954
+956,01007,Evangelical Hubs,140394
+957,01009,Evangelical Hubs,140394
+958,01015,Evangelical Hubs,140394
+959,01021,Evangelical Hubs,140394
+960,01027,Evangelical Hubs,140394
+961,01029,Evangelical Hubs,140394
+962,01033,Evangelical Hubs,140394
+963,01039,Evangelical Hubs,140394
+964,01041,Evangelical Hubs,140394
+965,01043,Evangelical Hubs,140394
+966,01049,Evangelical Hubs,140394
+967,01055,Evangelical Hubs,140394
+968,01057,Evangelical Hubs,140394
+969,01059,Evangelical Hubs,140394
+970,01061,Evangelical Hubs,140394
+971,01067,Evangelical Hubs,140394
+972,01071,Evangelical Hubs,140394
+973,01075,Evangelical Hubs,140394
+974,01077,Evangelical Hubs,140394
+975,01079,Evangelical Hubs,140394
+976,01093,Evangelical Hubs,140394
+977,01095,Evangelical Hubs,140394
+978,01103,Evangelical Hubs,140394
+979,01111,Evangelical Hubs,140394
+980,01121,Evangelical Hubs,140394
+981,01123,Evangelical Hubs,140394
+982,01127,Evangelical Hubs,140394
+983,01129,Evangelical Hubs,140394
+984,01133,Evangelical Hubs,140394
+985,05001,Evangelical Hubs,140394
+986,05009,Evangelical Hubs,140394
+987,05025,Evangelical Hubs,140394
+988,05029,Evangelical Hubs,140394
+989,05033,Evangelical Hubs,140394
+990,05037,Evangelical Hubs,140394
+991,05051,Evangelical Hubs,140394
+992,05053,Evangelical Hubs,140394
+993,05055,Evangelical Hubs,140394
+994,05059,Evangelical Hubs,140394
+995,05063,Evangelical Hubs,140394
+996,05067,Evangelical Hubs,140394
+997,05071,Evangelical Hubs,140394
+998,05081,Evangelical Hubs,140394
+999,05083,Evangelical Hubs,140394
+1000,05109,Evangelical Hubs,140394
+1001,05111,Evangelical Hubs,140394
+1002,05115,Evangelical Hubs,140394
+1003,05127,Evangelical Hubs,140394
+1004,05131,Evangelical Hubs,140394
+1005,05145,Evangelical Hubs,140394
+1006,05147,Evangelical Hubs,140394
+1007,12041,Evangelical Hubs,140394
+1008,12059,Evangelical Hubs,140394
+1009,13001,Evangelical Hubs,140394
+1010,13005,Evangelical Hubs,140394
+1011,13011,Evangelical Hubs,140394
+1012,13025,Evangelical Hubs,140394
+1013,13055,Evangelical Hubs,140394
+1014,13115,Evangelical Hubs,140394
+1015,13119,Evangelical Hubs,140394
+1016,13125,Evangelical Hubs,140394
+1017,13137,Evangelical Hubs,140394
+1018,13143,Evangelical Hubs,140394
+1019,13147,Evangelical Hubs,140394
+1020,13149,Evangelical Hubs,140394
+1021,13155,Evangelical Hubs,140394
+1022,13161,Evangelical Hubs,140394
+1023,13195,Evangelical Hubs,140394
+1024,13229,Evangelical Hubs,140394
+1025,13233,Evangelical Hubs,140394
+1026,13257,Evangelical Hubs,140394
+1027,13279,Evangelical Hubs,140394
+1028,13293,Evangelical Hubs,140394
+1029,13295,Evangelical Hubs,140394
+1030,13305,Evangelical Hubs,140394
+1031,13321,Evangelical Hubs,140394
+1032,17001,Evangelical Hubs,140394
+1033,17025,Evangelical Hubs,140394
+1034,17055,Evangelical Hubs,140394
+1035,17081,Evangelical Hubs,140394
+1036,17121,Evangelical Hubs,140394
+1037,17127,Evangelical Hubs,140394
+1038,17157,Evangelical Hubs,140394
+1039,17165,Evangelical Hubs,140394
+1040,17177,Evangelical Hubs,140394
+1041,17181,Evangelical Hubs,140394
+1042,17199,Evangelical Hubs,140394
+1043,18001,Evangelical Hubs,140394
+1044,18027,Evangelical Hubs,140394
+1045,18087,Evangelical Hubs,140394
+1046,20035,Evangelical Hubs,140394
+1047,20099,Evangelical Hubs,140394
+1048,20125,Evangelical Hubs,140394
+1049,21007,Evangelical Hubs,140394
+1050,21009,Evangelical Hubs,140394
+1051,21013,Evangelical Hubs,140394
+1052,21017,Evangelical Hubs,140394
+1053,21019,Evangelical Hubs,140394
+1054,21021,Evangelical Hubs,140394
+1055,21023,Evangelical Hubs,140394
+1056,21027,Evangelical Hubs,140394
+1057,21031,Evangelical Hubs,140394
+1058,21033,Evangelical Hubs,140394
+1059,21041,Evangelical Hubs,140394
+1060,21049,Evangelical Hubs,140394
+1061,21051,Evangelical Hubs,140394
+1062,21053,Evangelical Hubs,140394
+1063,21059,Evangelical Hubs,140394
+1064,21077,Evangelical Hubs,140394
+1065,21079,Evangelical Hubs,140394
+1066,21083,Evangelical Hubs,140394
+1067,21085,Evangelical Hubs,140394
+1068,21087,Evangelical Hubs,140394
+1069,21091,Evangelical Hubs,140394
+1070,21097,Evangelical Hubs,140394
+1071,21099,Evangelical Hubs,140394
+1072,21101,Evangelical Hubs,140394
+1073,21103,Evangelical Hubs,140394
+1074,21105,Evangelical Hubs,140394
+1075,21107,Evangelical Hubs,140394
+1076,21121,Evangelical Hubs,140394
+1077,21123,Evangelical Hubs,140394
+1078,21125,Evangelical Hubs,140394
+1079,21137,Evangelical Hubs,140394
+1080,21141,Evangelical Hubs,140394
+1081,21145,Evangelical Hubs,140394
+1082,21149,Evangelical Hubs,140394
+1083,21155,Evangelical Hubs,140394
+1084,21161,Evangelical Hubs,140394
+1085,21167,Evangelical Hubs,140394
+1086,21169,Evangelical Hubs,140394
+1087,21171,Evangelical Hubs,140394
+1088,21177,Evangelical Hubs,140394
+1089,21183,Evangelical Hubs,140394
+1090,21187,Evangelical Hubs,140394
+1091,21191,Evangelical Hubs,140394
+1092,21197,Evangelical Hubs,140394
+1093,21199,Evangelical Hubs,140394
+1094,21203,Evangelical Hubs,140394
+1095,21213,Evangelical Hubs,140394
+1096,21217,Evangelical Hubs,140394
+1097,21219,Evangelical Hubs,140394
+1098,21221,Evangelical Hubs,140394
+1099,21225,Evangelical Hubs,140394
+1100,21229,Evangelical Hubs,140394
+1101,21233,Evangelical Hubs,140394
+1102,21235,Evangelical Hubs,140394
+1103,22011,Evangelical Hubs,140394
+1104,22021,Evangelical Hubs,140394
+1105,22025,Evangelical Hubs,140394
+1106,22041,Evangelical Hubs,140394
+1107,22043,Evangelical Hubs,140394
+1108,22049,Evangelical Hubs,140394
+1109,22059,Evangelical Hubs,140394
+1110,22085,Evangelical Hubs,140394
+1111,22111,Evangelical Hubs,140394
+1112,22123,Evangelical Hubs,140394
+1113,22127,Evangelical Hubs,140394
+1114,28003,Evangelical Hubs,140394
+1115,28009,Evangelical Hubs,140394
+1116,28019,Evangelical Hubs,140394
+1117,28023,Evangelical Hubs,140394
+1118,28037,Evangelical Hubs,140394
+1119,28039,Evangelical Hubs,140394
+1120,28041,Evangelical Hubs,140394
+1121,28057,Evangelical Hubs,140394
+1122,28077,Evangelical Hubs,140394
+1123,28079,Evangelical Hubs,140394
+1124,28091,Evangelical Hubs,140394
+1125,28099,Evangelical Hubs,140394
+1126,28109,Evangelical Hubs,140394
+1127,28111,Evangelical Hubs,140394
+1128,28115,Evangelical Hubs,140394
+1129,28117,Evangelical Hubs,140394
+1130,28123,Evangelical Hubs,140394
+1131,28127,Evangelical Hubs,140394
+1132,28129,Evangelical Hubs,140394
+1133,28139,Evangelical Hubs,140394
+1134,28141,Evangelical Hubs,140394
+1135,28145,Evangelical Hubs,140394
+1136,28153,Evangelical Hubs,140394
+1137,28155,Evangelical Hubs,140394
+1138,29009,Evangelical Hubs,140394
+1139,29023,Evangelical Hubs,140394
+1140,29053,Evangelical Hubs,140394
+1141,29065,Evangelical Hubs,140394
+1142,29069,Evangelical Hubs,140394
+1143,29079,Evangelical Hubs,140394
+1144,29083,Evangelical Hubs,140394
+1145,29097,Evangelical Hubs,140394
+1146,29105,Evangelical Hubs,140394
+1147,29107,Evangelical Hubs,140394
+1148,29109,Evangelical Hubs,140394
+1149,29117,Evangelical Hubs,140394
+1150,29131,Evangelical Hubs,140394
+1151,29135,Evangelical Hubs,140394
+1152,29143,Evangelical Hubs,140394
+1153,29145,Evangelical Hubs,140394
+1154,29159,Evangelical Hubs,140394
+1155,29163,Evangelical Hubs,140394
+1156,29175,Evangelical Hubs,140394
+1157,29187,Evangelical Hubs,140394
+1158,29195,Evangelical Hubs,140394
+1159,29201,Evangelical Hubs,140394
+1160,29217,Evangelical Hubs,140394
+1161,29229,Evangelical Hubs,140394
+1162,30083,Evangelical Hubs,140394
+1163,31073,Evangelical Hubs,140394
+1164,37003,Evangelical Hubs,140394
+1165,37013,Evangelical Hubs,140394
+1166,37023,Evangelical Hubs,140394
+1167,37027,Evangelical Hubs,140394
+1168,37035,Evangelical Hubs,140394
+1169,37045,Evangelical Hubs,140394
+1170,37071,Evangelical Hubs,140394
+1171,37073,Evangelical Hubs,140394
+1172,37111,Evangelical Hubs,140394
+1173,37115,Evangelical Hubs,140394
+1174,37161,Evangelical Hubs,140394
+1175,37167,Evangelical Hubs,140394
+1176,37171,Evangelical Hubs,140394
+1177,37193,Evangelical Hubs,140394
+1178,37197,Evangelical Hubs,140394
+1179,38057,Evangelical Hubs,140394
+1180,38105,Evangelical Hubs,140394
+1181,39075,Evangelical Hubs,140394
+1182,40005,Evangelical Hubs,140394
+1183,40007,Evangelical Hubs,140394
+1184,40009,Evangelical Hubs,140394
+1185,40013,Evangelical Hubs,140394
+1186,40015,Evangelical Hubs,140394
+1187,40019,Evangelical Hubs,140394
+1188,40023,Evangelical Hubs,140394
+1189,40029,Evangelical Hubs,140394
+1190,40033,Evangelical Hubs,140394
+1191,40035,Evangelical Hubs,140394
+1192,40037,Evangelical Hubs,140394
+1193,40043,Evangelical Hubs,140394
+1194,40045,Evangelical Hubs,140394
+1195,40049,Evangelical Hubs,140394
+1196,40051,Evangelical Hubs,140394
+1197,40061,Evangelical Hubs,140394
+1198,40063,Evangelical Hubs,140394
+1199,40067,Evangelical Hubs,140394
+1200,40069,Evangelical Hubs,140394
+1201,40071,Evangelical Hubs,140394
+1202,40073,Evangelical Hubs,140394
+1203,40075,Evangelical Hubs,140394
+1204,40077,Evangelical Hubs,140394
+1205,40079,Evangelical Hubs,140394
+1206,40081,Evangelical Hubs,140394
+1207,40085,Evangelical Hubs,140394
+1208,40087,Evangelical Hubs,140394
+1209,40089,Evangelical Hubs,140394
+1210,40093,Evangelical Hubs,140394
+1211,40097,Evangelical Hubs,140394
+1212,40099,Evangelical Hubs,140394
+1213,40101,Evangelical Hubs,140394
+1214,40103,Evangelical Hubs,140394
+1215,40105,Evangelical Hubs,140394
+1216,40107,Evangelical Hubs,140394
+1217,40111,Evangelical Hubs,140394
+1218,40113,Evangelical Hubs,140394
+1219,40115,Evangelical Hubs,140394
+1220,40117,Evangelical Hubs,140394
+1221,40121,Evangelical Hubs,140394
+1222,40125,Evangelical Hubs,140394
+1223,40127,Evangelical Hubs,140394
+1224,40129,Evangelical Hubs,140394
+1225,40133,Evangelical Hubs,140394
+1226,40135,Evangelical Hubs,140394
+1227,40137,Evangelical Hubs,140394
+1228,40147,Evangelical Hubs,140394
+1229,40149,Evangelical Hubs,140394
+1230,40153,Evangelical Hubs,140394
+1231,45007,Evangelical Hubs,140394
+1232,45021,Evangelical Hubs,140394
+1233,45047,Evangelical Hubs,140394
+1234,45059,Evangelical Hubs,140394
+1235,45073,Evangelical Hubs,140394
+1236,45083,Evangelical Hubs,140394
+1237,47001,Evangelical Hubs,140394
+1238,47005,Evangelical Hubs,140394
+1239,47011,Evangelical Hubs,140394
+1240,47017,Evangelical Hubs,140394
+1241,47019,Evangelical Hubs,140394
+1242,47023,Evangelical Hubs,140394
+1243,47025,Evangelical Hubs,140394
+1244,47031,Evangelical Hubs,140394
+1245,47033,Evangelical Hubs,140394
+1246,47039,Evangelical Hubs,140394
+1247,47041,Evangelical Hubs,140394
+1248,47045,Evangelical Hubs,140394
+1249,47051,Evangelical Hubs,140394
+1250,47053,Evangelical Hubs,140394
+1251,47055,Evangelical Hubs,140394
+1252,47057,Evangelical Hubs,140394
+1253,47059,Evangelical Hubs,140394
+1254,47063,Evangelical Hubs,140394
+1255,47067,Evangelical Hubs,140394
+1256,47071,Evangelical Hubs,140394
+1257,47073,Evangelical Hubs,140394
+1258,47077,Evangelical Hubs,140394
+1259,47079,Evangelical Hubs,140394
+1260,47085,Evangelical Hubs,140394
+1261,47089,Evangelical Hubs,140394
+1262,47091,Evangelical Hubs,140394
+1263,47099,Evangelical Hubs,140394
+1264,47103,Evangelical Hubs,140394
+1265,47107,Evangelical Hubs,140394
+1266,47109,Evangelical Hubs,140394
+1267,47117,Evangelical Hubs,140394
+1268,47121,Evangelical Hubs,140394
+1269,47123,Evangelical Hubs,140394
+1270,47129,Evangelical Hubs,140394
+1271,47131,Evangelical Hubs,140394
+1272,47139,Evangelical Hubs,140394
+1273,47143,Evangelical Hubs,140394
+1274,47145,Evangelical Hubs,140394
+1275,47153,Evangelical Hubs,140394
+1276,47161,Evangelical Hubs,140394
+1277,47163,Evangelical Hubs,140394
+1278,47177,Evangelical Hubs,140394
+1279,47183,Evangelical Hubs,140394
+1280,48009,Evangelical Hubs,140394
+1281,48011,Evangelical Hubs,140394
+1282,48049,Evangelical Hubs,140394
+1283,48065,Evangelical Hubs,140394
+1284,48067,Evangelical Hubs,140394
+1285,48077,Evangelical Hubs,140394
+1286,48119,Evangelical Hubs,140394
+1287,48133,Evangelical Hubs,140394
+1288,48147,Evangelical Hubs,140394
+1289,48179,Evangelical Hubs,140394
+1290,48181,Evangelical Hubs,140394
+1291,48199,Evangelical Hubs,140394
+1292,48211,Evangelical Hubs,140394
+1293,48223,Evangelical Hubs,140394
+1294,48231,Evangelical Hubs,140394
+1295,48233,Evangelical Hubs,140394
+1296,48237,Evangelical Hubs,140394
+1297,48239,Evangelical Hubs,140394
+1298,48241,Evangelical Hubs,140394
+1299,48277,Evangelical Hubs,140394
+1300,48287,Evangelical Hubs,140394
+1301,48291,Evangelical Hubs,140394
+1302,48343,Evangelical Hubs,140394
+1303,48361,Evangelical Hubs,140394
+1304,48365,Evangelical Hubs,140394
+1305,48387,Evangelical Hubs,140394
+1306,48399,Evangelical Hubs,140394
+1307,48401,Evangelical Hubs,140394
+1308,48417,Evangelical Hubs,140394
+1309,48429,Evangelical Hubs,140394
+1310,48457,Evangelical Hubs,140394
+1311,48459,Evangelical Hubs,140394
+1312,48467,Evangelical Hubs,140394
+1313,48487,Evangelical Hubs,140394
+1314,48503,Evangelical Hubs,140394
+1315,51037,Evangelical Hubs,140394
+1316,51105,Evangelical Hubs,140394
+1317,51191,Evangelical Hubs,140394
+1318,51515,Evangelical Hubs,140394
+1319,51520,Evangelical Hubs,140394
+1320,51530,Evangelical Hubs,140394
+1321,51570,Evangelical Hubs,140394
+1322,51580,Evangelical Hubs,140394
+1323,51640,Evangelical Hubs,140394
+1324,51720,Evangelical Hubs,140394
+1325,51770,Evangelical Hubs,140394
+1326,51820,Evangelical Hubs,140394
+1327,56043,Evangelical Hubs,140394
+1328,01019,Working Class Country,54507
+1329,05005,Working Class Country,54507
+1330,05015,Working Class Country,54507
+1331,05021,Working Class Country,54507
+1332,05023,Working Class Country,54507
+1333,05047,Working Class Country,54507
+1334,05049,Working Class Country,54507
+1335,05065,Working Class Country,54507
+1336,05075,Working Class Country,54507
+1337,05089,Working Class Country,54507
+1338,05101,Working Class Country,54507
+1339,05105,Working Class Country,54507
+1340,05113,Working Class Country,54507
+1341,05117,Working Class Country,54507
+1342,05121,Working Class Country,54507
+1343,05129,Working Class Country,54507
+1344,05135,Working Class Country,54507
+1345,05137,Working Class Country,54507
+1346,05141,Working Class Country,54507
+1347,08115,Working Class Country,54507
+1348,12029,Working Class Country,54507
+1349,13019,Working Class Country,54507
+1350,13111,Working Class Country,54507
+1351,13123,Working Class Country,54507
+1352,13129,Working Class Country,54507
+1353,13213,Working Class Country,54507
+1354,13241,Working Class Country,54507
+1355,13291,Working Class Country,54507
+1356,13311,Working Class Country,54507
+1357,16021,Working Class Country,54507
+1358,16049,Working Class Country,54507
+1359,16079,Working Class Country,54507
+1360,17013,Working Class Country,54507
+1361,17023,Working Class Country,54507
+1362,17047,Working Class Country,54507
+1363,17059,Working Class Country,54507
+1364,17065,Working Class Country,54507
+1365,17069,Working Class Country,54507
+1366,17071,Working Class Country,54507
+1367,17085,Working Class Country,54507
+1368,17149,Working Class Country,54507
+1369,17151,Working Class Country,54507
+1370,17191,Working Class Country,54507
+1371,17193,Working Class Country,54507
+1372,18025,Working Class Country,54507
+1373,18039,Working Class Country,54507
+1374,18079,Working Class Country,54507
+1375,18117,Working Class Country,54507
+1376,18119,Working Class Country,54507
+1377,18121,Working Class Country,54507
+1378,18143,Working Class Country,54507
+1379,18145,Working Class Country,54507
+1380,18149,Working Class Country,54507
+1381,18151,Working Class Country,54507
+1382,18155,Working Class Country,54507
+1383,18175,Working Class Country,54507
+1384,18181,Working Class Country,54507
+1385,19005,Working Class Country,54507
+1386,19007,Working Class Country,54507
+1387,19059,Working Class Country,54507
+1388,19185,Working Class Country,54507
+1389,20017,Working Class Country,54507
+1390,20019,Working Class Country,54507
+1391,20049,Working Class Country,54507
+1392,20073,Working Class Country,54507
+1393,20105,Working Class Country,54507
+1394,20205,Working Class Country,54507
+1395,20207,Working Class Country,54507
+1396,21001,Working Class Country,54507
+1397,21003,Working Class Country,54507
+1398,21011,Working Class Country,54507
+1399,21025,Working Class Country,54507
+1400,21039,Working Class Country,54507
+1401,21043,Working Class Country,54507
+1402,21045,Working Class Country,54507
+1403,21055,Working Class Country,54507
+1404,21057,Working Class Country,54507
+1405,21061,Working Class Country,54507
+1406,21063,Working Class Country,54507
+1407,21065,Working Class Country,54507
+1408,21071,Working Class Country,54507
+1409,21095,Working Class Country,54507
+1410,21109,Working Class Country,54507
+1411,21115,Working Class Country,54507
+1412,21119,Working Class Country,54507
+1413,21127,Working Class Country,54507
+1414,21129,Working Class Country,54507
+1415,21131,Working Class Country,54507
+1416,21133,Working Class Country,54507
+1417,21135,Working Class Country,54507
+1418,21139,Working Class Country,54507
+1419,21147,Working Class Country,54507
+1420,21153,Working Class Country,54507
+1421,21157,Working Class Country,54507
+1422,21159,Working Class Country,54507
+1423,21165,Working Class Country,54507
+1424,21173,Working Class Country,54507
+1425,21175,Working Class Country,54507
+1426,21181,Working Class Country,54507
+1427,21189,Working Class Country,54507
+1428,21193,Working Class Country,54507
+1429,21195,Working Class Country,54507
+1430,21207,Working Class Country,54507
+1431,21231,Working Class Country,54507
+1432,21237,Working Class Country,54507
+1433,24023,Working Class Country,54507
+1434,24029,Working Class Country,54507
+1435,26023,Working Class Country,54507
+1436,26027,Working Class Country,54507
+1437,26059,Working Class Country,54507
+1438,26063,Working Class Country,54507
+1439,26067,Working Class Country,54507
+1440,26091,Working Class Country,54507
+1441,26105,Working Class Country,54507
+1442,26113,Working Class Country,54507
+1443,26117,Working Class Country,54507
+1444,26123,Working Class Country,54507
+1445,26133,Working Class Country,54507
+1446,26147,Working Class Country,54507
+1447,26149,Working Class Country,54507
+1448,26151,Working Class Country,54507
+1449,26155,Working Class Country,54507
+1450,26159,Working Class Country,54507
+1451,26165,Working Class Country,54507
+1452,27005,Working Class Country,54507
+1453,27029,Working Class Country,54507
+1454,27035,Working Class Country,54507
+1455,27041,Working Class Country,54507
+1456,27065,Working Class Country,54507
+1457,27075,Working Class Country,54507
+1458,27111,Working Class Country,54507
+1459,27115,Working Class Country,54507
+1460,27121,Working Class Country,54507
+1461,27159,Working Class Country,54507
+1462,29033,Working Class Country,54507
+1463,29035,Working Class Country,54507
+1464,29039,Working Class Country,54507
+1465,29055,Working Class Country,54507
+1466,29057,Working Class Country,54507
+1467,29059,Working Class Country,54507
+1468,29061,Working Class Country,54507
+1469,29067,Working Class Country,54507
+1470,29073,Working Class Country,54507
+1471,29075,Working Class Country,54507
+1472,29081,Working Class Country,54507
+1473,29093,Working Class Country,54507
+1474,29111,Working Class Country,54507
+1475,29115,Working Class Country,54507
+1476,29119,Working Class Country,54507
+1477,29121,Working Class Country,54507
+1478,29123,Working Class Country,54507
+1479,29125,Working Class Country,54507
+1480,29137,Working Class Country,54507
+1481,29139,Working Class Country,54507
+1482,29149,Working Class Country,54507
+1483,29153,Working Class Country,54507
+1484,29179,Working Class Country,54507
+1485,29181,Working Class Country,54507
+1486,29185,Working Class Country,54507
+1487,29186,Working Class Country,54507
+1488,29197,Working Class Country,54507
+1489,29203,Working Class Country,54507
+1490,29205,Working Class Country,54507
+1491,29207,Working Class Country,54507
+1492,29215,Working Class Country,54507
+1493,29221,Working Class Country,54507
+1494,29223,Working Class Country,54507
+1495,30053,Working Class Country,54507
+1496,30061,Working Class Country,54507
+1497,30089,Working Class Country,54507
+1498,31097,Working Class Country,54507
+1499,35027,Working Class Country,54507
+1500,36049,Working Class Country,54507
+1501,36097,Working Class Country,54507
+1502,37009,Working Class Country,54507
+1503,37043,Working Class Country,54507
+1504,37057,Working Class Country,54507
+1505,37075,Working Class Country,54507
+1506,37087,Working Class Country,54507
+1507,37089,Working Class Country,54507
+1508,37113,Working Class Country,54507
+1509,37121,Working Class Country,54507
+1510,37125,Working Class Country,54507
+1511,37149,Working Class Country,54507
+1512,37151,Working Class Country,54507
+1513,37175,Working Class Country,54507
+1514,37199,Working Class Country,54507
+1515,39001,Working Class Country,54507
+1516,39015,Working Class Country,54507
+1517,39021,Working Class Country,54507
+1518,39027,Working Class Country,54507
+1519,39067,Working Class Country,54507
+1520,39071,Working Class Country,54507
+1521,39073,Working Class Country,54507
+1522,39077,Working Class Country,54507
+1523,39079,Working Class Country,54507
+1524,39087,Working Class Country,54507
+1525,39091,Working Class Country,54507
+1526,39105,Working Class Country,54507
+1527,39111,Working Class Country,54507
+1528,39115,Working Class Country,54507
+1529,39121,Working Class Country,54507
+1530,39123,Working Class Country,54507
+1531,39127,Working Class Country,54507
+1532,39131,Working Class Country,54507
+1533,39141,Working Class Country,54507
+1534,39145,Working Class Country,54507
+1535,39163,Working Class Country,54507
+1536,40041,Working Class Country,54507
+1537,40091,Working Class Country,54507
+1538,40095,Working Class Country,54507
+1539,42025,Working Class Country,54507
+1540,42059,Working Class Country,54507
+1541,42123,Working Class Country,54507
+1542,42127,Working Class Country,54507
+1543,47003,Working Class Country,54507
+1544,47007,Working Class Country,54507
+1545,47013,Working Class Country,54507
+1546,47015,Working Class Country,54507
+1547,47027,Working Class Country,54507
+1548,47029,Working Class Country,54507
+1549,47035,Working Class Country,54507
+1550,47049,Working Class Country,54507
+1551,47061,Working Class Country,54507
+1552,47081,Working Class Country,54507
+1553,47083,Working Class Country,54507
+1554,47087,Working Class Country,54507
+1555,47101,Working Class Country,54507
+1556,47105,Working Class Country,54507
+1557,47111,Working Class Country,54507
+1558,47115,Working Class Country,54507
+1559,47127,Working Class Country,54507
+1560,47135,Working Class Country,54507
+1561,47137,Working Class Country,54507
+1562,47151,Working Class Country,54507
+1563,47159,Working Class Country,54507
+1564,47169,Working Class Country,54507
+1565,47171,Working Class Country,54507
+1566,47173,Working Class Country,54507
+1567,47175,Working Class Country,54507
+1568,47181,Working Class Country,54507
+1569,47185,Working Class Country,54507
+1570,48007,Working Class Country,54507
+1571,48015,Working Class Country,54507
+1572,48019,Working Class Country,54507
+1573,48031,Working Class Country,54507
+1574,48035,Working Class Country,54507
+1575,48051,Working Class Country,54507
+1576,48053,Working Class Country,54507
+1577,48059,Working Class Country,54507
+1578,48083,Working Class Country,54507
+1579,48089,Working Class Country,54507
+1580,48097,Working Class Country,54507
+1581,48149,Working Class Country,54507
+1582,48159,Working Class Country,54507
+1583,48171,Working Class Country,54507
+1584,48193,Working Class Country,54507
+1585,48213,Working Class Country,54507
+1586,48217,Working Class Country,54507
+1587,48221,Working Class Country,54507
+1588,48265,Working Class Country,54507
+1589,48281,Working Class Country,54507
+1590,48285,Working Class Country,54507
+1591,48289,Working Class Country,54507
+1592,48331,Working Class Country,54507
+1593,48337,Working Class Country,54507
+1594,48363,Working Class Country,54507
+1595,48379,Working Class Country,54507
+1596,48477,Working Class Country,54507
+1597,48499,Working Class Country,54507
+1598,51017,Working Class Country,54507
+1599,51021,Working Class Country,54507
+1600,51027,Working Class Country,54507
+1601,51035,Working Class Country,54507
+1602,51051,Working Class Country,54507
+1603,51063,Working Class Country,54507
+1604,51067,Working Class Country,54507
+1605,51077,Working Class Country,54507
+1606,51125,Working Class Country,54507
+1607,51139,Working Class Country,54507
+1608,51141,Working Class Country,54507
+1609,51167,Working Class Country,54507
+1610,51169,Working Class Country,54507
+1611,51185,Working Class Country,54507
+1612,51195,Working Class Country,54507
+1613,53051,Working Class Country,54507
+1614,54001,Working Class Country,54507
+1615,54005,Working Class Country,54507
+1616,54007,Working Class Country,54507
+1617,54013,Working Class Country,54507
+1618,54015,Working Class Country,54507
+1619,54017,Working Class Country,54507
+1620,54019,Working Class Country,54507
+1621,54027,Working Class Country,54507
+1622,54031,Working Class Country,54507
+1623,54033,Working Class Country,54507
+1624,54035,Working Class Country,54507
+1625,54041,Working Class Country,54507
+1626,54043,Working Class Country,54507
+1627,54045,Working Class Country,54507
+1628,54047,Working Class Country,54507
+1629,54049,Working Class Country,54507
+1630,54053,Working Class Country,54507
+1631,54055,Working Class Country,54507
+1632,54059,Working Class Country,54507
+1633,54063,Working Class Country,54507
+1634,54065,Working Class Country,54507
+1635,54067,Working Class Country,54507
+1636,54071,Working Class Country,54507
+1637,54073,Working Class Country,54507
+1638,54077,Working Class Country,54507
+1639,54081,Working Class Country,54507
+1640,54085,Working Class Country,54507
+1641,54087,Working Class Country,54507
+1642,54089,Working Class Country,54507
+1643,54091,Working Class Country,54507
+1644,54095,Working Class Country,54507
+1645,54099,Working Class Country,54507
+1646,54101,Working Class Country,54507
+1647,54103,Working Class Country,54507
+1648,54105,Working Class Country,54507
+1649,54109,Working Class Country,54507
+1650,55005,Working Class Country,54507
+1651,55029,Working Class Country,54507
+1652,55047,Working Class Country,54507
+1653,55057,Working Class Country,54507
+1654,55067,Working Class Country,54507
+1655,55069,Working Class Country,54507
+1656,55075,Working Class Country,54507
+1657,55077,Working Class Country,54507
+1658,55083,Working Class Country,54507
+1659,55095,Working Class Country,54507
+1660,55099,Working Class Country,54507
+1661,55107,Working Class Country,54507
+1662,55115,Working Class Country,54507
+1663,55135,Working Class Country,54507
+1664,55137,Working Class Country,54507
+1665,01031,Military Posts,14067
+1666,01045,Military Posts,14067
+1667,02020,Military Posts,14067
+1668,02060,Military Posts,14067
+1669,02068,Military Posts,14067
+1670,02090,Military Posts,14067
+1671,02110,Military Posts,14067
+1672,02130,Military Posts,14067
+1673,02150,Military Posts,14067
+1674,02220,Military Posts,14067
+1675,02240,Military Posts,14067
+1676,02261,Military Posts,14067
+1677,02282,Military Posts,14067
+1678,04003,Military Posts,14067
+1679,08041,Military Posts,14067
+1680,09011,Military Posts,14067
+1681,10001,Military Posts,14067
+1682,12003,Military Posts,14067
+1683,12005,Military Posts,14067
+1684,12033,Military Posts,14067
+1685,12091,Military Posts,14067
+1686,13029,Military Posts,14067
+1687,13039,Military Posts,14067
+1688,13053,Military Posts,14067
+1689,13073,Military Posts,14067
+1690,13127,Military Posts,14067
+1691,13153,Military Posts,14067
+1692,13173,Military Posts,14067
+1693,13179,Military Posts,14067
+1694,13183,Military Posts,14067
+1695,16039,Military Posts,14067
+1696,17163,Military Posts,14067
+1697,20061,Military Posts,14067
+1698,20103,Military Posts,14067
+1699,21047,Military Posts,14067
+1700,21093,Military Posts,14067
+1701,21163,Military Posts,14067
+1702,22015,Military Posts,14067
+1703,22019,Military Posts,14067
+1704,22087,Military Posts,14067
+1705,22105,Military Posts,14067
+1706,22115,Military Posts,14067
+1707,22121,Military Posts,14067
+1708,24009,Military Posts,14067
+1709,24017,Military Posts,14067
+1710,24037,Military Posts,14067
+1711,28047,Military Posts,14067
+1712,28059,Military Posts,14067
+1713,28131,Military Posts,14067
+1714,29101,Military Posts,14067
+1715,29169,Military Posts,14067
+1716,30013,Military Posts,14067
+1717,31153,Military Posts,14067
+1718,35009,Military Posts,14067
+1719,35035,Military Posts,14067
+1720,36045,Military Posts,14067
+1721,37049,Military Posts,14067
+1722,37051,Military Posts,14067
+1723,37085,Military Posts,14067
+1724,37093,Military Posts,14067
+1725,37133,Military Posts,14067
+1726,37139,Military Posts,14067
+1727,37191,Military Posts,14067
+1728,38101,Military Posts,14067
+1729,40031,Military Posts,14067
+1730,40065,Military Posts,14067
+1731,45013,Military Posts,14067
+1732,45015,Military Posts,14067
+1733,45035,Military Posts,14067
+1734,46093,Military Posts,14067
+1735,46103,Military Posts,14067
+1736,47125,Military Posts,14067
+1737,48027,Military Posts,14067
+1738,48099,Military Posts,14067
+1739,48441,Military Posts,14067
+1740,48451,Military Posts,14067
+1741,48485,Military Posts,14067
+1742,51099,Military Posts,14067
+1743,51149,Military Posts,14067
+1744,51177,Military Posts,14067
+1745,51179,Military Posts,14067
+1746,51199,Military Posts,14067
+1747,51550,Military Posts,14067
+1748,51800,Military Posts,14067
+1749,51810,Military Posts,14067
+1750,53029,Military Posts,14067
+1751,53035,Military Posts,14067
+1752,53067,Military Posts,14067
+1753,56021,Military Posts,14067
+1754,01089,Urban Suburbs,65176
+1755,04019,Urban Suburbs,65176
+1756,05119,Urban Suburbs,65176
+1757,06013,Urban Suburbs,65176
+1758,06041,Urban Suburbs,65176
+1759,06055,Urban Suburbs,65176
+1760,06059,Urban Suburbs,65176
+1761,06065,Urban Suburbs,65176
+1762,06071,Urban Suburbs,65176
+1763,06081,Urban Suburbs,65176
+1764,06083,Urban Suburbs,65176
+1765,06087,Urban Suburbs,65176
+1766,06095,Urban Suburbs,65176
+1767,06097,Urban Suburbs,65176
+1768,06111,Urban Suburbs,65176
+1769,06113,Urban Suburbs,65176
+1770,08005,Urban Suburbs,65176
+1771,08014,Urban Suburbs,65176
+1772,09001,Urban Suburbs,65176
+1773,09003,Urban Suburbs,65176
+1774,09009,Urban Suburbs,65176
+1775,10003,Urban Suburbs,65176
+1776,12011,Urban Suburbs,65176
+1777,12057,Urban Suburbs,65176
+1778,12095,Urban Suburbs,65176
+1779,12099,Urban Suburbs,65176
+1780,12103,Urban Suburbs,65176
+1781,12117,Urban Suburbs,65176
+1782,13051,Urban Suburbs,65176
+1783,13067,Urban Suburbs,65176
+1784,13089,Urban Suburbs,65176
+1785,13135,Urban Suburbs,65176
+1786,15003,Urban Suburbs,65176
+1787,15005,Urban Suburbs,65176
+1788,15007,Urban Suburbs,65176
+1789,15009,Urban Suburbs,65176
+1790,17043,Urban Suburbs,65176
+1791,18003,Urban Suburbs,65176
+1792,22033,Urban Suburbs,65176
+1793,22055,Urban Suburbs,65176
+1794,24005,Urban Suburbs,65176
+1795,24027,Urban Suburbs,65176
+1796,24031,Urban Suburbs,65176
+1797,24033,Urban Suburbs,65176
+1798,25005,Urban Suburbs,65176
+1799,25009,Urban Suburbs,65176
+1800,25013,Urban Suburbs,65176
+1801,25017,Urban Suburbs,65176
+1802,25021,Urban Suburbs,65176
+1803,25027,Urban Suburbs,65176
+1804,26081,Urban Suburbs,65176
+1805,26125,Urban Suburbs,65176
+1806,28089,Urban Suburbs,65176
+1807,29189,Urban Suburbs,65176
+1808,32031,Urban Suburbs,65176
+1809,34001,Urban Suburbs,65176
+1810,34003,Urban Suburbs,65176
+1811,34007,Urban Suburbs,65176
+1812,34013,Urban Suburbs,65176
+1813,34017,Urban Suburbs,65176
+1814,34021,Urban Suburbs,65176
+1815,34023,Urban Suburbs,65176
+1816,34025,Urban Suburbs,65176
+1817,34027,Urban Suburbs,65176
+1818,34031,Urban Suburbs,65176
+1819,34035,Urban Suburbs,65176
+1820,34039,Urban Suburbs,65176
+1821,35028,Urban Suburbs,65176
+1822,35049,Urban Suburbs,65176
+1823,36029,Urban Suburbs,65176
+1824,36055,Urban Suburbs,65176
+1825,36059,Urban Suburbs,65176
+1826,36067,Urban Suburbs,65176
+1827,36071,Urban Suburbs,65176
+1828,36079,Urban Suburbs,65176
+1829,36087,Urban Suburbs,65176
+1830,36103,Urban Suburbs,65176
+1831,36119,Urban Suburbs,65176
+1832,37063,Urban Suburbs,65176
+1833,37067,Urban Suburbs,65176
+1834,37081,Urban Suburbs,65176
+1835,39061,Urban Suburbs,65176
+1836,39095,Urban Suburbs,65176
+1837,39113,Urban Suburbs,65176
+1838,41067,Urban Suburbs,65176
+1839,42003,Urban Suburbs,65176
+1840,42045,Urban Suburbs,65176
+1841,42091,Urban Suburbs,65176
+1842,44007,Urban Suburbs,65176
+1843,45019,Urban Suburbs,65176
+1844,45045,Urban Suburbs,65176
+1845,47065,Urban Suburbs,65176
+1846,48183,Urban Suburbs,65176
+1847,48423,Urban Suburbs,65176
+1848,51013,Urban Suburbs,65176
+1849,51059,Urban Suburbs,65176
+1850,51087,Urban Suburbs,65176
+1851,51107,Urban Suburbs,65176
+1852,51510,Urban Suburbs,65176
+1853,51600,Urban Suburbs,65176
+1854,51610,Urban Suburbs,65176
+1855,51683,Urban Suburbs,65176
+1856,51685,Urban Suburbs,65176
+1857,53011,Urban Suburbs,65176
+1858,53053,Urban Suburbs,65176
+1859,53061,Urban Suburbs,65176
+1860,04023,Hispanic Centers,60391
+1861,04027,Hispanic Centers,60391
+1862,05133,Hispanic Centers,60391
+1863,05149,Hispanic Centers,60391
+1864,06011,Hispanic Centers,60391
+1865,06019,Hispanic Centers,60391
+1866,06021,Hispanic Centers,60391
+1867,06025,Hispanic Centers,60391
+1868,06029,Hispanic Centers,60391
+1869,06031,Hispanic Centers,60391
+1870,06039,Hispanic Centers,60391
+1871,06047,Hispanic Centers,60391
+1872,06053,Hispanic Centers,60391
+1873,06069,Hispanic Centers,60391
+1874,06077,Hispanic Centers,60391
+1875,06099,Hispanic Centers,60391
+1876,06101,Hispanic Centers,60391
+1877,06107,Hispanic Centers,60391
+1878,08021,Hispanic Centers,60391
+1879,08023,Hispanic Centers,60391
+1880,08063,Hispanic Centers,60391
+1881,08095,Hispanic Centers,60391
+1882,08105,Hispanic Centers,60391
+1883,08109,Hispanic Centers,60391
+1884,08125,Hispanic Centers,60391
+1885,12027,Hispanic Centers,60391
+1886,12049,Hispanic Centers,60391
+1887,12051,Hispanic Centers,60391
+1888,12097,Hispanic Centers,60391
+1889,13003,Hispanic Centers,60391
+1890,13101,Hispanic Centers,60391
+1891,13139,Hispanic Centers,60391
+1892,13313,Hispanic Centers,60391
+1893,16031,Hispanic Centers,60391
+1894,16033,Hispanic Centers,60391
+1895,16047,Hispanic Centers,60391
+1896,16053,Hispanic Centers,60391
+1897,16067,Hispanic Centers,60391
+1898,16073,Hispanic Centers,60391
+1899,16077,Hispanic Centers,60391
+1900,17017,Hispanic Centers,60391
+1901,19021,Hispanic Centers,60391
+1902,19047,Hispanic Centers,60391
+1903,20055,Hispanic Centers,60391
+1904,20057,Hispanic Centers,60391
+1905,20067,Hispanic Centers,60391
+1906,20075,Hispanic Centers,60391
+1907,20081,Hispanic Centers,60391
+1908,20093,Hispanic Centers,60391
+1909,20175,Hispanic Centers,60391
+1910,20187,Hispanic Centers,60391
+1911,20189,Hispanic Centers,60391
+1912,20203,Hispanic Centers,60391
+1913,27105,Hispanic Centers,60391
+1914,27165,Hispanic Centers,60391
+1915,29211,Hispanic Centers,60391
+1916,31037,Hispanic Centers,60391
+1917,31043,Hispanic Centers,60391
+1918,31047,Hispanic Centers,60391
+1919,31151,Hispanic Centers,60391
+1920,34011,Hispanic Centers,60391
+1921,35005,Hispanic Centers,60391
+1922,35006,Hispanic Centers,60391
+1923,35013,Hispanic Centers,60391
+1924,35015,Hispanic Centers,60391
+1925,35019,Hispanic Centers,60391
+1926,35023,Hispanic Centers,60391
+1927,35025,Hispanic Centers,60391
+1928,35029,Hispanic Centers,60391
+1929,35039,Hispanic Centers,60391
+1930,35047,Hispanic Centers,60391
+1931,35053,Hispanic Centers,60391
+1932,35055,Hispanic Centers,60391
+1933,35059,Hispanic Centers,60391
+1934,35061,Hispanic Centers,60391
+1935,40139,Hispanic Centers,60391
+1936,41027,Hispanic Centers,60391
+1937,41049,Hispanic Centers,60391
+1938,48003,Hispanic Centers,60391
+1939,48013,Hispanic Centers,60391
+1940,48017,Hispanic Centers,60391
+1941,48025,Hispanic Centers,60391
+1942,48047,Hispanic Centers,60391
+1943,48055,Hispanic Centers,60391
+1944,48057,Hispanic Centers,60391
+1945,48061,Hispanic Centers,60391
+1946,48069,Hispanic Centers,60391
+1947,48079,Hispanic Centers,60391
+1948,48087,Hispanic Centers,60391
+1949,48095,Hispanic Centers,60391
+1950,48103,Hispanic Centers,60391
+1951,48107,Hispanic Centers,60391
+1952,48109,Hispanic Centers,60391
+1953,48111,Hispanic Centers,60391
+1954,48117,Hispanic Centers,60391
+1955,48127,Hispanic Centers,60391
+1956,48131,Hispanic Centers,60391
+1957,48135,Hispanic Centers,60391
+1958,48137,Hispanic Centers,60391
+1959,48141,Hispanic Centers,60391
+1960,48153,Hispanic Centers,60391
+1961,48163,Hispanic Centers,60391
+1962,48165,Hispanic Centers,60391
+1963,48169,Hispanic Centers,60391
+1964,48177,Hispanic Centers,60391
+1965,48189,Hispanic Centers,60391
+1966,48191,Hispanic Centers,60391
+1967,48195,Hispanic Centers,60391
+1968,48215,Hispanic Centers,60391
+1969,48219,Hispanic Centers,60391
+1970,48229,Hispanic Centers,60391
+1971,48247,Hispanic Centers,60391
+1972,48249,Hispanic Centers,60391
+1973,48261,Hispanic Centers,60391
+1974,48271,Hispanic Centers,60391
+1975,48273,Hispanic Centers,60391
+1976,48279,Hispanic Centers,60391
+1977,48283,Hispanic Centers,60391
+1978,48295,Hispanic Centers,60391
+1979,48305,Hispanic Centers,60391
+1980,48317,Hispanic Centers,60391
+1981,48321,Hispanic Centers,60391
+1982,48323,Hispanic Centers,60391
+1983,48325,Hispanic Centers,60391
+1984,48329,Hispanic Centers,60391
+1985,48341,Hispanic Centers,60391
+1986,48355,Hispanic Centers,60391
+1987,48357,Hispanic Centers,60391
+1988,48369,Hispanic Centers,60391
+1989,48371,Hispanic Centers,60391
+1990,48375,Hispanic Centers,60391
+1991,48377,Hispanic Centers,60391
+1992,48383,Hispanic Centers,60391
+1993,48389,Hispanic Centers,60391
+1994,48391,Hispanic Centers,60391
+1995,48409,Hispanic Centers,60391
+1996,48413,Hispanic Centers,60391
+1997,48415,Hispanic Centers,60391
+1998,48421,Hispanic Centers,60391
+1999,48427,Hispanic Centers,60391
+2000,48431,Hispanic Centers,60391
+2001,48435,Hispanic Centers,60391
+2002,48437,Hispanic Centers,60391
+2003,48449,Hispanic Centers,60391
+2004,48461,Hispanic Centers,60391
+2005,48463,Hispanic Centers,60391
+2006,48465,Hispanic Centers,60391
+2007,48469,Hispanic Centers,60391
+2008,48473,Hispanic Centers,60391
+2009,48475,Hispanic Centers,60391
+2010,48479,Hispanic Centers,60391
+2011,48481,Hispanic Centers,60391
+2012,48489,Hispanic Centers,60391
+2013,48501,Hispanic Centers,60391
+2014,48505,Hispanic Centers,60391
+2015,48507,Hispanic Centers,60391
+2016,53001,Hispanic Centers,60391
+2017,53017,Hispanic Centers,60391
+2018,53021,Hispanic Centers,60391
+2019,53025,Hispanic Centers,60391
+2020,53077,Hispanic Centers,60391
+2021,02013,Native American Lands,5575
+2022,02016,Native American Lands,5575
+2023,02050,Native American Lands,5575
+2024,02070,Native American Lands,5575
+2025,02164,Native American Lands,5575
+2026,02180,Native American Lands,5575
+2027,02185,Native American Lands,5575
+2028,02188,Native American Lands,5575
+2029,02270,Native American Lands,5575
+2030,02290,Native American Lands,5575
+2031,04001,Native American Lands,5575
+2032,04009,Native American Lands,5575
+2033,04017,Native American Lands,5575
+2034,27087,Native American Lands,5575
+2035,30003,Native American Lands,5575
+2036,30005,Native American Lands,5575
+2037,30015,Native American Lands,5575
+2038,30035,Native American Lands,5575
+2039,30085,Native American Lands,5575
+2040,30087,Native American Lands,5575
+2041,31173,Native American Lands,5575
+2042,32021,Native American Lands,5575
+2043,35031,Native American Lands,5575
+2044,35045,Native American Lands,5575
+2045,37155,Native American Lands,5575
+2046,38005,Native American Lands,5575
+2047,38079,Native American Lands,5575
+2048,38085,Native American Lands,5575
+2049,40001,Native American Lands,5575
+2050,46007,Native American Lands,5575
+2051,46017,Native American Lands,5575
+2052,46023,Native American Lands,5575
+2053,46031,Native American Lands,5575
+2054,46041,Native American Lands,5575
+2055,46071,Native American Lands,5575
+2056,46085,Native American Lands,5575
+2057,46095,Native American Lands,5575
+2058,46109,Native American Lands,5575
+2059,46113,Native American Lands,5575
+2060,46121,Native American Lands,5575
+2061,46137,Native American Lands,5575
+2062,49037,Native American Lands,5575
+2063,55078,Native American Lands,5575
+2064,02195,Rural Middle America,275735
+2065,02275,Rural Middle America,275735
+2066,05087,Rural Middle America,275735
+2067,08009,Rural Middle America,275735
+2068,08017,Rural Middle America,275735
+2069,08075,Rural Middle America,275735
+2070,08121,Rural Middle America,275735
+2071,13083,Rural Middle America,275735
+2072,16069,Rural Middle America,275735
+2073,17005,Rural Middle America,275735
+2074,17011,Rural Middle America,275735
+2075,17015,Rural Middle America,275735
+2076,17021,Rural Middle America,275735
+2077,17027,Rural Middle America,275735
+2078,17033,Rural Middle America,275735
+2079,17035,Rural Middle America,275735
+2080,17039,Rural Middle America,275735
+2081,17041,Rural Middle America,275735
+2082,17045,Rural Middle America,275735
+2083,17049,Rural Middle America,275735
+2084,17051,Rural Middle America,275735
+2085,17053,Rural Middle America,275735
+2086,17057,Rural Middle America,275735
+2087,17061,Rural Middle America,275735
+2088,17067,Rural Middle America,275735
+2089,17073,Rural Middle America,275735
+2090,17075,Rural Middle America,275735
+2091,17079,Rural Middle America,275735
+2092,17083,Rural Middle America,275735
+2093,17091,Rural Middle America,275735
+2094,17095,Rural Middle America,275735
+2095,17099,Rural Middle America,275735
+2096,17101,Rural Middle America,275735
+2097,17103,Rural Middle America,275735
+2098,17105,Rural Middle America,275735
+2099,17107,Rural Middle America,275735
+2100,17115,Rural Middle America,275735
+2101,17117,Rural Middle America,275735
+2102,17123,Rural Middle America,275735
+2103,17125,Rural Middle America,275735
+2104,17129,Rural Middle America,275735
+2105,17131,Rural Middle America,275735
+2106,17133,Rural Middle America,275735
+2107,17135,Rural Middle America,275735
+2108,17137,Rural Middle America,275735
+2109,17139,Rural Middle America,275735
+2110,17141,Rural Middle America,275735
+2111,17147,Rural Middle America,275735
+2112,17155,Rural Middle America,275735
+2113,17159,Rural Middle America,275735
+2114,17169,Rural Middle America,275735
+2115,17171,Rural Middle America,275735
+2116,17173,Rural Middle America,275735
+2117,17175,Rural Middle America,275735
+2118,17179,Rural Middle America,275735
+2119,17183,Rural Middle America,275735
+2120,17185,Rural Middle America,275735
+2121,17187,Rural Middle America,275735
+2122,17189,Rural Middle America,275735
+2123,17195,Rural Middle America,275735
+2124,17203,Rural Middle America,275735
+2125,18005,Rural Middle America,275735
+2126,18007,Rural Middle America,275735
+2127,18009,Rural Middle America,275735
+2128,18011,Rural Middle America,275735
+2129,18015,Rural Middle America,275735
+2130,18017,Rural Middle America,275735
+2131,18021,Rural Middle America,275735
+2132,18023,Rural Middle America,275735
+2133,18029,Rural Middle America,275735
+2134,18031,Rural Middle America,275735
+2135,18033,Rural Middle America,275735
+2136,18037,Rural Middle America,275735
+2137,18041,Rural Middle America,275735
+2138,18045,Rural Middle America,275735
+2139,18047,Rural Middle America,275735
+2140,18049,Rural Middle America,275735
+2141,18051,Rural Middle America,275735
+2142,18053,Rural Middle America,275735
+2143,18055,Rural Middle America,275735
+2144,18061,Rural Middle America,275735
+2145,18065,Rural Middle America,275735
+2146,18069,Rural Middle America,275735
+2147,18071,Rural Middle America,275735
+2148,18073,Rural Middle America,275735
+2149,18075,Rural Middle America,275735
+2150,18077,Rural Middle America,275735
+2151,18083,Rural Middle America,275735
+2152,18085,Rural Middle America,275735
+2153,18091,Rural Middle America,275735
+2154,18093,Rural Middle America,275735
+2155,18099,Rural Middle America,275735
+2156,18101,Rural Middle America,275735
+2157,18103,Rural Middle America,275735
+2158,18107,Rural Middle America,275735
+2159,18109,Rural Middle America,275735
+2160,18111,Rural Middle America,275735
+2161,18113,Rural Middle America,275735
+2162,18115,Rural Middle America,275735
+2163,18123,Rural Middle America,275735
+2164,18125,Rural Middle America,275735
+2165,18129,Rural Middle America,275735
+2166,18131,Rural Middle America,275735
+2167,18133,Rural Middle America,275735
+2168,18135,Rural Middle America,275735
+2169,18137,Rural Middle America,275735
+2170,18139,Rural Middle America,275735
+2171,18147,Rural Middle America,275735
+2172,18159,Rural Middle America,275735
+2173,18161,Rural Middle America,275735
+2174,18165,Rural Middle America,275735
+2175,18169,Rural Middle America,275735
+2176,18171,Rural Middle America,275735
+2177,18173,Rural Middle America,275735
+2178,18177,Rural Middle America,275735
+2179,18179,Rural Middle America,275735
+2180,18183,Rural Middle America,275735
+2181,19001,Rural Middle America,275735
+2182,19003,Rural Middle America,275735
+2183,19011,Rural Middle America,275735
+2184,19015,Rural Middle America,275735
+2185,19017,Rural Middle America,275735
+2186,19019,Rural Middle America,275735
+2187,19023,Rural Middle America,275735
+2188,19027,Rural Middle America,275735
+2189,19029,Rural Middle America,275735
+2190,19031,Rural Middle America,275735
+2191,19033,Rural Middle America,275735
+2192,19037,Rural Middle America,275735
+2193,19039,Rural Middle America,275735
+2194,19041,Rural Middle America,275735
+2195,19043,Rural Middle America,275735
+2196,19045,Rural Middle America,275735
+2197,19053,Rural Middle America,275735
+2198,19055,Rural Middle America,275735
+2199,19057,Rural Middle America,275735
+2200,19061,Rural Middle America,275735
+2201,19063,Rural Middle America,275735
+2202,19065,Rural Middle America,275735
+2203,19067,Rural Middle America,275735
+2204,19069,Rural Middle America,275735
+2205,19071,Rural Middle America,275735
+2206,19073,Rural Middle America,275735
+2207,19075,Rural Middle America,275735
+2208,19077,Rural Middle America,275735
+2209,19079,Rural Middle America,275735
+2210,19081,Rural Middle America,275735
+2211,19083,Rural Middle America,275735
+2212,19085,Rural Middle America,275735
+2213,19087,Rural Middle America,275735
+2214,19089,Rural Middle America,275735
+2215,19091,Rural Middle America,275735
+2216,19093,Rural Middle America,275735
+2217,19095,Rural Middle America,275735
+2218,19097,Rural Middle America,275735
+2219,19099,Rural Middle America,275735
+2220,19101,Rural Middle America,275735
+2221,19105,Rural Middle America,275735
+2222,19107,Rural Middle America,275735
+2223,19111,Rural Middle America,275735
+2224,19115,Rural Middle America,275735
+2225,19117,Rural Middle America,275735
+2226,19119,Rural Middle America,275735
+2227,19121,Rural Middle America,275735
+2228,19123,Rural Middle America,275735
+2229,19125,Rural Middle America,275735
+2230,19127,Rural Middle America,275735
+2231,19129,Rural Middle America,275735
+2232,19131,Rural Middle America,275735
+2233,19133,Rural Middle America,275735
+2234,19135,Rural Middle America,275735
+2235,19137,Rural Middle America,275735
+2236,19139,Rural Middle America,275735
+2237,19141,Rural Middle America,275735
+2238,19143,Rural Middle America,275735
+2239,19145,Rural Middle America,275735
+2240,19147,Rural Middle America,275735
+2241,19149,Rural Middle America,275735
+2242,19151,Rural Middle America,275735
+2243,19155,Rural Middle America,275735
+2244,19157,Rural Middle America,275735
+2245,19165,Rural Middle America,275735
+2246,19167,Rural Middle America,275735
+2247,19171,Rural Middle America,275735
+2248,19173,Rural Middle America,275735
+2249,19175,Rural Middle America,275735
+2250,19177,Rural Middle America,275735
+2251,19179,Rural Middle America,275735
+2252,19181,Rural Middle America,275735
+2253,19183,Rural Middle America,275735
+2254,19187,Rural Middle America,275735
+2255,19189,Rural Middle America,275735
+2256,19191,Rural Middle America,275735
+2257,19193,Rural Middle America,275735
+2258,19195,Rural Middle America,275735
+2259,19197,Rural Middle America,275735
+2260,20001,Rural Middle America,275735
+2261,20003,Rural Middle America,275735
+2262,20005,Rural Middle America,275735
+2263,20007,Rural Middle America,275735
+2264,20009,Rural Middle America,275735
+2265,20011,Rural Middle America,275735
+2266,20013,Rural Middle America,275735
+2267,20015,Rural Middle America,275735
+2268,20021,Rural Middle America,275735
+2269,20025,Rural Middle America,275735
+2270,20027,Rural Middle America,275735
+2271,20029,Rural Middle America,275735
+2272,20031,Rural Middle America,275735
+2273,20041,Rural Middle America,275735
+2274,20043,Rural Middle America,275735
+2275,20047,Rural Middle America,275735
+2276,20053,Rural Middle America,275735
+2277,20059,Rural Middle America,275735
+2278,20069,Rural Middle America,275735
+2279,20071,Rural Middle America,275735
+2280,20077,Rural Middle America,275735
+2281,20079,Rural Middle America,275735
+2282,20085,Rural Middle America,275735
+2283,20087,Rural Middle America,275735
+2284,20095,Rural Middle America,275735
+2285,20097,Rural Middle America,275735
+2286,20107,Rural Middle America,275735
+2287,20113,Rural Middle America,275735
+2288,20115,Rural Middle America,275735
+2289,20117,Rural Middle America,275735
+2290,20119,Rural Middle America,275735
+2291,20121,Rural Middle America,275735
+2292,20123,Rural Middle America,275735
+2293,20127,Rural Middle America,275735
+2294,20129,Rural Middle America,275735
+2295,20131,Rural Middle America,275735
+2296,20133,Rural Middle America,275735
+2297,20137,Rural Middle America,275735
+2298,20139,Rural Middle America,275735
+2299,20143,Rural Middle America,275735
+2300,20145,Rural Middle America,275735
+2301,20149,Rural Middle America,275735
+2302,20151,Rural Middle America,275735
+2303,20155,Rural Middle America,275735
+2304,20159,Rural Middle America,275735
+2305,20163,Rural Middle America,275735
+2306,20169,Rural Middle America,275735
+2307,20181,Rural Middle America,275735
+2308,20191,Rural Middle America,275735
+2309,20193,Rural Middle America,275735
+2310,20197,Rural Middle America,275735
+2311,21069,Rural Middle America,275735
+2312,21089,Rural Middle America,275735
+2313,21223,Rural Middle America,275735
+2314,21239,Rural Middle America,275735
+2315,23011,Rural Middle America,275735
+2316,23019,Rural Middle America,275735
+2317,23023,Rural Middle America,275735
+2318,23031,Rural Middle America,275735
+2319,24001,Rural Middle America,275735
+2320,25003,Rural Middle America,275735
+2321,25011,Rural Middle America,275735
+2322,26005,Rural Middle America,275735
+2323,26007,Rural Middle America,275735
+2324,26015,Rural Middle America,275735
+2325,26017,Rural Middle America,275735
+2326,26021,Rural Middle America,275735
+2327,26025,Rural Middle America,275735
+2328,26041,Rural Middle America,275735
+2329,26043,Rural Middle America,275735
+2330,26045,Rural Middle America,275735
+2331,26047,Rural Middle America,275735
+2332,26055,Rural Middle America,275735
+2333,26057,Rural Middle America,275735
+2334,26087,Rural Middle America,275735
+2335,26103,Rural Middle America,275735
+2336,26109,Rural Middle America,275735
+2337,26111,Rural Middle America,275735
+2338,26121,Rural Middle America,275735
+2339,26139,Rural Middle America,275735
+2340,26157,Rural Middle America,275735
+2341,27009,Rural Middle America,275735
+2342,27015,Rural Middle America,275735
+2343,27017,Rural Middle America,275735
+2344,27023,Rural Middle America,275735
+2345,27033,Rural Middle America,275735
+2346,27039,Rural Middle America,275735
+2347,27043,Rural Middle America,275735
+2348,27045,Rural Middle America,275735
+2349,27047,Rural Middle America,275735
+2350,27049,Rural Middle America,275735
+2351,27051,Rural Middle America,275735
+2352,27055,Rural Middle America,275735
+2353,27063,Rural Middle America,275735
+2354,27067,Rural Middle America,275735
+2355,27079,Rural Middle America,275735
+2356,27083,Rural Middle America,275735
+2357,27085,Rural Middle America,275735
+2358,27089,Rural Middle America,275735
+2359,27091,Rural Middle America,275735
+2360,27093,Rural Middle America,275735
+2361,27097,Rural Middle America,275735
+2362,27099,Rural Middle America,275735
+2363,27101,Rural Middle America,275735
+2364,27113,Rural Middle America,275735
+2365,27117,Rural Middle America,275735
+2366,27119,Rural Middle America,275735
+2367,27125,Rural Middle America,275735
+2368,27127,Rural Middle America,275735
+2369,27129,Rural Middle America,275735
+2370,27133,Rural Middle America,275735
+2371,27135,Rural Middle America,275735
+2372,27137,Rural Middle America,275735
+2373,27143,Rural Middle America,275735
+2374,27147,Rural Middle America,275735
+2375,27153,Rural Middle America,275735
+2376,27157,Rural Middle America,275735
+2377,27161,Rural Middle America,275735
+2378,27167,Rural Middle America,275735
+2379,27173,Rural Middle America,275735
+2380,29003,Rural Middle America,275735
+2381,29007,Rural Middle America,275735
+2382,29011,Rural Middle America,275735
+2383,29013,Rural Middle America,275735
+2384,29017,Rural Middle America,275735
+2385,29025,Rural Middle America,275735
+2386,29045,Rural Middle America,275735
+2387,29071,Rural Middle America,275735
+2388,29091,Rural Middle America,275735
+2389,29127,Rural Middle America,275735
+2390,29151,Rural Middle America,275735
+2391,29157,Rural Middle America,275735
+2392,29167,Rural Middle America,275735
+2393,29171,Rural Middle America,275735
+2394,29173,Rural Middle America,275735
+2395,29177,Rural Middle America,275735
+2396,29199,Rural Middle America,275735
+2397,30017,Rural Middle America,275735
+2398,30021,Rural Middle America,275735
+2399,30027,Rural Middle America,275735
+2400,30073,Rural Middle America,275735
+2401,30093,Rural Middle America,275735
+2402,30099,Rural Middle America,275735
+2403,30101,Rural Middle America,275735
+2404,30105,Rural Middle America,275735
+2405,30111,Rural Middle America,275735
+2406,31001,Rural Middle America,275735
+2407,31003,Rural Middle America,275735
+2408,31011,Rural Middle America,275735
+2409,31013,Rural Middle America,275735
+2410,31023,Rural Middle America,275735
+2411,31025,Rural Middle America,275735
+2412,31027,Rural Middle America,275735
+2413,31031,Rural Middle America,275735
+2414,31033,Rural Middle America,275735
+2415,31035,Rural Middle America,275735
+2416,31039,Rural Middle America,275735
+2417,31041,Rural Middle America,275735
+2418,31051,Rural Middle America,275735
+2419,31053,Rural Middle America,275735
+2420,31059,Rural Middle America,275735
+2421,31067,Rural Middle America,275735
+2422,31079,Rural Middle America,275735
+2423,31081,Rural Middle America,275735
+2424,31087,Rural Middle America,275735
+2425,31089,Rural Middle America,275735
+2426,31093,Rural Middle America,275735
+2427,31099,Rural Middle America,275735
+2428,31105,Rural Middle America,275735
+2429,31111,Rural Middle America,275735
+2430,31119,Rural Middle America,275735
+2431,31121,Rural Middle America,275735
+2432,31127,Rural Middle America,275735
+2433,31131,Rural Middle America,275735
+2434,31135,Rural Middle America,275735
+2435,31137,Rural Middle America,275735
+2436,31139,Rural Middle America,275735
+2437,31141,Rural Middle America,275735
+2438,31143,Rural Middle America,275735
+2439,31145,Rural Middle America,275735
+2440,31147,Rural Middle America,275735
+2441,31155,Rural Middle America,275735
+2442,31157,Rural Middle America,275735
+2443,31159,Rural Middle America,275735
+2444,31167,Rural Middle America,275735
+2445,31177,Rural Middle America,275735
+2446,31185,Rural Middle America,275735
+2447,33001,Rural Middle America,275735
+2448,33009,Rural Middle America,275735
+2449,33019,Rural Middle America,275735
+2450,36003,Rural Middle America,275735
+2451,36009,Rural Middle America,275735
+2452,36011,Rural Middle America,275735
+2453,36013,Rural Middle America,275735
+2454,36017,Rural Middle America,275735
+2455,36021,Rural Middle America,275735
+2456,36023,Rural Middle America,275735
+2457,36035,Rural Middle America,275735
+2458,36037,Rural Middle America,275735
+2459,36043,Rural Middle America,275735
+2460,36051,Rural Middle America,275735
+2461,36053,Rural Middle America,275735
+2462,36057,Rural Middle America,275735
+2463,36063,Rural Middle America,275735
+2464,36065,Rural Middle America,275735
+2465,36069,Rural Middle America,275735
+2466,36073,Rural Middle America,275735
+2467,36075,Rural Middle America,275735
+2468,36077,Rural Middle America,275735
+2469,36095,Rural Middle America,275735
+2470,36099,Rural Middle America,275735
+2471,36101,Rural Middle America,275735
+2472,36107,Rural Middle America,275735
+2473,36113,Rural Middle America,275735
+2474,36115,Rural Middle America,275735
+2475,36117,Rural Middle America,275735
+2476,36121,Rural Middle America,275735
+2477,36123,Rural Middle America,275735
+2478,37059,Rural Middle America,275735
+2479,37169,Rural Middle America,275735
+2480,38003,Rural Middle America,275735
+2481,38021,Rural Middle America,275735
+2482,38053,Rural Middle America,275735
+2483,38059,Rural Middle America,275735
+2484,38065,Rural Middle America,275735
+2485,38067,Rural Middle America,275735
+2486,38071,Rural Middle America,275735
+2487,38077,Rural Middle America,275735
+2488,38089,Rural Middle America,275735
+2489,38093,Rural Middle America,275735
+2490,38097,Rural Middle America,275735
+2491,39005,Rural Middle America,275735
+2492,39007,Rural Middle America,275735
+2493,39011,Rural Middle America,275735
+2494,39013,Rural Middle America,275735
+2495,39019,Rural Middle America,275735
+2496,39029,Rural Middle America,275735
+2497,39031,Rural Middle America,275735
+2498,39033,Rural Middle America,275735
+2499,39037,Rural Middle America,275735
+2500,39039,Rural Middle America,275735
+2501,39043,Rural Middle America,275735
+2502,39047,Rural Middle America,275735
+2503,39051,Rural Middle America,275735
+2504,39053,Rural Middle America,275735
+2505,39059,Rural Middle America,275735
+2506,39063,Rural Middle America,275735
+2507,39065,Rural Middle America,275735
+2508,39069,Rural Middle America,275735
+2509,39081,Rural Middle America,275735
+2510,39083,Rural Middle America,275735
+2511,39097,Rural Middle America,275735
+2512,39101,Rural Middle America,275735
+2513,39107,Rural Middle America,275735
+2514,39117,Rural Middle America,275735
+2515,39119,Rural Middle America,275735
+2516,39125,Rural Middle America,275735
+2517,39129,Rural Middle America,275735
+2518,39135,Rural Middle America,275735
+2519,39137,Rural Middle America,275735
+2520,39143,Rural Middle America,275735
+2521,39147,Rural Middle America,275735
+2522,39149,Rural Middle America,275735
+2523,39157,Rural Middle America,275735
+2524,39161,Rural Middle America,275735
+2525,39167,Rural Middle America,275735
+2526,39169,Rural Middle America,275735
+2527,39171,Rural Middle America,275735
+2528,39175,Rural Middle America,275735
+2529,40011,Rural Middle America,275735
+2530,40047,Rural Middle America,275735
+2531,40055,Rural Middle America,275735
+2532,41009,Rural Middle America,275735
+2533,41017,Rural Middle America,275735
+2534,41055,Rural Middle America,275735
+2535,42001,Rural Middle America,275735
+2536,42005,Rural Middle America,275735
+2537,42009,Rural Middle America,275735
+2538,42015,Rural Middle America,275735
+2539,42021,Rural Middle America,275735
+2540,42031,Rural Middle America,275735
+2541,42033,Rural Middle America,275735
+2542,42035,Rural Middle America,275735
+2543,42037,Rural Middle America,275735
+2544,42039,Rural Middle America,275735
+2545,42047,Rural Middle America,275735
+2546,42049,Rural Middle America,275735
+2547,42051,Rural Middle America,275735
+2548,42055,Rural Middle America,275735
+2549,42057,Rural Middle America,275735
+2550,42063,Rural Middle America,275735
+2551,42065,Rural Middle America,275735
+2552,42067,Rural Middle America,275735
+2553,42081,Rural Middle America,275735
+2554,42083,Rural Middle America,275735
+2555,42085,Rural Middle America,275735
+2556,42087,Rural Middle America,275735
+2557,42093,Rural Middle America,275735
+2558,42097,Rural Middle America,275735
+2559,42099,Rural Middle America,275735
+2560,42107,Rural Middle America,275735
+2561,42109,Rural Middle America,275735
+2562,42111,Rural Middle America,275735
+2563,42115,Rural Middle America,275735
+2564,42117,Rural Middle America,275735
+2565,42119,Rural Middle America,275735
+2566,42121,Rural Middle America,275735
+2567,42131,Rural Middle America,275735
+2568,46003,Rural Middle America,275735
+2569,46005,Rural Middle America,275735
+2570,46009,Rural Middle America,275735
+2571,46013,Rural Middle America,275735
+2572,46015,Rural Middle America,275735
+2573,46029,Rural Middle America,275735
+2574,46035,Rural Middle America,275735
+2575,46039,Rural Middle America,275735
+2576,46045,Rural Middle America,275735
+2577,46051,Rural Middle America,275735
+2578,46057,Rural Middle America,275735
+2579,46061,Rural Middle America,275735
+2580,46065,Rural Middle America,275735
+2581,46079,Rural Middle America,275735
+2582,46081,Rural Middle America,275735
+2583,46087,Rural Middle America,275735
+2584,46099,Rural Middle America,275735
+2585,46101,Rural Middle America,275735
+2586,46111,Rural Middle America,275735
+2587,46117,Rural Middle America,275735
+2588,46119,Rural Middle America,275735
+2589,46123,Rural Middle America,275735
+2590,46125,Rural Middle America,275735
+2591,46127,Rural Middle America,275735
+2592,46135,Rural Middle America,275735
+2593,47119,Rural Middle America,275735
+2594,47133,Rural Middle America,275735
+2595,48205,Rural Middle America,275735
+2596,48359,Rural Middle America,275735
+2597,48393,Rural Middle America,275735
+2598,48425,Rural Middle America,275735
+2599,48483,Rural Middle America,275735
+2600,50001,Rural Middle America,275735
+2601,50003,Rural Middle America,275735
+2602,50005,Rural Middle America,275735
+2603,50011,Rural Middle America,275735
+2604,50015,Rural Middle America,275735
+2605,50017,Rural Middle America,275735
+2606,50021,Rural Middle America,275735
+2607,50023,Rural Middle America,275735
+2608,50025,Rural Middle America,275735
+2609,50027,Rural Middle America,275735
+2610,51005,Rural Middle America,275735
+2611,51015,Rural Middle America,275735
+2612,51019,Rural Middle America,275735
+2613,51023,Rural Middle America,275735
+2614,51045,Rural Middle America,275735
+2615,51071,Rural Middle America,275735
+2616,51073,Rural Middle America,275735
+2617,51155,Rural Middle America,275735
+2618,51165,Rural Middle America,275735
+2619,51171,Rural Middle America,275735
+2620,51173,Rural Middle America,275735
+2621,51197,Rural Middle America,275735
+2622,53003,Rural Middle America,275735
+2623,53043,Rural Middle America,275735
+2624,54023,Rural Middle America,275735
+2625,54039,Rural Middle America,275735
+2626,54051,Rural Middle America,275735
+2627,54057,Rural Middle America,275735
+2628,54079,Rural Middle America,275735
+2629,54097,Rural Middle America,275735
+2630,55003,Rural Middle America,275735
+2631,55011,Rural Middle America,275735
+2632,55015,Rural Middle America,275735
+2633,55017,Rural Middle America,275735
+2634,55019,Rural Middle America,275735
+2635,55021,Rural Middle America,275735
+2636,55023,Rural Middle America,275735
+2637,55027,Rural Middle America,275735
+2638,55031,Rural Middle America,275735
+2639,55039,Rural Middle America,275735
+2640,55043,Rural Middle America,275735
+2641,55045,Rural Middle America,275735
+2642,55049,Rural Middle America,275735
+2643,55053,Rural Middle America,275735
+2644,55055,Rural Middle America,275735
+2645,55061,Rural Middle America,275735
+2646,55065,Rural Middle America,275735
+2647,55071,Rural Middle America,275735
+2648,55073,Rural Middle America,275735
+2649,55081,Rural Middle America,275735
+2650,55091,Rural Middle America,275735
+2651,55103,Rural Middle America,275735
+2652,55111,Rural Middle America,275735
+2653,55117,Rural Middle America,275735
+2654,55119,Rural Middle America,275735
+2655,55121,Rural Middle America,275735
+2656,55123,Rural Middle America,275735
+2657,55141,Rural Middle America,275735
+2658,56015,Rural Middle America,275735
+2659,56017,Rural Middle America,275735
+2660,56025,Rural Middle America,275735
+2661,56027,Rural Middle America,275735
+2662,56031,Rural Middle America,275735
+2663,04005,College Towns,81498
+2664,05019,College Towns,81498
+2665,05031,College Towns,81498
+2666,05045,College Towns,81498
+2667,05143,College Towns,81498
+2668,06007,College Towns,81498
+2669,06023,College Towns,81498
+2670,06079,College Towns,81498
+2671,06089,College Towns,81498
+2672,08013,College Towns,81498
+2673,08051,College Towns,81498
+2674,08067,College Towns,81498
+2675,08069,College Towns,81498
+2676,09013,College Towns,81498
+2677,12001,College Towns,81498
+2678,12073,College Towns,81498
+2679,13045,College Towns,81498
+2680,13059,College Towns,81498
+2681,16057,College Towns,81498
+2682,17019,College Towns,81498
+2683,17029,College Towns,81498
+2684,17037,College Towns,81498
+2685,17077,College Towns,81498
+2686,17109,College Towns,81498
+2687,17113,College Towns,81498
+2688,17167,College Towns,81498
+2689,18035,College Towns,81498
+2690,18105,College Towns,81498
+2691,18157,College Towns,81498
+2692,19103,College Towns,81498
+2693,19169,College Towns,81498
+2694,20037,College Towns,81498
+2695,20045,College Towns,81498
+2696,20051,College Towns,81498
+2697,20111,College Towns,81498
+2698,20161,College Towns,81498
+2699,20177,College Towns,81498
+2700,21035,College Towns,81498
+2701,21067,College Towns,81498
+2702,21073,College Towns,81498
+2703,21151,College Towns,81498
+2704,21205,College Towns,81498
+2705,21227,College Towns,81498
+2706,23005,College Towns,81498
+2707,24039,College Towns,81498
+2708,24045,College Towns,81498
+2709,25015,College Towns,81498
+2710,26061,College Towns,81498
+2711,26065,College Towns,81498
+2712,26073,College Towns,81498
+2713,26077,College Towns,81498
+2714,26107,College Towns,81498
+2715,26161,College Towns,81498
+2716,27007,College Towns,81498
+2717,27013,College Towns,81498
+2718,27027,College Towns,81498
+2719,27103,College Towns,81498
+2720,27131,College Towns,81498
+2721,27145,College Towns,81498
+2722,27149,College Towns,81498
+2723,27169,College Towns,81498
+2724,28071,College Towns,81498
+2725,28105,College Towns,81498
+2726,29001,College Towns,81498
+2727,29019,College Towns,81498
+2728,29031,College Towns,81498
+2729,29051,College Towns,81498
+2730,29077,College Towns,81498
+2731,29147,College Towns,81498
+2732,29161,College Towns,81498
+2733,30001,College Towns,81498
+2734,30031,College Towns,81498
+2735,30049,College Towns,81498
+2736,30063,College Towns,81498
+2737,31019,College Towns,81498
+2738,31045,College Towns,81498
+2739,31109,College Towns,81498
+2740,31179,College Towns,81498
+2741,33005,College Towns,81498
+2742,33017,College Towns,81498
+2743,36001,College Towns,81498
+2744,36027,College Towns,81498
+2745,36083,College Towns,81498
+2746,36093,College Towns,81498
+2747,36109,College Towns,81498
+2748,36111,College Towns,81498
+2749,37021,College Towns,81498
+2750,37099,College Towns,81498
+2751,37129,College Towns,81498
+2752,37135,College Towns,81498
+2753,37189,College Towns,81498
+2754,38015,College Towns,81498
+2755,38017,College Towns,81498
+2756,38035,College Towns,81498
+2757,39009,College Towns,81498
+2758,39057,College Towns,81498
+2759,39173,College Towns,81498
+2760,40021,College Towns,81498
+2761,40027,College Towns,81498
+2762,40039,College Towns,81498
+2763,40119,College Towns,81498
+2764,40123,College Towns,81498
+2765,40151,College Towns,81498
+2766,41003,College Towns,81498
+2767,41029,College Towns,81498
+2768,41039,College Towns,81498
+2769,41053,College Towns,81498
+2770,42027,College Towns,81498
+2771,42041,College Towns,81498
+2772,42043,College Towns,81498
+2773,44001,College Towns,81498
+2774,44005,College Towns,81498
+2775,44009,College Towns,81498
+2776,45077,College Towns,81498
+2777,46011,College Towns,81498
+2778,46027,College Towns,81498
+2779,47093,College Towns,81498
+2780,47141,College Towns,81498
+2781,47179,College Towns,81498
+2782,48041,College Towns,81498
+2783,48143,College Towns,81498
+2784,48303,College Towns,81498
+2785,48309,College Towns,81498
+2786,48347,College Towns,81498
+2787,48381,College Towns,81498
+2788,48471,College Towns,81498
+2789,50007,College Towns,81498
+2790,51003,College Towns,81498
+2791,51121,College Towns,81498
+2792,51147,College Towns,81498
+2793,51540,College Towns,81498
+2794,51630,College Towns,81498
+2795,51660,College Towns,81498
+2796,51678,College Towns,81498
+2797,51680,College Towns,81498
+2798,51750,College Towns,81498
+2799,51775,College Towns,81498
+2800,51790,College Towns,81498
+2801,51830,College Towns,81498
+2802,51840,College Towns,81498
+2803,53037,College Towns,81498
+2804,53063,College Towns,81498
+2805,53071,College Towns,81498
+2806,53073,College Towns,81498
+2807,53075,College Towns,81498
+2808,54021,College Towns,81498
+2809,54061,College Towns,81498
+2810,55025,College Towns,81498
+2811,55033,College Towns,81498
+2812,55035,College Towns,81498
+2813,55063,College Towns,81498
+2814,55093,College Towns,81498
+2815,55097,College Towns,81498
+2816,56001,College Towns,81498
+2817,16005,LDS Enclaves,2910
+2818,16007,LDS Enclaves,2910
+2819,16011,LDS Enclaves,2910
+2820,16019,LDS Enclaves,2910
+2821,16023,LDS Enclaves,2910
+2822,16029,LDS Enclaves,2910
+2823,16041,LDS Enclaves,2910
+2824,16043,LDS Enclaves,2910
+2825,16051,LDS Enclaves,2910
+2826,16065,LDS Enclaves,2910
+2827,16071,LDS Enclaves,2910
+2828,32017,LDS Enclaves,2910
+2829,49001,LDS Enclaves,2910
+2830,49003,LDS Enclaves,2910
+2831,49005,LDS Enclaves,2910
+2832,49007,LDS Enclaves,2910
+2833,49009,LDS Enclaves,2910
+2834,49011,LDS Enclaves,2910
+2835,49013,LDS Enclaves,2910
+2836,49015,LDS Enclaves,2910
+2837,49017,LDS Enclaves,2910
+2838,49021,LDS Enclaves,2910
+2839,49023,LDS Enclaves,2910
+2840,49025,LDS Enclaves,2910
+2841,49027,LDS Enclaves,2910
+2842,49029,LDS Enclaves,2910
+2843,49031,LDS Enclaves,2910
+2844,49033,LDS Enclaves,2910
+2845,49035,LDS Enclaves,2910
+2846,49039,LDS Enclaves,2910
+2847,49041,LDS Enclaves,2910
+2848,49045,LDS Enclaves,2910
+2849,49047,LDS Enclaves,2910
+2850,49049,LDS Enclaves,2910
+2851,49051,LDS Enclaves,2910
+2852,49053,LDS Enclaves,2910
+2853,49055,LDS Enclaves,2910
+2854,49057,LDS Enclaves,2910
+2855,56003,LDS Enclaves,2910
+2856,56023,LDS Enclaves,2910
+2857,56041,LDS Enclaves,2910
+2858,19009,Aging Farmlands,19731
+2859,19025,Aging Farmlands,19731
+2860,19035,Aging Farmlands,19731
+2861,19051,Aging Farmlands,19731
+2862,19109,Aging Farmlands,19731
+2863,19159,Aging Farmlands,19731
+2864,19161,Aging Farmlands,19731
+2865,20023,Aging Farmlands,19731
+2866,20033,Aging Farmlands,19731
+2867,20039,Aging Farmlands,19731
+2868,20063,Aging Farmlands,19731
+2869,20065,Aging Farmlands,19731
+2870,20083,Aging Farmlands,19731
+2871,20089,Aging Farmlands,19731
+2872,20101,Aging Farmlands,19731
+2873,20109,Aging Farmlands,19731
+2874,20135,Aging Farmlands,19731
+2875,20141,Aging Farmlands,19731
+2876,20147,Aging Farmlands,19731
+2877,20153,Aging Farmlands,19731
+2878,20157,Aging Farmlands,19731
+2879,20165,Aging Farmlands,19731
+2880,20167,Aging Farmlands,19731
+2881,20171,Aging Farmlands,19731
+2882,20179,Aging Farmlands,19731
+2883,20183,Aging Farmlands,19731
+2884,20185,Aging Farmlands,19731
+2885,20195,Aging Farmlands,19731
+2886,20199,Aging Farmlands,19731
+2887,20201,Aging Farmlands,19731
+2888,21201,Aging Farmlands,19731
+2889,27011,Aging Farmlands,19731
+2890,27069,Aging Farmlands,19731
+2891,27073,Aging Farmlands,19731
+2892,27081,Aging Farmlands,19731
+2893,27107,Aging Farmlands,19731
+2894,27151,Aging Farmlands,19731
+2895,27155,Aging Farmlands,19731
+2896,29005,Aging Farmlands,19731
+2897,29041,Aging Farmlands,19731
+2898,29087,Aging Farmlands,19731
+2899,29103,Aging Farmlands,19731
+2900,29129,Aging Farmlands,19731
+2901,29227,Aging Farmlands,19731
+2902,30011,Aging Farmlands,19731
+2903,30019,Aging Farmlands,19731
+2904,30025,Aging Farmlands,19731
+2905,30033,Aging Farmlands,19731
+2906,30045,Aging Farmlands,19731
+2907,30051,Aging Farmlands,19731
+2908,30055,Aging Farmlands,19731
+2909,30069,Aging Farmlands,19731
+2910,30071,Aging Farmlands,19731
+2911,30075,Aging Farmlands,19731
+2912,30079,Aging Farmlands,19731
+2913,30091,Aging Farmlands,19731
+2914,30103,Aging Farmlands,19731
+2915,30107,Aging Farmlands,19731
+2916,30109,Aging Farmlands,19731
+2917,31005,Aging Farmlands,19731
+2918,31007,Aging Farmlands,19731
+2919,31009,Aging Farmlands,19731
+2920,31015,Aging Farmlands,19731
+2921,31017,Aging Farmlands,19731
+2922,31021,Aging Farmlands,19731
+2923,31029,Aging Farmlands,19731
+2924,31049,Aging Farmlands,19731
+2925,31057,Aging Farmlands,19731
+2926,31061,Aging Farmlands,19731
+2927,31063,Aging Farmlands,19731
+2928,31065,Aging Farmlands,19731
+2929,31069,Aging Farmlands,19731
+2930,31071,Aging Farmlands,19731
+2931,31075,Aging Farmlands,19731
+2932,31077,Aging Farmlands,19731
+2933,31083,Aging Farmlands,19731
+2934,31085,Aging Farmlands,19731
+2935,31091,Aging Farmlands,19731
+2936,31095,Aging Farmlands,19731
+2937,31101,Aging Farmlands,19731
+2938,31103,Aging Farmlands,19731
+2939,31107,Aging Farmlands,19731
+2940,31113,Aging Farmlands,19731
+2941,31115,Aging Farmlands,19731
+2942,31117,Aging Farmlands,19731
+2943,31125,Aging Farmlands,19731
+2944,31129,Aging Farmlands,19731
+2945,31133,Aging Farmlands,19731
+2946,31149,Aging Farmlands,19731
+2947,31161,Aging Farmlands,19731
+2948,31163,Aging Farmlands,19731
+2949,31165,Aging Farmlands,19731
+2950,31169,Aging Farmlands,19731
+2951,31171,Aging Farmlands,19731
+2952,31175,Aging Farmlands,19731
+2953,31181,Aging Farmlands,19731
+2954,31183,Aging Farmlands,19731
+2955,32011,Aging Farmlands,19731
+2956,38001,Aging Farmlands,19731
+2957,38007,Aging Farmlands,19731
+2958,38009,Aging Farmlands,19731
+2959,38011,Aging Farmlands,19731
+2960,38013,Aging Farmlands,19731
+2961,38019,Aging Farmlands,19731
+2962,38023,Aging Farmlands,19731
+2963,38025,Aging Farmlands,19731
+2964,38027,Aging Farmlands,19731
+2965,38029,Aging Farmlands,19731
+2966,38031,Aging Farmlands,19731
+2967,38033,Aging Farmlands,19731
+2968,38037,Aging Farmlands,19731
+2969,38039,Aging Farmlands,19731
+2970,38041,Aging Farmlands,19731
+2971,38043,Aging Farmlands,19731
+2972,38045,Aging Farmlands,19731
+2973,38047,Aging Farmlands,19731
+2974,38049,Aging Farmlands,19731
+2975,38051,Aging Farmlands,19731
+2976,38055,Aging Farmlands,19731
+2977,38063,Aging Farmlands,19731
+2978,38069,Aging Farmlands,19731
+2979,38073,Aging Farmlands,19731
+2980,38075,Aging Farmlands,19731
+2981,38081,Aging Farmlands,19731
+2982,38083,Aging Farmlands,19731
+2983,38087,Aging Farmlands,19731
+2984,38091,Aging Farmlands,19731
+2985,38095,Aging Farmlands,19731
+2986,38099,Aging Farmlands,19731
+2987,38103,Aging Farmlands,19731
+2988,40003,Aging Farmlands,19731
+2989,40053,Aging Farmlands,19731
+2990,46021,Aging Farmlands,19731
+2991,46025,Aging Farmlands,19731
+2992,46037,Aging Farmlands,19731
+2993,46043,Aging Farmlands,19731
+2994,46049,Aging Farmlands,19731
+2995,46053,Aging Farmlands,19731
+2996,46055,Aging Farmlands,19731
+2997,46059,Aging Farmlands,19731
+2998,46063,Aging Farmlands,19731
+2999,46067,Aging Farmlands,19731
+3000,46069,Aging Farmlands,19731
+3001,46073,Aging Farmlands,19731
+3002,46075,Aging Farmlands,19731
+3003,46077,Aging Farmlands,19731
+3004,46089,Aging Farmlands,19731
+3005,46091,Aging Farmlands,19731
+3006,46097,Aging Farmlands,19731
+3007,46105,Aging Farmlands,19731
+3008,46107,Aging Farmlands,19731
+3009,46115,Aging Farmlands,19731
+3010,46129,Aging Farmlands,19731
+3011,48033,Aging Farmlands,19731
+3012,48093,Aging Farmlands,19731
+3013,48173,Aging Farmlands,19731
+3014,48235,Aging Farmlands,19731
+3015,48269,Aging Farmlands,19731
+3016,48319,Aging Farmlands,19731
+3017,48433,Aging Farmlands,19731
+3018,53023,Aging Farmlands,19731
+3019,04013,Big Cities,3004707
+3020,06001,Big Cities,3004707
+3021,06037,Big Cities,3004707
+3022,06067,Big Cities,3004707
+3023,06073,Big Cities,3004707
+3024,06075,Big Cities,3004707
+3025,06085,Big Cities,3004707
+3026,08031,Big Cities,3004707
+3027,11001,Big Cities,3004707
+3028,12031,Big Cities,3004707
+3029,12086,Big Cities,3004707
+3030,13121,Big Cities,3004707
+3031,17031,Big Cities,3004707
+3032,18097,Big Cities,3004707
+3033,20173,Big Cities,3004707
+3034,21111,Big Cities,3004707
+3035,24510,Big Cities,3004707
+3036,25025,Big Cities,3004707
+3037,26163,Big Cities,3004707
+3038,27053,Big Cities,3004707
+3039,27123,Big Cities,3004707
+3040,29095,Big Cities,3004707
+3041,29510,Big Cities,3004707
+3042,31055,Big Cities,3004707
+3043,32003,Big Cities,3004707
+3044,35001,Big Cities,3004707
+3045,36005,Big Cities,3004707
+3046,36047,Big Cities,3004707
+3047,36061,Big Cities,3004707
+3048,36081,Big Cities,3004707
+3049,36085,Big Cities,3004707
+3050,37119,Big Cities,3004707
+3051,37183,Big Cities,3004707
+3052,39035,Big Cities,3004707
+3053,39049,Big Cities,3004707
+3054,40109,Big Cities,3004707
+3055,40143,Big Cities,3004707
+3056,41051,Big Cities,3004707
+3057,42101,Big Cities,3004707
+3058,47037,Big Cities,3004707
+3059,48029,Big Cities,3004707
+3060,48113,Big Cities,3004707
+3061,48201,Big Cities,3004707
+3062,48439,Big Cities,3004707
+3063,48453,Big Cities,3004707
+3064,53033,Big Cities,3004707
+3065,55079,Big Cities,3004707
+3066,09015,Middle Suburbs,104128
+3067,17119,Middle Suburbs,104128
+3068,17143,Middle Suburbs,104128
+3069,17161,Middle Suburbs,104128
+3070,17201,Middle Suburbs,104128
+3071,18019,Middle Suburbs,104128
+3072,18043,Middle Suburbs,104128
+3073,18067,Middle Suburbs,104128
+3074,18089,Middle Suburbs,104128
+3075,18095,Middle Suburbs,104128
+3076,18127,Middle Suburbs,104128
+3077,18141,Middle Suburbs,104128
+3078,18163,Middle Suburbs,104128
+3079,18167,Middle Suburbs,104128
+3080,19013,Middle Suburbs,104128
+3081,19113,Middle Suburbs,104128
+3082,19163,Middle Suburbs,104128
+3083,21037,Middle Suburbs,104128
+3084,21117,Middle Suburbs,104128
+3085,22051,Middle Suburbs,104128
+3086,23001,Middle Suburbs,104128
+3087,24043,Middle Suburbs,104128
+3088,26049,Middle Suburbs,104128
+3089,26075,Middle Suburbs,104128
+3090,26093,Middle Suburbs,104128
+3091,26099,Middle Suburbs,104128
+3092,26115,Middle Suburbs,104128
+3093,26145,Middle Suburbs,104128
+3094,29021,Middle Suburbs,104128
+3095,34029,Middle Suburbs,104128
+3096,36007,Middle Suburbs,104128
+3097,36015,Middle Suburbs,104128
+3098,37001,Middle Suburbs,104128
+3099,39003,Middle Suburbs,104128
+3100,39017,Middle Suburbs,104128
+3101,39023,Middle Suburbs,104128
+3102,39025,Middle Suburbs,104128
+3103,39045,Middle Suburbs,104128
+3104,39055,Middle Suburbs,104128
+3105,39085,Middle Suburbs,104128
+3106,39089,Middle Suburbs,104128
+3107,39093,Middle Suburbs,104128
+3108,39099,Middle Suburbs,104128
+3109,39103,Middle Suburbs,104128
+3110,39109,Middle Suburbs,104128
+3111,39133,Middle Suburbs,104128
+3112,39139,Middle Suburbs,104128
+3113,39151,Middle Suburbs,104128
+3114,39153,Middle Suburbs,104128
+3115,39155,Middle Suburbs,104128
+3116,42007,Middle Suburbs,104128
+3117,42011,Middle Suburbs,104128
+3118,42013,Middle Suburbs,104128
+3119,42019,Middle Suburbs,104128
+3120,42069,Middle Suburbs,104128
+3121,42071,Middle Suburbs,104128
+3122,42073,Middle Suburbs,104128
+3123,42075,Middle Suburbs,104128
+3124,42077,Middle Suburbs,104128
+3125,42079,Middle Suburbs,104128
+3126,42095,Middle Suburbs,104128
+3127,42125,Middle Suburbs,104128
+3128,42129,Middle Suburbs,104128
+3129,42133,Middle Suburbs,104128
+3130,44003,Middle Suburbs,104128
+3131,54009,Middle Suburbs,104128
+3132,54011,Middle Suburbs,104128
+3133,54029,Middle Suburbs,104128
+3134,54069,Middle Suburbs,104128
+3135,54107,Middle Suburbs,104128
+3136,55009,Middle Suburbs,104128
+3137,55059,Middle Suburbs,104128
+3138,55087,Middle Suburbs,104128
+3139,55101,Middle Suburbs,104128
+3140,55105,Middle Suburbs,104128
+3141,55131,Middle Suburbs,104128
+3142,55139,Middle Suburbs,104128
