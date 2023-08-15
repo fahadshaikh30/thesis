@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.113
+Model:                                    OLS   Adj. R-squared:                  0.044
+Method:                         Least Squares   F-statistic:                     1.652
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.221
+Time:                                19:58:57   Log-Likelihood:                 18.456
+No. Observations:                          15   AIC:                            -32.91
+Df Residuals:                              13   BIC:                            -31.50
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                              -0.6059      0.133     -4.544      0.001      -0.894      -0.318
+Alcohol-Impaired Driving Deaths     0.6228      0.485      1.285      0.221      -0.424       1.670
+==============================================================================
+Omnibus:                        2.713   Durbin-Watson:                   2.628
+Prob(Omnibus):                  0.258   Jarque-Bera (JB):                1.262
+Skew:                           0.704   Prob(JB):                        0.532
+Kurtosis:                       3.190   Cond. No.                         26.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

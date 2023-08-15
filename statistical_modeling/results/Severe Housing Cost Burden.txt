@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.041
+Model:                                    OLS   Adj. R-squared:                 -0.032
+Method:                         Least Squares   F-statistic:                    0.5619
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.467
+Time:                                19:58:58   Log-Likelihood:                 17.876
+No. Observations:                          15   AIC:                            -31.75
+Df Residuals:                              13   BIC:                            -30.34
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                         -0.5138      0.105     -4.882      0.000      -0.741      -0.286
+Severe Housing Cost Burden     0.6927      0.924      0.750      0.467      -1.304       2.689
+==============================================================================
+Omnibus:                        1.419   Durbin-Watson:                   2.719
+Prob(Omnibus):                  0.492   Jarque-Bera (JB):                0.981
+Skew:                           0.593   Prob(JB):                        0.612
+Kurtosis:                       2.600   Cond. No.                         45.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

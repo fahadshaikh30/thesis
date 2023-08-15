@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.016
+Model:                                    OLS   Adj. R-squared:                 -0.060
+Method:                         Least Squares   F-statistic:                    0.2054
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.658
+Time:                                19:58:58   Log-Likelihood:                 17.676
+No. Observations:                          15   AIC:                            -31.35
+Df Residuals:                              13   BIC:                            -29.94
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      -0.3754      0.136     -2.755      0.016      -0.670      -0.081
+2004 (R) George W. Bush    -0.1080      0.238     -0.453      0.658      -0.623       0.407
+==============================================================================
+Omnibus:                        1.178   Durbin-Watson:                   2.806
+Prob(Omnibus):                  0.555   Jarque-Bera (JB):                0.809
+Skew:                           0.535   Prob(JB):                        0.667
+Kurtosis:                       2.612   Cond. No.                         15.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.007
+Model:                                    OLS   Adj. R-squared:                 -0.069
+Method:                         Least Squares   F-statistic:                   0.09311
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.765
+Time:                                19:58:58   Log-Likelihood:                 17.612
+No. Observations:                          15   AIC:                            -31.22
+Df Residuals:                              13   BIC:                            -29.81
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                  -0.4667      0.101     -4.605      0.000      -0.686      -0.248
+2004 (D) John Kerry     0.0715      0.234      0.305      0.765      -0.435       0.578
+==============================================================================
+Omnibus:                        0.889   Durbin-Watson:                   2.809
+Prob(Omnibus):                  0.641   Jarque-Bera (JB):                0.721
+Skew:                           0.471   Prob(JB):                        0.697
+Kurtosis:                       2.486   Cond. No.                         13.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.023
+Model:                                    OLS   Adj. R-squared:                 -0.052
+Method:                         Least Squares   F-statistic:                    0.3070
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.589
+Time:                                19:58:57   Log-Likelihood:                 17.734
+No. Observations:                          15   AIC:                            -31.47
+Df Residuals:                              13   BIC:                            -30.05
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+================================================================================================
+                                   coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------
+const                           -0.3881      0.090     -4.332      0.001      -0.582      -0.195
+Long Commute - Driving Alone    -0.1546      0.279     -0.554      0.589      -0.758       0.448
+==============================================================================
+Omnibus:                        1.696   Durbin-Watson:                   2.961
+Prob(Omnibus):                  0.428   Jarque-Bera (JB):                1.047
+Skew:                           0.330   Prob(JB):                        0.592
+Kurtosis:                       1.886   Cond. No.                         14.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

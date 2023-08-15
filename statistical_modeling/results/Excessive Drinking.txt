@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.042
+Model:                                    OLS   Adj. R-squared:                 -0.032
+Method:                         Least Squares   F-statistic:                    0.5642
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.466
+Time:                                19:58:58   Log-Likelihood:                 17.877
+No. Observations:                          15   AIC:                            -31.75
+Df Residuals:                              13   BIC:                            -30.34
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -0.3123      0.166     -1.876      0.083      -0.672       0.047
+Excessive Drinking    -0.6697      0.892     -0.751      0.466      -2.596       1.257
+==============================================================================
+Omnibus:                        1.405   Durbin-Watson:                   2.681
+Prob(Omnibus):                  0.495   Jarque-Bera (JB):                0.814
+Skew:                           0.015   Prob(JB):                        0.666
+Kurtosis:                       1.859   Cond. No.                         45.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

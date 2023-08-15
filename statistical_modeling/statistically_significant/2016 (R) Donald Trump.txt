@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.246
+Model:                                    OLS   Adj. R-squared:                  0.188
+Method:                         Least Squares   F-statistic:                     4.248
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):             0.0599
+Time:                                19:58:58   Log-Likelihood:                 19.679
+No. Observations:                          15   AIC:                            -35.36
+Df Residuals:                              13   BIC:                            -33.94
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -0.2812      0.077     -3.631      0.003      -0.448      -0.114
+2016 (R) Donald Trump    -0.2864      0.139     -2.061      0.060      -0.587       0.014
+==============================================================================
+Omnibus:                        1.384   Durbin-Watson:                   2.831
+Prob(Omnibus):                  0.501   Jarque-Bera (JB):                1.145
+Skew:                           0.559   Prob(JB):                        0.564
+Kurtosis:                       2.237   Cond. No.                         9.98
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

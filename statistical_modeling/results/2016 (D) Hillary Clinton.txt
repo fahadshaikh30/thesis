@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.057
+Model:                                    OLS   Adj. R-squared:                 -0.016
+Method:                         Least Squares   F-statistic:                    0.7829
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.392
+Time:                                19:58:58   Log-Likelihood:                 17.997
+No. Observations:                          15   AIC:                            -31.99
+Df Residuals:                              13   BIC:                            -30.58
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+const                       -0.4898      0.064     -7.696      0.000      -0.627      -0.352
+2016 (D) Hillary Clinton     0.1377      0.156      0.885      0.392      -0.199       0.474
+==============================================================================
+Omnibus:                        1.921   Durbin-Watson:                   2.818
+Prob(Omnibus):                  0.383   Jarque-Bera (JB):                1.179
+Skew:                           0.675   Prob(JB):                        0.555
+Kurtosis:                       2.750   Cond. No.                         8.87
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.177
+Model:                                    OLS   Adj. R-squared:                  0.113
+Method:                         Least Squares   F-statistic:                     2.792
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.119
+Time:                                19:58:57   Log-Likelihood:                 19.018
+No. Observations:                          15   AIC:                            -34.04
+Df Residuals:                              13   BIC:                            -32.62
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const            -0.2888      0.090     -3.197      0.007      -0.484      -0.094
+Adult Smoking    -0.7762      0.465     -1.671      0.119      -1.780       0.227
+==============================================================================
+Omnibus:                        4.251   Durbin-Watson:                   2.738
+Prob(Omnibus):                  0.119   Jarque-Bera (JB):                2.113
+Skew:                           0.892   Prob(JB):                        0.348
+Kurtosis:                       3.444   Cond. No.                         25.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

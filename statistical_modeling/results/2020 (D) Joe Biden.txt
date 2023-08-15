@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.116
+Model:                                    OLS   Adj. R-squared:                  0.048
+Method:                         Least Squares   F-statistic:                     1.705
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.214
+Time:                                19:58:58   Log-Likelihood:                 18.483
+No. Observations:                          15   AIC:                            -32.97
+Df Residuals:                              13   BIC:                            -31.55
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -0.5176      0.065     -7.940      0.000      -0.658      -0.377
+2020 (D) Joe Biden     0.1938      0.148      1.306      0.214      -0.127       0.514
+==============================================================================
+Omnibus:                        2.299   Durbin-Watson:                   2.812
+Prob(Omnibus):                  0.317   Jarque-Bera (JB):                1.444
+Skew:                           0.750   Prob(JB):                        0.486
+Kurtosis:                       2.749   Cond. No.                         8.93
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.057
+Model:                                    OLS   Adj. R-squared:                 -0.015
+Method:                         Least Squares   F-statistic:                    0.7904
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.390
+Time:                                19:58:58   Log-Likelihood:                 18.002
+No. Observations:                          15   AIC:                            -32.00
+Df Residuals:                              13   BIC:                            -30.59
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                   -0.3384      0.112     -3.020      0.010      -0.580      -0.096
+2008 (R) John McCain    -0.1884      0.212     -0.889      0.390      -0.646       0.269
+==============================================================================
+Omnibus:                        2.251   Durbin-Watson:                   2.868
+Prob(Omnibus):                  0.325   Jarque-Bera (JB):                1.275
+Skew:                           0.712   Prob(JB):                        0.529
+Kurtosis:                       2.877   Cond. No.                         13.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

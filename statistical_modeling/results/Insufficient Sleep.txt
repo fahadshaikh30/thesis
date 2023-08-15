@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.157
+Model:                                    OLS   Adj. R-squared:                  0.092
+Method:                         Least Squares   F-statistic:                     2.417
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.144
+Time:                                19:58:58   Log-Likelihood:                 18.838
+No. Observations:                          15   AIC:                            -33.68
+Df Residuals:                              13   BIC:                            -32.26
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                  0.0511      0.314      0.163      0.873      -0.628       0.730
+Insufficient Sleep    -1.4204      0.914     -1.555      0.144      -3.394       0.553
+==============================================================================
+Omnibus:                        1.944   Durbin-Watson:                   2.932
+Prob(Omnibus):                  0.378   Jarque-Bera (JB):                1.145
+Skew:                           0.364   Prob(JB):                        0.564
+Kurtosis:                       1.859   Cond. No.                         53.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

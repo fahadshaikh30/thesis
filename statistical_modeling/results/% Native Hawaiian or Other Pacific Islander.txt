@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.216
+Model:                                    OLS   Adj. R-squared:                  0.156
+Method:                         Least Squares   F-statistic:                     3.588
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):             0.0807
+Time:                                19:58:57   Log-Likelihood:                 19.387
+No. Observations:                          15   AIC:                            -34.77
+Df Residuals:                              13   BIC:                            -33.36
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+const                                          -0.4907      0.034    -14.406      0.000      -0.564      -0.417
+% Native Hawaiian or Other Pacific Islander    51.1879     27.022      1.894      0.081      -7.191     109.566
+==============================================================================
+Omnibus:                        1.181   Durbin-Watson:                   2.726
+Prob(Omnibus):                  0.554   Jarque-Bera (JB):                0.763
+Skew:                           0.067   Prob(JB):                        0.683
+Kurtosis:                       1.903   Cond. No.                     1.47e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.47e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

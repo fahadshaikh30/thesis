@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.002
+Model:                                    OLS   Adj. R-squared:                 -0.075
+Method:                         Least Squares   F-statistic:                   0.02583
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.875
+Time:                                19:58:58   Log-Likelihood:                 17.574
+No. Observations:                          15   AIC:                            -31.15
+Df Residuals:                              13   BIC:                            -29.73
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -0.4466      0.067     -6.703      0.000      -0.590      -0.303
+Uninsured Children     0.1607      1.000      0.161      0.875      -2.000       2.321
+==============================================================================
+Omnibus:                        0.622   Durbin-Watson:                   2.835
+Prob(Omnibus):                  0.733   Jarque-Bera (JB):                0.652
+Skew:                           0.300   Prob(JB):                        0.722
+Kurtosis:                       2.174   Cond. No.                         48.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

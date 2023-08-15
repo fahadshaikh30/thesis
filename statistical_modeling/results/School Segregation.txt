@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.164
+Model:                                    OLS   Adj. R-squared:                  0.100
+Method:                         Least Squares   F-statistic:                     2.557
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.134
+Time:                                19:58:57   Log-Likelihood:                 18.905
+No. Observations:                          15   AIC:                            -33.81
+Df Residuals:                              13   BIC:                            -32.39
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -0.4916      0.039    -12.465      0.000      -0.577      -0.406
+School Segregation     0.6278      0.393      1.599      0.134      -0.220       1.476
+==============================================================================
+Omnibus:                        3.705   Durbin-Watson:                   2.866
+Prob(Omnibus):                  0.157   Jarque-Bera (JB):                1.581
+Skew:                           0.736   Prob(JB):                        0.454
+Kurtosis:                       3.600   Cond. No.                         20.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

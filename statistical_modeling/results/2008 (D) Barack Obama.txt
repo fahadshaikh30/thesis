@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.052
+Model:                                    OLS   Adj. R-squared:                 -0.021
+Method:                         Least Squares   F-statistic:                    0.7121
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.414
+Time:                                19:58:58   Log-Likelihood:                 17.959
+No. Observations:                          15   AIC:                            -31.92
+Df Residuals:                              13   BIC:                            -30.50
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -0.5183      0.099     -5.226      0.000      -0.733      -0.304
+2008 (D) Barack Obama     0.1763      0.209      0.844      0.414      -0.275       0.628
+==============================================================================
+Omnibus:                        2.317   Durbin-Watson:                   2.851
+Prob(Omnibus):                  0.314   Jarque-Bera (JB):                1.280
+Skew:                           0.714   Prob(JB):                        0.527
+Kurtosis:                       2.915   Cond. No.                         12.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

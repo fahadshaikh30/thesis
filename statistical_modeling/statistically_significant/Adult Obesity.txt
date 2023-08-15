@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.336
+Model:                                    OLS   Adj. R-squared:                  0.285
+Method:                         Least Squares   F-statistic:                     6.570
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):             0.0236
+Time:                                19:58:57   Log-Likelihood:                 20.627
+No. Observations:                          15   AIC:                            -37.25
+Df Residuals:                              13   BIC:                            -35.84
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const             0.0182      0.178      0.102      0.920      -0.367       0.403
+Adult Obesity    -1.2772      0.498     -2.563      0.024      -2.354      -0.201
+==============================================================================
+Omnibus:                        3.991   Durbin-Watson:                   2.274
+Prob(Omnibus):                  0.136   Jarque-Bera (JB):                2.180
+Skew:                           0.928   Prob(JB):                        0.336
+Kurtosis:                       3.198   Cond. No.                         33.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

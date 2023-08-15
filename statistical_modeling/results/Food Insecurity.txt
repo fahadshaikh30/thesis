@@ -1,0 +1,25 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.085
+Model:                                    OLS   Adj. R-squared:                  0.015
+Method:                         Least Squares   F-statistic:                     1.209
+Date:                        Tue, 15 Aug 2023   Prob (F-statistic):              0.291
+Time:                                19:58:57   Log-Likelihood:                 18.226
+No. Observations:                          15   AIC:                            -32.45
+Df Residuals:                              13   BIC:                            -31.04
+Df Model:                                   1                                         
+Covariance Type:                    nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const              -0.3291      0.100     -3.303      0.006      -0.544      -0.114
+Food Insecurity    -0.8709      0.792     -1.100      0.291      -2.582       0.840
+==============================================================================
+Omnibus:                        1.301   Durbin-Watson:                   2.865
+Prob(Omnibus):                  0.522   Jarque-Bera (JB):                1.020
+Skew:                           0.574   Prob(JB):                        0.601
+Kurtosis:                       2.440   Cond. No.                         40.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
