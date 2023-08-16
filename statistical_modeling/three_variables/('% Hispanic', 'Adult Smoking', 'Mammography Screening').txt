@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.673
+Model:                                    OLS   Adj. R-squared:                  0.584
+Method:                         Least Squares   F-statistic:                     7.563
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00509
+Time:                                22:11:00   Log-Likelihood:                 25.953
+No. Observations:                          15   AIC:                            -43.91
+Df Residuals:                              11   BIC:                            -41.07
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     0.6220      0.232      2.686      0.021       0.112       1.132
+% Hispanic               -0.5312      0.156     -3.410      0.006      -0.874      -0.188
+Adult Smoking            -2.1198      0.458     -4.623      0.001      -3.129      -1.111
+Mammography Screening    -1.7043      0.425     -4.006      0.002      -2.641      -0.768
+==============================================================================
+Omnibus:                        0.630   Durbin-Watson:                   2.067
+Prob(Omnibus):                  0.730   Jarque-Bera (JB):                0.659
+Skew:                          -0.348   Prob(JB):                        0.719
+Kurtosis:                       2.244   Cond. No.                         52.7
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

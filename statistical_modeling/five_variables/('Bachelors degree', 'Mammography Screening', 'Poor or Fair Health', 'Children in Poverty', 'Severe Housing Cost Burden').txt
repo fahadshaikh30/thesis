@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.904
+Model:                                    OLS   Adj. R-squared:                  0.851
+Method:                         Least Squares   F-statistic:                     16.96
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000240
+Time:                                23:25:21   Log-Likelihood:                 35.139
+No. Observations:                          15   AIC:                            -58.28
+Df Residuals:                               9   BIC:                            -54.03
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                         -0.0690      0.168     -0.410      0.691      -0.449       0.311
+Bachelors degree               1.9279      0.353      5.467      0.000       1.130       2.726
+Mammography Screening         -1.1786      0.243     -4.854      0.001      -1.728      -0.629
+Poor or Fair Health           -3.4068      0.821     -4.151      0.002      -5.264      -1.550
+Children in Poverty            2.7491      0.490      5.610      0.000       1.641       3.858
+Severe Housing Cost Burden    -4.2716      0.998     -4.281      0.002      -6.529      -2.014
+==============================================================================
+Omnibus:                        3.070   Durbin-Watson:                   2.102
+Prob(Omnibus):                  0.215   Jarque-Bera (JB):                1.230
+Skew:                          -0.658   Prob(JB):                        0.541
+Kurtosis:                       3.488   Cond. No.                         161.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

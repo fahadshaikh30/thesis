@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.932
+Model:                                    OLS   Adj. R-squared:                  0.894
+Method:                         Least Squares   F-statistic:                     24.53
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           5.42e-05
+Time:                                22:31:00   Log-Likelihood:                 37.682
+No. Observations:                          15   AIC:                            -63.36
+Df Residuals:                               9   BIC:                            -59.11
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+=====================================================================================================================
+                                                        coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------
+const                                                 0.0890      0.250      0.356      0.730      -0.477       0.655
+Driving Alone to Work                                -1.4537      0.235     -6.199      0.000      -1.984      -0.923
+% 65 and Older                                       -1.5337      0.251     -6.122      0.000      -2.100      -0.967
+% Asian                                              -2.1407      0.529     -4.046      0.003      -3.338      -0.944
+Voter Turnout                                         1.1899      0.202      5.890      0.000       0.733       1.647
+Children Eligible for Free or Reduced Price Lunch     0.2621      0.066      3.963      0.003       0.112       0.412
+==============================================================================
+Omnibus:                        2.791   Durbin-Watson:                   2.223
+Prob(Omnibus):                  0.248   Jarque-Bera (JB):                1.280
+Skew:                           0.707   Prob(JB):                        0.527
+Kurtosis:                       3.226   Cond. No.                         133.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

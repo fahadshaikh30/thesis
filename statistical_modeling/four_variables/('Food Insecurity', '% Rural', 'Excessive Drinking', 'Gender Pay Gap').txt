@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.722
+Model:                                    OLS   Adj. R-squared:                  0.610
+Method:                         Least Squares   F-statistic:                     6.480
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00771
+Time:                                22:13:37   Log-Likelihood:                 27.149
+No. Observations:                          15   AIC:                            -44.30
+Df Residuals:                              10   BIC:                            -40.76
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                 -1.1100      0.277     -4.008      0.002      -1.727      -0.493
+Food Insecurity       -4.8522      1.007     -4.816      0.001      -7.097      -2.607
+% Rural                0.2441      0.069      3.538      0.005       0.090       0.398
+Excessive Drinking    -4.3469      0.945     -4.598      0.001      -6.453      -2.241
+Gender Pay Gap         2.5051      0.570      4.393      0.001       1.234       3.776
+==============================================================================
+Omnibus:                        1.588   Durbin-Watson:                   2.180
+Prob(Omnibus):                  0.452   Jarque-Bera (JB):                0.965
+Skew:                          -0.267   Prob(JB):                        0.617
+Kurtosis:                       1.878   Cond. No.                         154.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

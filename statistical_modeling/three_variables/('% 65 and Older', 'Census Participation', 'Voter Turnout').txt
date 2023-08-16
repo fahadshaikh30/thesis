@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.858
+Model:                                    OLS   Adj. R-squared:                  0.820
+Method:                         Least Squares   F-statistic:                     22.19
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           5.72e-05
+Time:                                22:10:53   Log-Likelihood:                 32.209
+No. Observations:                          15   AIC:                            -56.42
+Df Residuals:                              11   BIC:                            -53.59
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                   -0.5731      0.090     -6.371      0.000      -0.771      -0.375
+% 65 and Older          -1.9885      0.282     -7.047      0.000      -2.610      -1.367
+Census Participation    -0.6375      0.119     -5.366      0.000      -0.899      -0.376
+Voter Turnout            1.3283      0.189      7.014      0.000       0.911       1.745
+==============================================================================
+Omnibus:                        0.101   Durbin-Watson:                   1.055
+Prob(Omnibus):                  0.951   Jarque-Bera (JB):                0.103
+Skew:                          -0.096   Prob(JB):                        0.950
+Kurtosis:                       2.643   Cond. No.                         49.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

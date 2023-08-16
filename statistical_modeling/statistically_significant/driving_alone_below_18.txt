@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.678
+Model:                                    OLS   Adj. R-squared:                  0.625
+Method:                         Least Squares   F-statistic:                     12.64
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00111
+Time:                                19:51:29   Log-Likelihood:                 26.062
+No. Observations:                          15   AIC:                            -46.12
+Df Residuals:                              12   BIC:                            -44.00
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       0.4962      0.309      1.607      0.134      -0.177       1.169
+Driving Alone to Work      -1.4433      0.352     -4.097      0.001      -2.211      -0.676
+% Below 18 Years of Age     0.8545      0.412      2.076      0.060      -0.042       1.751
+==============================================================================
+Omnibus:                        0.455   Durbin-Watson:                   2.257
+Prob(Omnibus):                  0.797   Jarque-Bera (JB):                0.330
+Skew:                           0.313   Prob(JB):                        0.848
+Kurtosis:                       2.632   Cond. No.                         53.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

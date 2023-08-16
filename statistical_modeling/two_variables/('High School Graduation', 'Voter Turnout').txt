@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.611
+Model:                                    OLS   Adj. R-squared:                  0.547
+Method:                         Least Squares   F-statistic:                     9.436
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00345
+Time:                                22:09:38   Log-Likelihood:                 24.646
+No. Observations:                          15   AIC:                            -43.29
+Df Residuals:                              12   BIC:                            -41.17
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      0.4052      0.317      1.279      0.225      -0.285       1.096
+High School Graduation    -1.5644      0.401     -3.897      0.002      -2.439      -0.690
+Voter Turnout              0.8174      0.236      3.458      0.005       0.302       1.332
+==============================================================================
+Omnibus:                        3.023   Durbin-Watson:                   2.540
+Prob(Omnibus):                  0.221   Jarque-Bera (JB):                1.107
+Skew:                           0.592   Prob(JB):                        0.575
+Kurtosis:                       3.610   Cond. No.                         55.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

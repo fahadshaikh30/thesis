@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.687
+Model:                                    OLS   Adj. R-squared:                  0.602
+Method:                         Least Squares   F-statistic:                     8.050
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00406
+Time:                                22:10:55   Log-Likelihood:                 26.272
+No. Observations:                          15   AIC:                            -44.54
+Df Residuals:                              11   BIC:                            -41.71
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================================
+                                         coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+const                                  1.0025      0.329      3.046      0.011       0.278       1.727
+% American Indian or Alaska Native     0.3587      0.096      3.728      0.003       0.147       0.570
+Insufficient Sleep                    -6.4171      1.489     -4.309      0.001      -9.695      -3.139
+Low Birthweight                        9.2095      2.594      3.550      0.005       3.499      14.920
+==============================================================================
+Omnibus:                        1.114   Durbin-Watson:                   2.773
+Prob(Omnibus):                  0.573   Jarque-Bera (JB):                0.757
+Skew:                           0.116   Prob(JB):                        0.685
+Kurtosis:                       1.924   Cond. No.                         248.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

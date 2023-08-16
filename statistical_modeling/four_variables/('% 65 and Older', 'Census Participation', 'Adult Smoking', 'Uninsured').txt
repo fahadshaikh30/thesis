@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.894
+Model:                                    OLS   Adj. R-squared:                  0.851
+Method:                         Least Squares   F-statistic:                     21.05
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           7.37e-05
+Time:                                22:14:54   Log-Likelihood:                 34.380
+No. Observations:                          15   AIC:                            -58.76
+Df Residuals:                              10   BIC:                            -55.22
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    1.1375      0.186      6.127      0.000       0.724       1.551
+% 65 and Older          -1.6157      0.256     -6.320      0.000      -2.185      -1.046
+Census Participation    -1.2156      0.168     -7.233      0.000      -1.590      -0.841
+Adult Smoking           -1.3556      0.249     -5.440      0.000      -1.911      -0.800
+Uninsured               -2.6345      0.441     -5.977      0.000      -3.617      -1.652
+==============================================================================
+Omnibus:                        1.521   Durbin-Watson:                   1.918
+Prob(Omnibus):                  0.467   Jarque-Bera (JB):                0.382
+Skew:                          -0.364   Prob(JB):                        0.826
+Kurtosis:                       3.287   Cond. No.                         79.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

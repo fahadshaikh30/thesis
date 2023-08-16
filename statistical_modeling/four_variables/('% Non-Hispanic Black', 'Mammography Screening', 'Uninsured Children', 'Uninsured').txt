@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.835
+Model:                                    OLS   Adj. R-squared:                  0.769
+Method:                         Least Squares   F-statistic:                     12.65
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000634
+Time:                                22:17:09   Log-Likelihood:                 31.070
+No. Observations:                          15   AIC:                            -52.14
+Df Residuals:                              10   BIC:                            -48.60
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     0.9651      0.229      4.212      0.002       0.455       1.476
+% Non-Hispanic Black      0.7131      0.150      4.755      0.001       0.379       1.047
+Mammography Screening    -2.9052      0.468     -6.208      0.000      -3.948      -1.862
+Uninsured Children        6.9684      1.368      5.095      0.000       3.921      10.016
+Uninsured                -7.5388      1.091     -6.910      0.000      -9.970      -5.108
+==============================================================================
+Omnibus:                        1.982   Durbin-Watson:                   2.335
+Prob(Omnibus):                  0.371   Jarque-Bera (JB):                0.378
+Skew:                          -0.142   Prob(JB):                        0.828
+Kurtosis:                       3.724   Cond. No.                         189.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

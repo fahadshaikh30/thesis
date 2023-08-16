@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.839
+Model:                                    OLS   Adj. R-squared:                  0.750
+Method:                         Least Squares   F-statistic:                     9.397
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00224
+Time:                                23:00:28   Log-Likelihood:                 31.268
+No. Observations:                          15   AIC:                            -50.54
+Df Residuals:                               9   BIC:                            -46.29
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================================
+                                           coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------
+const                                   -0.0316      0.132     -0.239      0.817      -0.331       0.268
+% American Indian or Alaska Native       0.5665      0.121      4.664      0.001       0.292       0.841
+% Non-Hispanic White                    -0.3992      0.085     -4.715      0.001      -0.591      -0.208
+Diabetes Prevalence                     -5.7281      1.360     -4.212      0.002      -8.805      -2.651
+Low Birthweight                         10.5153      2.361      4.455      0.002       5.175      15.855
+Children in Single-Parent Households    -1.6655      0.430     -3.875      0.004      -2.638      -0.693
+==============================================================================
+Omnibus:                        3.035   Durbin-Watson:                   0.826
+Prob(Omnibus):                  0.219   Jarque-Bera (JB):                1.703
+Skew:                          -0.825   Prob(JB):                        0.427
+Kurtosis:                       2.994   Cond. No.                         311.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

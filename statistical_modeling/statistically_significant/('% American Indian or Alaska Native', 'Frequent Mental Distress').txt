@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.486
+Model:                                    OLS   Adj. R-squared:                  0.401
+Method:                         Least Squares   F-statistic:                     5.677
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):             0.0184
+Time:                                21:09:57   Log-Likelihood:                 22.552
+No. Observations:                          15   AIC:                            -39.10
+Df Residuals:                              12   BIC:                            -36.98
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================================
+                                         coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+const                                  0.1160      0.196      0.591      0.566      -0.312       0.544
+% American Indian or Alaska Native     0.2527      0.109      2.326      0.038       0.016       0.489
+Frequent Mental Distress              -3.6442      1.271     -2.868      0.014      -6.413      -0.876
+==============================================================================
+Omnibus:                        4.883   Durbin-Watson:                   2.636
+Prob(Omnibus):                  0.087   Jarque-Bera (JB):                2.284
+Skew:                           0.867   Prob(JB):                        0.319
+Kurtosis:                       3.806   Cond. No.                         83.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

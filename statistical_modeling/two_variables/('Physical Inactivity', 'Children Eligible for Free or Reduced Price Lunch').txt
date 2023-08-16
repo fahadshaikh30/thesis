@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.694
+Model:                                    OLS   Adj. R-squared:                  0.643
+Method:                         Least Squares   F-statistic:                     13.59
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000827
+Time:                                22:09:39   Log-Likelihood:                 26.431
+No. Observations:                          15   AIC:                            -46.86
+Df Residuals:                              12   BIC:                            -44.74
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+=====================================================================================================================
+                                                        coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------
+const                                                 0.0181      0.092      0.196      0.848      -0.183       0.219
+Physical Inactivity                                  -3.1274      0.606     -5.165      0.000      -4.447      -1.808
+Children Eligible for Free or Reduced Price Lunch     0.5808      0.142      4.104      0.001       0.273       0.889
+==============================================================================
+Omnibus:                        0.213   Durbin-Watson:                   2.668
+Prob(Omnibus):                  0.899   Jarque-Bera (JB):                0.404
+Skew:                          -0.011   Prob(JB):                        0.817
+Kurtosis:                       2.196   Cond. No.                         61.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

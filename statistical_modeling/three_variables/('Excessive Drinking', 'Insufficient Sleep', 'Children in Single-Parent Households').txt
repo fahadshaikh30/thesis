@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.725
+Model:                                    OLS   Adj. R-squared:                  0.649
+Method:                         Least Squares   F-statistic:                     9.647
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00205
+Time:                                22:11:12   Log-Likelihood:                 27.230
+No. Observations:                          15   AIC:                            -46.46
+Df Residuals:                              11   BIC:                            -43.63
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================================
+                                           coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------
+const                                    1.9990      0.454      4.400      0.001       0.999       2.999
+Excessive Drinking                      -2.4876      0.627     -3.971      0.002      -3.867      -1.109
+Insufficient Sleep                      -6.7677      1.327     -5.099      0.000      -9.689      -3.847
+Children in Single-Parent Households     1.4243      0.361      3.943      0.002       0.629       2.219
+==============================================================================
+Omnibus:                        2.260   Durbin-Watson:                   2.552
+Prob(Omnibus):                  0.323   Jarque-Bera (JB):                0.817
+Skew:                          -0.547   Prob(JB):                        0.664
+Kurtosis:                       3.334   Cond. No.                         137.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

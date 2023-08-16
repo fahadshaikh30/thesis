@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.818
+Model:                                    OLS   Adj. R-squared:                  0.768
+Method:                         Least Squares   F-statistic:                     16.45
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000223
+Time:                                22:10:58   Log-Likelihood:                 30.327
+No. Observations:                          15   AIC:                            -52.65
+Df Residuals:                              11   BIC:                            -49.82
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      -0.1942      0.117     -1.658      0.126      -0.452       0.064
+% Below 18 Years of Age     1.2208      0.327      3.738      0.003       0.502       1.940
+Physical Inactivity        -3.1774      0.596     -5.329      0.000      -4.490      -1.865
+Children in Poverty         1.3783      0.371      3.717      0.003       0.562       2.194
+==============================================================================
+Omnibus:                        3.069   Durbin-Watson:                   2.118
+Prob(Omnibus):                  0.216   Jarque-Bera (JB):                1.474
+Skew:                           0.433   Prob(JB):                        0.479
+Kurtosis:                       1.732   Cond. No.                         77.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

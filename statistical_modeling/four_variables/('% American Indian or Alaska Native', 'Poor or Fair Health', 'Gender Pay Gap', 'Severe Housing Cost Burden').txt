@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.791
+Model:                                    OLS   Adj. R-squared:                  0.708
+Method:                         Least Squares   F-statistic:                     9.471
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00197
+Time:                                22:15:27   Log-Likelihood:                 29.305
+No. Observations:                          15   AIC:                            -48.61
+Df Residuals:                              10   BIC:                            -45.07
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+======================================================================================================
+                                         coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+const                                  0.8093      0.320      2.526      0.030       0.095       1.523
+% American Indian or Alaska Native     0.6471      0.117      5.539      0.000       0.387       0.907
+Poor or Fair Health                   -1.4427      0.356     -4.056      0.002      -2.235      -0.650
+Gender Pay Gap                        -1.8248      0.487     -3.745      0.004      -2.911      -0.739
+Severe Housing Cost Burden             3.3573      0.793      4.232      0.002       1.590       5.125
+==============================================================================
+Omnibus:                        4.420   Durbin-Watson:                   1.653
+Prob(Omnibus):                  0.110   Jarque-Bera (JB):                2.703
+Skew:                          -1.040   Prob(JB):                        0.259
+Kurtosis:                       3.038   Cond. No.                         110.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

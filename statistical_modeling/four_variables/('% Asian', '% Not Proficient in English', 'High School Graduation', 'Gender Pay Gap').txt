@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.797
+Model:                                    OLS   Adj. R-squared:                  0.716
+Method:                         Least Squares   F-statistic:                     9.807
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00172
+Time:                                22:15:36   Log-Likelihood:                 29.513
+No. Observations:                          15   AIC:                            -49.03
+Df Residuals:                              10   BIC:                            -45.49
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+===============================================================================================
+                                  coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+const                           3.1989      0.674      4.748      0.001       1.698       4.700
+% Asian                         3.6841      0.809      4.553      0.001       1.881       5.487
+% Not Proficient in English    -2.5518      0.701     -3.642      0.005      -4.113      -0.990
+High School Graduation         -2.4584      0.449     -5.474      0.000      -3.459      -1.458
+Gender Pay Gap                 -1.9167      0.423     -4.535      0.001      -2.858      -0.975
+==============================================================================
+Omnibus:                       12.207   Durbin-Watson:                   1.651
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):                8.665
+Skew:                          -1.378   Prob(JB):                       0.0131
+Kurtosis:                       5.503   Cond. No.                         163.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

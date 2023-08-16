@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.765
+Model:                                    OLS   Adj. R-squared:                  0.671
+Method:                         Least Squares   F-statistic:                     8.140
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00346
+Time:                                22:13:38   Log-Likelihood:                 28.421
+No. Observations:                          15   AIC:                            -46.84
+Df Residuals:                              10   BIC:                            -43.30
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                         -0.0225      0.251     -0.090      0.930      -0.582       0.537
+Food Insecurity                7.6706      1.740      4.409      0.001       3.795      11.547
+Bachelors degree               2.0063      0.473      4.238      0.002       0.952       3.061
+Frequent Mental Distress      -8.4459      2.114     -3.995      0.003     -13.156      -3.735
+Severe Housing Cost Burden    -5.4143      1.432     -3.781      0.004      -8.605      -2.224
+==============================================================================
+Omnibus:                        0.881   Durbin-Watson:                   2.295
+Prob(Omnibus):                  0.644   Jarque-Bera (JB):                0.714
+Skew:                          -0.190   Prob(JB):                        0.700
+Kurtosis:                       2.001   Cond. No.                         254.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

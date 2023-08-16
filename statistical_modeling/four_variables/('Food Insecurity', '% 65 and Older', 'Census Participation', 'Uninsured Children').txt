@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.800
+Model:                                    OLS   Adj. R-squared:                  0.720
+Method:                         Least Squares   F-statistic:                     10.01
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00160
+Time:                                22:13:23   Log-Likelihood:                 29.634
+No. Observations:                          15   AIC:                            -49.27
+Df Residuals:                              10   BIC:                            -45.73
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    1.3368      0.316      4.230      0.002       0.633       2.041
+Food Insecurity         -3.8784      0.729     -5.324      0.000      -5.502      -2.255
+% 65 and Older          -1.7514      0.340     -5.155      0.000      -2.508      -0.994
+Census Participation    -1.3128      0.270     -4.855      0.001      -1.915      -0.710
+Uninsured Children      -3.1883      0.908     -3.512      0.006      -5.211      -1.165
+==============================================================================
+Omnibus:                        0.771   Durbin-Watson:                   1.850
+Prob(Omnibus):                  0.680   Jarque-Bera (JB):                0.749
+Skew:                           0.381   Prob(JB):                        0.688
+Kurtosis:                       2.214   Cond. No.                         125.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

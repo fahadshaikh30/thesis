@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.851
+Model:                                    OLS   Adj. R-squared:                  0.792
+Method:                         Least Squares   F-statistic:                     14.33
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000380
+Time:                                22:19:07   Log-Likelihood:                 31.862
+No. Observations:                          15   AIC:                            -53.72
+Df Residuals:                              10   BIC:                            -50.18
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -0.2539      0.156     -1.632      0.134      -0.601       0.093
+Mammography Screening    -1.5832      0.276     -5.743      0.000      -2.197      -0.969
+% Democrats               0.7365      0.145      5.093      0.000       0.414       1.059
+Voter Turnout             0.7250      0.218      3.328      0.008       0.240       1.210
+Unemployment             -9.1268      1.931     -4.725      0.001     -13.430      -4.823
+==============================================================================
+Omnibus:                        0.643   Durbin-Watson:                   1.459
+Prob(Omnibus):                  0.725   Jarque-Bera (JB):                0.642
+Skew:                           0.386   Prob(JB):                        0.725
+Kurtosis:                       2.344   Cond. No.                         280.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

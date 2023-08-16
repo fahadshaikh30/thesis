@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.890
+Model:                                    OLS   Adj. R-squared:                  0.846
+Method:                         Least Squares   F-statistic:                     20.22
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           8.79e-05
+Time:                                22:12:52   Log-Likelihood:                 34.111
+No. Observations:                          15   AIC:                            -58.22
+Df Residuals:                              10   BIC:                            -54.68
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     0.8281      0.177      4.679      0.001       0.434       1.222
+Driving Alone to Work    -2.5993      0.344     -7.548      0.000      -3.367      -1.832
+% 65 and Older           -1.2776      0.291     -4.385      0.001      -1.927      -0.629
+Low Birthweight           3.6110      0.960      3.762      0.004       1.472       5.750
+Homeownership             1.0053      0.212      4.732      0.001       0.532       1.479
+==============================================================================
+Omnibus:                        3.191   Durbin-Watson:                   1.508
+Prob(Omnibus):                  0.203   Jarque-Bera (JB):                1.913
+Skew:                          -0.874   Prob(JB):                        0.384
+Kurtosis:                       2.911   Cond. No.                         187.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,31 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.876
+Model:                                    OLS   Adj. R-squared:                  0.807
+Method:                         Least Squares   F-statistic:                     12.71
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000734
+Time:                                23:06:03   Log-Likelihood:                 33.214
+No. Observations:                          15   AIC:                            -54.43
+Df Residuals:                               9   BIC:                            -50.18
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+const                                          -6.2071      1.037     -5.987      0.000      -8.553      -3.862
+% Below 18 Years of Age                         2.2794      0.426      5.346      0.000       1.315       3.244
+% Female                                       12.9255      2.294      5.636      0.000       7.737      18.114
+% Native Hawaiian or Other Pacific Islander    60.2480     16.495      3.653      0.005      22.934      97.561
+Census Participation                           -0.9317      0.189     -4.920      0.001      -1.360      -0.503
+Diabetes Prevalence                            -7.0603      1.144     -6.174      0.000      -9.647      -4.473
+==============================================================================
+Omnibus:                       18.124   Durbin-Watson:                   1.159
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               17.297
+Skew:                          -1.776   Prob(JB):                     0.000175
+Kurtosis:                       6.880   Cond. No.                     2.42e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.42e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

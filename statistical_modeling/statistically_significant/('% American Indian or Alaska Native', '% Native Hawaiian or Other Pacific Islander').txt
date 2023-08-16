@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.419
+Model:                                    OLS   Adj. R-squared:                  0.322
+Method:                         Least Squares   F-statistic:                     4.325
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):             0.0385
+Time:                                21:09:57   Log-Likelihood:                 21.630
+No. Observations:                          15   AIC:                            -37.26
+Df Residuals:                              12   BIC:                            -35.14
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+===============================================================================================================
+                                                  coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+const                                          -0.5108      0.032    -15.925      0.000      -0.581      -0.441
+% American Indian or Alaska Native              0.2344      0.115      2.045      0.063      -0.015       0.484
+% Native Hawaiian or Other Pacific Islander    59.5853     24.565      2.426      0.032       6.062     113.108
+==============================================================================
+Omnibus:                        2.265   Durbin-Watson:                   2.220
+Prob(Omnibus):                  0.322   Jarque-Bera (JB):                1.091
+Skew:                          -0.236   Prob(JB):                        0.580
+Kurtosis:                       1.766   Cond. No.                     1.49e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.49e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

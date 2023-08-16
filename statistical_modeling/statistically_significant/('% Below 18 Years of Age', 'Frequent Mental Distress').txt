@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.502
+Model:                                    OLS   Adj. R-squared:                  0.419
+Method:                         Least Squares   F-statistic:                     6.051
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):             0.0152
+Time:                                21:09:58   Log-Likelihood:                 22.789
+No. Observations:                          15   AIC:                            -39.58
+Df Residuals:                              12   BIC:                            -37.45
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+const                       -0.2327      0.219     -1.063      0.309      -0.710       0.244
+% Below 18 Years of Age      1.2284      0.503      2.443      0.031       0.133       2.324
+Frequent Mental Distress    -3.1472      1.224     -2.570      0.025      -5.815      -0.479
+==============================================================================
+Omnibus:                        1.090   Durbin-Watson:                   2.980
+Prob(Omnibus):                  0.580   Jarque-Bera (JB):                0.942
+Skew:                          -0.442   Prob(JB):                        0.624
+Kurtosis:                       2.149   Cond. No.                         84.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

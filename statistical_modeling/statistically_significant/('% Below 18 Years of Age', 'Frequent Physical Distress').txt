@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.464
+Model:                                    OLS   Adj. R-squared:                  0.375
+Method:                         Least Squares   F-statistic:                     5.200
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):             0.0236
+Time:                                21:09:58   Log-Likelihood:                 22.240
+No. Observations:                          15   AIC:                            -38.48
+Df Residuals:                              12   BIC:                            -36.36
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                         -0.5822      0.133     -4.368      0.001      -0.873      -0.292
+% Below 18 Years of Age        1.7350      0.575      3.019      0.011       0.483       2.987
+Frequent Physical Distress    -2.3687      1.030     -2.301      0.040      -4.612      -0.126
+==============================================================================
+Omnibus:                        1.957   Durbin-Watson:                   2.813
+Prob(Omnibus):                  0.376   Jarque-Bera (JB):                0.972
+Skew:                          -0.148   Prob(JB):                        0.615
+Kurtosis:                       1.789   Cond. No.                         69.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

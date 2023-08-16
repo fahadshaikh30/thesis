@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.822
+Model:                                    OLS   Adj. R-squared:                  0.751
+Method:                         Least Squares   F-statistic:                     11.56
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000909
+Time:                                22:14:49   Log-Likelihood:                 30.510
+No. Observations:                          15   AIC:                            -51.02
+Df Residuals:                              10   BIC:                            -47.48
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    1.3473      0.281      4.791      0.001       0.721       1.974
+% 65 and Older          -2.1995      0.354     -6.219      0.000      -2.988      -1.412
+% Non-Hispanic Black     0.5344      0.139      3.853      0.003       0.225       0.843
+Census Participation    -1.0425      0.196     -5.311      0.000      -1.480      -0.605
+Diabetes Prevalence     -7.7546      1.342     -5.777      0.000     -10.745      -4.764
+==============================================================================
+Omnibus:                        5.998   Durbin-Watson:                   2.519
+Prob(Omnibus):                  0.050   Jarque-Bera (JB):                3.465
+Skew:                          -1.154   Prob(JB):                        0.177
+Kurtosis:                       3.469   Cond. No.                         165.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

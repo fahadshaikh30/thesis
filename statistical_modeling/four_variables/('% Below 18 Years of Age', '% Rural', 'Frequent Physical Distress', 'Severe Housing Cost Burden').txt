@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.815
+Model:                                    OLS   Adj. R-squared:                  0.741
+Method:                         Least Squares   F-statistic:                     11.02
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00110
+Time:                                22:15:56   Log-Likelihood:                 30.216
+No. Observations:                          15   AIC:                            -50.43
+Df Residuals:                              10   BIC:                            -46.89
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                         -0.9791      0.128     -7.637      0.000      -1.265      -0.693
+% Below 18 Years of Age        2.4838      0.408      6.089      0.000       1.575       3.393
+% Rural                        0.2160      0.064      3.401      0.007       0.074       0.358
+Frequent Physical Distress    -4.6746      0.945     -4.948      0.001      -6.780      -2.570
+Severe Housing Cost Burden     3.2804      0.754      4.353      0.001       1.601       4.959
+==============================================================================
+Omnibus:                        5.018   Durbin-Watson:                   2.166
+Prob(Omnibus):                  0.081   Jarque-Bera (JB):                1.463
+Skew:                           0.188   Prob(JB):                        0.481
+Kurtosis:                       1.517   Cond. No.                         125.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

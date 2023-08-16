@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.960
+Model:                                    OLS   Adj. R-squared:                  0.938
+Method:                         Least Squares   F-statistic:                     43.35
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           4.97e-06
+Time:                                22:21:09   Log-Likelihood:                 41.726
+No. Observations:                          15   AIC:                            -71.45
+Df Residuals:                               9   BIC:                            -67.20
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+====================================================================================================
+                                       coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+const                               -0.2415      0.210     -1.150      0.280      -0.716       0.234
+Access to Exercise Opportunities    -0.2235      0.042     -5.373      0.000      -0.318      -0.129
+Driving Alone to Work               -1.2161      0.159     -7.644      0.000      -1.576      -0.856
+Food Insecurity                      1.9565      0.455      4.302      0.002       0.928       2.985
+% 65 and Older                      -1.8318      0.209     -8.780      0.000      -2.304      -1.360
+Voter Turnout                        1.5198      0.196      7.743      0.000       1.076       1.964
+==============================================================================
+Omnibus:                        5.659   Durbin-Watson:                   0.486
+Prob(Omnibus):                  0.059   Jarque-Bera (JB):                2.805
+Skew:                          -0.958   Prob(JB):                        0.246
+Kurtosis:                       3.906   Cond. No.                         166.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

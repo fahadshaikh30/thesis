@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.877
+Model:                                    OLS   Adj. R-squared:                  0.808
+Method:                         Least Squares   F-statistic:                     12.79
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000718
+Time:                                23:20:44   Log-Likelihood:                 33.254
+No. Observations:                          15   AIC:                            -54.51
+Df Residuals:                               9   BIC:                            -50.26
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================================
+                                           coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------
+const                                    1.3416      0.243      5.512      0.000       0.791       1.892
+% Non-Hispanic White                    -0.5033      0.072     -6.985      0.000      -0.666      -0.340
+Excessive Drinking                      -2.0189      0.444     -4.544      0.001      -3.024      -1.014
+Flu Vaccinations                        -1.0521      0.219     -4.794      0.001      -1.548      -0.556
+Uninsured Adults                        -2.8767      0.479     -6.011      0.000      -3.959      -1.794
+Children in Single-Parent Households    -0.7476      0.176     -4.241      0.002      -1.146      -0.349
+==============================================================================
+Omnibus:                        4.273   Durbin-Watson:                   1.098
+Prob(Omnibus):                  0.118   Jarque-Bera (JB):                1.727
+Skew:                           0.612   Prob(JB):                        0.422
+Kurtosis:                       4.124   Cond. No.                         96.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

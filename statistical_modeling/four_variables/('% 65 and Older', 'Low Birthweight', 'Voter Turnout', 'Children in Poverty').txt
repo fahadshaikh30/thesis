@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.845
+Model:                                    OLS   Adj. R-squared:                  0.783
+Method:                         Least Squares   F-statistic:                     13.59
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000473
+Time:                                22:15:03   Log-Likelihood:                 31.524
+No. Observations:                          15   AIC:                            -53.05
+Df Residuals:                              10   BIC:                            -49.51
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                  -1.3686      0.218     -6.283      0.000      -1.854      -0.883
+% 65 and Older         -2.3230      0.346     -6.718      0.000      -3.093      -1.553
+Low Birthweight        -4.4164      1.256     -3.515      0.006      -7.216      -1.617
+Voter Turnout           2.0321      0.335      6.062      0.000       1.285       2.779
+Children in Poverty     1.9459      0.406      4.798      0.001       1.042       2.850
+==============================================================================
+Omnibus:                        1.628   Durbin-Watson:                   2.184
+Prob(Omnibus):                  0.443   Jarque-Bera (JB):                0.866
+Skew:                           0.011   Prob(JB):                        0.649
+Kurtosis:                       1.823   Cond. No.                         172.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

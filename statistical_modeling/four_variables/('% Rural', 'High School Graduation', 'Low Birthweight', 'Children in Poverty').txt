@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.857
+Model:                                    OLS   Adj. R-squared:                  0.800
+Method:                         Least Squares   F-statistic:                     14.96
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000318
+Time:                                22:17:42   Log-Likelihood:                 32.137
+No. Observations:                          15   AIC:                            -54.27
+Df Residuals:                              10   BIC:                            -50.73
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      1.8540      0.305      6.076      0.000       1.174       2.534
+% Rural                    0.2670      0.057      4.705      0.001       0.141       0.393
+High School Graduation    -2.9439      0.394     -7.472      0.000      -3.822      -2.066
+Low Birthweight            9.0057      1.839      4.898      0.001       4.909      13.103
+Children in Poverty       -2.9017      0.465     -6.244      0.000      -3.937      -1.866
+==============================================================================
+Omnibus:                        0.147   Durbin-Watson:                   1.988
+Prob(Omnibus):                  0.929   Jarque-Bera (JB):                0.352
+Skew:                           0.122   Prob(JB):                        0.838
+Kurtosis:                       2.290   Cond. No.                         307.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

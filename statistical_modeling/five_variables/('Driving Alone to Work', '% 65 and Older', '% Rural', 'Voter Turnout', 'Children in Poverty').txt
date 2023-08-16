@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.963
+Model:                                    OLS   Adj. R-squared:                  0.943
+Method:                         Least Squares   F-statistic:                     47.11
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           3.48e-06
+Time:                                22:31:13   Log-Likelihood:                 42.326
+No. Observations:                          15   AIC:                            -72.65
+Df Residuals:                               9   BIC:                            -68.40
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -0.3986      0.177     -2.255      0.051      -0.798       0.001
+Driving Alone to Work    -0.9513      0.156     -6.117      0.000      -1.303      -0.599
+% 65 and Older           -1.9967      0.218     -9.180      0.000      -2.489      -1.505
+% Rural                   0.1119      0.023      4.959      0.001       0.061       0.163
+Voter Turnout             1.3379      0.160      8.378      0.000       0.977       1.699
+Children in Poverty       0.6920      0.147      4.720      0.001       0.360       1.024
+==============================================================================
+Omnibus:                        0.480   Durbin-Watson:                   1.076
+Prob(Omnibus):                  0.787   Jarque-Bera (JB):                0.566
+Skew:                          -0.282   Prob(JB):                        0.753
+Kurtosis:                       2.234   Cond. No.                         97.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

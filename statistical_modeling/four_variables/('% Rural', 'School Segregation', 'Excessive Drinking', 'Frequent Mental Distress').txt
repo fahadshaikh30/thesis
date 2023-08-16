@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.812
+Model:                                    OLS   Adj. R-squared:                  0.736
+Method:                         Least Squares   F-statistic:                     10.78
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00119
+Time:                                22:17:42   Log-Likelihood:                 30.085
+No. Observations:                          15   AIC:                            -50.17
+Df Residuals:                              10   BIC:                            -46.63
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+const                        0.7575      0.218      3.475      0.006       0.272       1.243
+% Rural                      0.1556      0.045      3.492      0.006       0.056       0.255
+School Segregation           0.9586      0.241      3.976      0.003       0.421       1.496
+Excessive Drinking          -2.3567      0.534     -4.417      0.001      -3.546      -1.168
+Frequent Mental Distress    -5.9256      1.065     -5.564      0.000      -8.299      -3.553
+==============================================================================
+Omnibus:                        0.630   Durbin-Watson:                   1.579
+Prob(Omnibus):                  0.730   Jarque-Bera (JB):                0.491
+Skew:                           0.388   Prob(JB):                        0.782
+Kurtosis:                       2.572   Cond. No.                         126.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

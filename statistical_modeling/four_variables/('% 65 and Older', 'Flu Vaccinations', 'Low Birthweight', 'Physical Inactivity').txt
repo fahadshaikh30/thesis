@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.873
+Model:                                    OLS   Adj. R-squared:                  0.822
+Method:                         Least Squares   F-statistic:                     17.18
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000177
+Time:                                22:15:01   Log-Likelihood:                 33.034
+No. Observations:                          15   AIC:                            -56.07
+Df Residuals:                              10   BIC:                            -52.53
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   0.4848      0.127      3.822      0.003       0.202       0.767
+% 65 and Older         -0.9984      0.245     -4.076      0.002      -1.544      -0.453
+Flu Vaccinations       -0.8753      0.159     -5.507      0.000      -1.229      -0.521
+Low Birthweight         4.3670      1.107      3.946      0.003       1.901       6.833
+Physical Inactivity    -2.8058      0.409     -6.863      0.000      -3.717      -1.895
+==============================================================================
+Omnibus:                        0.757   Durbin-Watson:                   2.288
+Prob(Omnibus):                  0.685   Jarque-Bera (JB):                0.580
+Skew:                          -0.429   Prob(JB):                        0.748
+Kurtosis:                       2.561   Cond. No.                         156.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

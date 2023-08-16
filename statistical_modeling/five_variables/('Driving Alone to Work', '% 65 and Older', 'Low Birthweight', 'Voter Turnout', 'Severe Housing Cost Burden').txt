@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.929
+Model:                                    OLS   Adj. R-squared:                  0.889
+Method:                         Least Squares   F-statistic:                     23.51
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           6.45e-05
+Time:                                22:31:25   Log-Likelihood:                 37.384
+No. Observations:                          15   AIC:                            -62.77
+Df Residuals:                               9   BIC:                            -58.52
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================================
+                                 coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                          0.9527      0.235      4.055      0.003       0.421       1.484
+Driving Alone to Work         -2.2205      0.297     -7.478      0.000      -2.892      -1.549
+% 65 and Older                -1.1287      0.231     -4.890      0.001      -1.651      -0.606
+Low Birthweight                4.9298      0.992      4.971      0.001       2.687       7.173
+Voter Turnout                  0.6198      0.128      4.838      0.001       0.330       0.910
+Severe Housing Cost Burden    -2.2744      0.497     -4.581      0.001      -3.398      -1.151
+==============================================================================
+Omnibus:                        1.827   Durbin-Watson:                   1.458
+Prob(Omnibus):                  0.401   Jarque-Bera (JB):                1.178
+Skew:                          -0.418   Prob(JB):                        0.555
+Kurtosis:                       1.911   Cond. No.                         237.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

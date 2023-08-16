@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.859
+Model:                                    OLS   Adj. R-squared:                  0.780
+Method:                         Least Squares   F-statistic:                     10.95
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00129
+Time:                                23:13:58   Log-Likelihood:                 32.239
+No. Observations:                          15   AIC:                            -52.48
+Df Residuals:                               9   BIC:                            -48.23
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                              -0.4852      0.134     -3.612      0.006      -0.789      -0.181
+% Hispanic                          0.5204      0.131      3.960      0.003       0.223       0.818
+Adult Obesity                      -1.7820      0.335     -5.323      0.000      -2.539      -1.025
+Alcohol-Impaired Driving Deaths     1.8481      0.332      5.562      0.000       1.096       2.600
+Low Birthweight                     6.4385      1.423      4.525      0.001       3.220       9.657
+Unemployment                       -8.6707      2.056     -4.216      0.002     -13.323      -4.019
+==============================================================================
+Omnibus:                        0.957   Durbin-Watson:                   1.831
+Prob(Omnibus):                  0.620   Jarque-Bera (JB):                0.855
+Skew:                          -0.471   Prob(JB):                        0.652
+Kurtosis:                       2.306   Cond. No.                         278.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

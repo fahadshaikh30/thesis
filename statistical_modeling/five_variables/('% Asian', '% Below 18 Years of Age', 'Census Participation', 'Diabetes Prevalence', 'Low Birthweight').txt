@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.882
+Model:                                    OLS   Adj. R-squared:                  0.816
+Method:                         Least Squares   F-statistic:                     13.44
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000594
+Time:                                23:02:42   Log-Likelihood:                 33.581
+No. Observations:                          15   AIC:                            -55.16
+Df Residuals:                               9   BIC:                            -50.91
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      -0.3099      0.156     -1.985      0.078      -0.663       0.043
+% Asian                     2.7801      0.572      4.859      0.001       1.486       4.074
+% Below 18 Years of Age     2.4151      0.383      6.309      0.000       1.549       3.281
+Census Participation       -0.7156      0.160     -4.467      0.002      -1.078      -0.353
+Diabetes Prevalence        -7.4809      1.395     -5.361      0.000     -10.638      -4.324
+Low Birthweight             5.8352      1.467      3.977      0.003       2.516       9.155
+==============================================================================
+Omnibus:                        5.784   Durbin-Watson:                   1.286
+Prob(Omnibus):                  0.055   Jarque-Bera (JB):                2.791
+Skew:                          -0.886   Prob(JB):                        0.248
+Kurtosis:                       4.151   Cond. No.                         274.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

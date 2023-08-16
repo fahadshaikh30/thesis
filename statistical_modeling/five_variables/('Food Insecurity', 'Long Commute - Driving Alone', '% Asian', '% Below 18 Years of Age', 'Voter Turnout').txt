@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.917
+Model:                                    OLS   Adj. R-squared:                  0.872
+Method:                         Least Squares   F-statistic:                     20.01
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000124
+Time:                                22:37:21   Log-Likelihood:                 36.269
+No. Observations:                          15   AIC:                            -60.54
+Df Residuals:                               9   BIC:                            -56.29
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+================================================================================================
+                                   coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------
+const                           -2.3098      0.275     -8.408      0.000      -2.931      -1.688
+Food Insecurity                  3.0425      0.676      4.498      0.001       1.512       4.573
+Long Commute - Driving Alone    -0.4400      0.126     -3.494      0.007      -0.725      -0.155
+% Asian                          2.8592      0.495      5.782      0.000       1.741       3.978
+% Below 18 Years of Age          1.9490      0.279      6.992      0.000       1.318       2.580
+Voter Turnout                    1.7274      0.273      6.328      0.000       1.110       2.345
+==============================================================================
+Omnibus:                        0.750   Durbin-Watson:                   1.246
+Prob(Omnibus):                  0.687   Jarque-Bera (JB):                0.389
+Skew:                          -0.377   Prob(JB):                        0.823
+Kurtosis:                       2.769   Cond. No.                         141.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

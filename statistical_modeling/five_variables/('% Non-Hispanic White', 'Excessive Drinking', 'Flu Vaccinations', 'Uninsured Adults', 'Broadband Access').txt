@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.868
+Model:                                    OLS   Adj. R-squared:                  0.795
+Method:                         Least Squares   F-statistic:                     11.85
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000959
+Time:                                23:20:44   Log-Likelihood:                 32.752
+No. Observations:                          15   AIC:                            -53.50
+Df Residuals:                               9   BIC:                            -49.25
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                    0.3542      0.283      1.252      0.242      -0.286       0.994
+% Non-Hispanic White    -0.3060      0.062     -4.917      0.001      -0.447      -0.165
+Excessive Drinking      -1.9374      0.457     -4.238      0.002      -2.972      -0.903
+Flu Vaccinations        -1.6197      0.271     -5.969      0.000      -2.234      -1.006
+Uninsured Adults        -2.6138      0.500     -5.226      0.001      -3.745      -1.482
+Broadband Access         1.0615      0.263      4.030      0.003       0.466       1.657
+==============================================================================
+Omnibus:                        7.258   Durbin-Watson:                   1.882
+Prob(Omnibus):                  0.027   Jarque-Bera (JB):                4.105
+Skew:                           0.806   Prob(JB):                        0.128
+Kurtosis:                       4.992   Cond. No.                         111.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

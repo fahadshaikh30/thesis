@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.918
+Model:                                    OLS   Adj. R-squared:                  0.873
+Method:                         Least Squares   F-statistic:                     20.26
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000118
+Time:                                22:31:13   Log-Likelihood:                 36.354
+No. Observations:                          15   AIC:                            -60.71
+Df Residuals:                               9   BIC:                            -56.46
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     0.6694      0.165      4.055      0.003       0.296       1.043
+Driving Alone to Work    -1.0830      0.262     -4.131      0.003      -1.676      -0.490
+% 65 and Older           -1.2186      0.266     -4.578      0.001      -1.821      -0.617
+% Rural                   0.1614      0.035      4.605      0.001       0.082       0.241
+Low Birthweight           4.0202      0.915      4.395      0.002       1.951       6.089
+Physical Inactivity      -1.7856      0.339     -5.269      0.001      -2.552      -1.019
+==============================================================================
+Omnibus:                        3.312   Durbin-Watson:                   1.796
+Prob(Omnibus):                  0.191   Jarque-Bera (JB):                1.231
+Skew:                          -0.603   Prob(JB):                        0.540
+Kurtosis:                       3.719   Cond. No.                         185.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

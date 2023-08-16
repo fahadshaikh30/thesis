@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.775
+Model:                                    OLS   Adj. R-squared:                  0.685
+Method:                         Least Squares   F-statistic:                     8.609
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00281
+Time:                                22:18:51   Log-Likelihood:                 28.745
+No. Observations:                          15   AIC:                            -47.49
+Df Residuals:                              10   BIC:                            -43.95
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   0.7758      0.232      3.348      0.007       0.260       1.292
+Excessive Drinking     -2.3986      0.581     -4.128      0.002      -3.693      -1.104
+Flu Vaccinations       -1.1482      0.244     -4.699      0.001      -1.693      -0.604
+Poor or Fair Health    -3.0168      0.550     -5.486      0.000      -4.242      -1.792
+% Democrats             0.5329      0.132      4.039      0.002       0.239       0.827
+==============================================================================
+Omnibus:                        4.932   Durbin-Watson:                   2.466
+Prob(Omnibus):                  0.085   Jarque-Bera (JB):                2.718
+Skew:                           1.027   Prob(JB):                        0.257
+Kurtosis:                       3.365   Cond. No.                         80.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

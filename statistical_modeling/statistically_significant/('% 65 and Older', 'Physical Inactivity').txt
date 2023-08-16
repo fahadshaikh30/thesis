@@ -1,0 +1,26 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.465
+Model:                                    OLS   Adj. R-squared:                  0.375
+Method:                         Least Squares   F-statistic:                     5.208
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):             0.0235
+Time:                                21:09:56   Log-Likelihood:                 22.245
+No. Observations:                          15   AIC:                            -38.49
+Df Residuals:                              12   BIC:                            -36.37
+Df Model:                                   2                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                  -0.0243      0.129     -0.189      0.853      -0.305       0.256
+% 65 and Older         -0.9657      0.455     -2.123      0.055      -1.957       0.025
+Physical Inactivity    -0.9594      0.404     -2.375      0.035      -1.840      -0.079
+==============================================================================
+Omnibus:                        4.245   Durbin-Watson:                   2.306
+Prob(Omnibus):                  0.120   Jarque-Bera (JB):                1.369
+Skew:                           0.189   Prob(JB):                        0.504
+Kurtosis:                       1.569   Cond. No.                         30.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

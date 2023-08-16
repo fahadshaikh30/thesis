@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.903
+Model:                                    OLS   Adj. R-squared:                  0.849
+Method:                         Least Squares   F-statistic:                     16.74
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):           0.000253
+Time:                                22:46:34   Log-Likelihood:                 35.049
+No. Observations:                          15   AIC:                            -58.10
+Df Residuals:                               9   BIC:                            -53.85
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                               0.9183      0.216      4.255      0.002       0.430       1.407
+Limited Access to Healthy Foods    -1.6908      0.458     -3.693      0.005      -2.727      -0.655
+% Non-Hispanic White               -0.2558      0.053     -4.865      0.001      -0.375      -0.137
+Alcohol-Impaired Driving Deaths     1.6281      0.332      4.899      0.001       0.876       2.380
+Excessive Drinking                 -3.2595      0.508     -6.421      0.000      -4.408      -2.111
+Insufficient Sleep                 -2.6011      0.484     -5.378      0.000      -3.695      -1.507
+==============================================================================
+Omnibus:                       16.997   Durbin-Watson:                   1.049
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               14.787
+Skew:                          -1.770   Prob(JB):                     0.000615
+Kurtosis:                       6.336   Cond. No.                         113.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

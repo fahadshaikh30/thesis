@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.759
+Model:                                    OLS   Adj. R-squared:                  0.663
+Method:                         Least Squares   F-statistic:                     7.893
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00386
+Time:                                22:17:32   Log-Likelihood:                 28.245
+No. Observations:                          15   AIC:                            -46.49
+Df Residuals:                              10   BIC:                            -42.95
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=====================================================================================================================
+                                                        coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------
+const                                                 0.3359      0.150      2.240      0.049       0.002       0.670
+% Not Proficient in English                          -3.4263      0.880     -3.893      0.003      -5.387      -1.465
+Adult Smoking                                        -3.7900      0.692     -5.473      0.000      -5.333      -2.247
+Low Birthweight                                      -6.9076      1.724     -4.007      0.002     -10.748      -3.067
+Children Eligible for Free or Reduced Price Lunch     1.0065      0.207      4.871      0.001       0.546       1.467
+==============================================================================
+Omnibus:                        1.026   Durbin-Watson:                   2.674
+Prob(Omnibus):                  0.599   Jarque-Bera (JB):                0.720
+Skew:                          -0.067   Prob(JB):                        0.698
+Kurtosis:                       1.935   Cond. No.                         187.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

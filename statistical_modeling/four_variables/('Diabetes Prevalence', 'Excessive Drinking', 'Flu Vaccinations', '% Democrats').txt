@@ -1,0 +1,28 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.747
+Model:                                    OLS   Adj. R-squared:                  0.646
+Method:                         Least Squares   F-statistic:                     7.384
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00490
+Time:                                22:18:47   Log-Likelihood:                 27.868
+No. Observations:                          15   AIC:                            -45.74
+Df Residuals:                              10   BIC:                            -42.20
+Df Model:                                   4                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   1.2155      0.328      3.709      0.004       0.485       1.946
+Diabetes Prevalence    -7.4539      1.471     -5.067      0.000     -10.732      -4.176
+Excessive Drinking     -3.0226      0.694     -4.358      0.001      -4.568      -1.477
+Flu Vaccinations       -1.4306      0.307     -4.658      0.001      -2.115      -0.746
+% Democrats             0.7943      0.172      4.613      0.001       0.411       1.178
+==============================================================================
+Omnibus:                        1.323   Durbin-Watson:                   2.379
+Prob(Omnibus):                  0.516   Jarque-Bera (JB):                0.330
+Skew:                           0.348   Prob(JB):                        0.848
+Kurtosis:                       3.205   Cond. No.                         161.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

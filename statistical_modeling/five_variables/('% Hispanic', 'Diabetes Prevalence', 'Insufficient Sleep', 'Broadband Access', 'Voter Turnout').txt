@@ -1,0 +1,29 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.845
+Model:                                    OLS   Adj. R-squared:                  0.759
+Method:                         Least Squares   F-statistic:                     9.822
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00191
+Time:                                23:14:16   Log-Likelihood:                 31.547
+No. Observations:                          15   AIC:                            -51.09
+Df Residuals:                               9   BIC:                            -46.85
+Df Model:                                   5                                         
+Covariance Type:                    nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                  -1.9239      0.456     -4.219      0.002      -2.956      -0.892
+% Hispanic             -0.4759      0.120     -3.957      0.003      -0.748      -0.204
+Diabetes Prevalence    15.3390      2.447      6.268      0.000       9.803      20.875
+Insufficient Sleep     -6.3458      1.068     -5.940      0.000      -8.762      -3.929
+Broadband Access        1.5778      0.363      4.350      0.002       0.757       2.398
+Voter Turnout           1.2291      0.325      3.777      0.004       0.493       1.965
+==============================================================================
+Omnibus:                        2.264   Durbin-Watson:                   2.805
+Prob(Omnibus):                  0.322   Jarque-Bera (JB):                1.025
+Skew:                          -0.131   Prob(JB):                        0.599
+Kurtosis:                       1.746   Cond. No.                         401.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

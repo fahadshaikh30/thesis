@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.710
+Model:                                    OLS   Adj. R-squared:                  0.631
+Method:                         Least Squares   F-statistic:                     8.982
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00270
+Time:                                22:11:07   Log-Likelihood:                 26.846
+No. Observations:                          15   AIC:                            -45.69
+Df Residuals:                              11   BIC:                            -42.86
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+=====================================================================================================================
+                                                        coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------
+const                                                -0.8002      0.093     -8.632      0.000      -1.004      -0.596
+Bachelors degree                                      2.2287      0.453      4.923      0.000       1.232       3.225
+Children Eligible for Free or Reduced Price Lunch     0.7466      0.184      4.055      0.002       0.341       1.152
+Severe Housing Cost Burden                           -5.9562      1.498     -3.976      0.002      -9.254      -2.659
+==============================================================================
+Omnibus:                        1.938   Durbin-Watson:                   2.057
+Prob(Omnibus):                  0.380   Jarque-Bera (JB):                1.422
+Skew:                           0.709   Prob(JB):                        0.491
+Kurtosis:                       2.488   Cond. No.                         152.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

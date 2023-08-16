@@ -1,0 +1,27 @@
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Normalized_sentiment_score   R-squared:                       0.742
+Model:                                    OLS   Adj. R-squared:                  0.671
+Method:                         Least Squares   F-statistic:                     10.52
+Date:                        Wed, 16 Aug 2023   Prob (F-statistic):            0.00146
+Time:                                22:11:11   Log-Likelihood:                 27.707
+No. Observations:                          15   AIC:                            -47.41
+Df Residuals:                              11   BIC:                            -44.58
+Df Model:                                   3                                         
+Covariance Type:                    nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                               0.4429      0.218      2.035      0.067      -0.036       0.922
+Alcohol-Impaired Driving Deaths     1.0761      0.304      3.534      0.005       0.406       1.746
+Excessive Drinking                 -2.3149      0.587     -3.943      0.002      -3.607      -1.023
+Frequent Mental Distress           -4.7989      1.019     -4.712      0.001      -7.041      -2.557
+==============================================================================
+Omnibus:                        0.626   Durbin-Watson:                   2.133
+Prob(Omnibus):                  0.731   Jarque-Bera (JB):                0.617
+Skew:                          -0.179   Prob(JB):                        0.734
+Kurtosis:                       2.073   Cond. No.                         99.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
