@@ -1,25 +1,25 @@
 ,FIPS,category,total_tweets
-0,01001,Exurbs,688950
-1,01051,Exurbs,688950
-2,01083,Exurbs,688950
-3,01115,Exurbs,688950
-4,01117,Exurbs,688950
-5,05007,Exurbs,688950
-6,05085,Exurbs,688950
-7,05125,Exurbs,688950
-8,06017,Exurbs,688950
-9,06057,Exurbs,688950
-10,06061,Exurbs,688950
-11,06115,Exurbs,688950
-12,08001,Exurbs,688950
-13,08035,Exurbs,688950
-14,08039,Exurbs,688950
-15,08045,Exurbs,688950
-16,08059,Exurbs,688950
-17,08077,Exurbs,688950
-18,08123,Exurbs,688950
-19,09005,Exurbs,688950
-20,09007,Exurbs,688950
+0,1001,Exurbs,688950
+1,1051,Exurbs,688950
+2,1083,Exurbs,688950
+3,1115,Exurbs,688950
+4,1117,Exurbs,688950
+5,5007,Exurbs,688950
+6,5085,Exurbs,688950
+7,5125,Exurbs,688950
+8,6017,Exurbs,688950
+9,6057,Exurbs,688950
+10,6061,Exurbs,688950
+11,6115,Exurbs,688950
+12,8001,Exurbs,688950
+13,8035,Exurbs,688950
+14,8039,Exurbs,688950
+15,8045,Exurbs,688950
+16,8059,Exurbs,688950
+17,8077,Exurbs,688950
+18,8123,Exurbs,688950
+19,9005,Exurbs,688950
+20,9007,Exurbs,688950
 21,12019,Exurbs,688950
 22,12089,Exurbs,688950
 23,12109,Exurbs,688950
@@ -221,74 +221,74 @@
 219,55127,Exurbs,688950
 220,55133,Exurbs,688950
 221,56019,Exurbs,688950
-222,01003,Graying America,128348
-223,02100,Graying America,128348
-224,02105,Graying America,128348
-225,02122,Graying America,128348
-226,02170,Graying America,128348
-227,02198,Graying America,128348
-228,02230,Graying America,128348
-229,04007,Graying America,128348
-230,04011,Graying America,128348
-231,04012,Graying America,128348
-232,04015,Graying America,128348
-233,04021,Graying America,128348
-234,04025,Graying America,128348
-235,05097,Graying America,128348
-236,06003,Graying America,128348
-237,06005,Graying America,128348
-238,06009,Graying America,128348
-239,06015,Graying America,128348
-240,06027,Graying America,128348
-241,06033,Graying America,128348
-242,06035,Graying America,128348
-243,06043,Graying America,128348
-244,06045,Graying America,128348
-245,06049,Graying America,128348
-246,06051,Graying America,128348
-247,06063,Graying America,128348
-248,06091,Graying America,128348
-249,06093,Graying America,128348
-250,06103,Graying America,128348
-251,06105,Graying America,128348
-252,06109,Graying America,128348
-253,08003,Graying America,128348
-254,08007,Graying America,128348
-255,08011,Graying America,128348
-256,08015,Graying America,128348
-257,08019,Graying America,128348
-258,08025,Graying America,128348
-259,08027,Graying America,128348
-260,08029,Graying America,128348
-261,08033,Graying America,128348
-262,08037,Graying America,128348
-263,08043,Graying America,128348
-264,08047,Graying America,128348
-265,08049,Graying America,128348
-266,08053,Graying America,128348
-267,08055,Graying America,128348
-268,08057,Graying America,128348
-269,08061,Graying America,128348
-270,08065,Graying America,128348
-271,08071,Graying America,128348
-272,08073,Graying America,128348
-273,08079,Graying America,128348
-274,08081,Graying America,128348
-275,08083,Graying America,128348
-276,08085,Graying America,128348
-277,08087,Graying America,128348
-278,08089,Graying America,128348
-279,08091,Graying America,128348
-280,08093,Graying America,128348
-281,08097,Graying America,128348
-282,08099,Graying America,128348
-283,08101,Graying America,128348
-284,08103,Graying America,128348
-285,08107,Graying America,128348
-286,08111,Graying America,128348
-287,08113,Graying America,128348
-288,08117,Graying America,128348
-289,08119,Graying America,128348
+222,1003,Graying America,128348
+223,2100,Graying America,128348
+224,2105,Graying America,128348
+225,2122,Graying America,128348
+226,2170,Graying America,128348
+227,2198,Graying America,128348
+228,2230,Graying America,128348
+229,4007,Graying America,128348
+230,4011,Graying America,128348
+231,4012,Graying America,128348
+232,4015,Graying America,128348
+233,4021,Graying America,128348
+234,4025,Graying America,128348
+235,5097,Graying America,128348
+236,6003,Graying America,128348
+237,6005,Graying America,128348
+238,6009,Graying America,128348
+239,6015,Graying America,128348
+240,6027,Graying America,128348
+241,6033,Graying America,128348
+242,6035,Graying America,128348
+243,6043,Graying America,128348
+244,6045,Graying America,128348
+245,6049,Graying America,128348
+246,6051,Graying America,128348
+247,6063,Graying America,128348
+248,6091,Graying America,128348
+249,6093,Graying America,128348
+250,6103,Graying America,128348
+251,6105,Graying America,128348
+252,6109,Graying America,128348
+253,8003,Graying America,128348
+254,8007,Graying America,128348
+255,8011,Graying America,128348
+256,8015,Graying America,128348
+257,8019,Graying America,128348
+258,8025,Graying America,128348
+259,8027,Graying America,128348
+260,8029,Graying America,128348
+261,8033,Graying America,128348
+262,8037,Graying America,128348
+263,8043,Graying America,128348
+264,8047,Graying America,128348
+265,8049,Graying America,128348
+266,8053,Graying America,128348
+267,8055,Graying America,128348
+268,8057,Graying America,128348
+269,8061,Graying America,128348
+270,8065,Graying America,128348
+271,8071,Graying America,128348
+272,8073,Graying America,128348
+273,8079,Graying America,128348
+274,8081,Graying America,128348
+275,8083,Graying America,128348
+276,8085,Graying America,128348
+277,8087,Graying America,128348
+278,8089,Graying America,128348
+279,8091,Graying America,128348
+280,8093,Graying America,128348
+281,8097,Graying America,128348
+282,8099,Graying America,128348
+283,8101,Graying America,128348
+284,8103,Graying America,128348
+285,8107,Graying America,128348
+286,8111,Graying America,128348
+287,8113,Graying America,128348
+288,8117,Graying America,128348
+289,8119,Graying America,128348
 290,10005,Graying America,128348
 291,12009,Graying America,128348
 292,12015,Graying America,128348
@@ -585,57 +585,57 @@
 583,56037,Graying America,128348
 584,56039,Graying America,128348
 585,56045,Graying America,128348
-586,01005,African American South,39954
-587,01011,African American South,39954
-588,01013,African American South,39954
-589,01017,African American South,39954
-590,01023,African American South,39954
-591,01025,African American South,39954
-592,01035,African American South,39954
-593,01037,African American South,39954
-594,01047,African American South,39954
-595,01053,African American South,39954
-596,01063,African American South,39954
-597,01065,African American South,39954
-598,01069,African American South,39954
-599,01073,African American South,39954
-600,01081,African American South,39954
-601,01085,African American South,39954
-602,01087,African American South,39954
-603,01091,African American South,39954
-604,01097,African American South,39954
-605,01099,African American South,39954
-606,01101,African American South,39954
-607,01105,African American South,39954
-608,01107,African American South,39954
-609,01109,African American South,39954
-610,01113,African American South,39954
-611,01119,African American South,39954
-612,01125,African American South,39954
-613,01131,African American South,39954
-614,05003,African American South,39954
-615,05011,African American South,39954
-616,05013,African American South,39954
-617,05017,African American South,39954
-618,05027,African American South,39954
-619,05035,African American South,39954
-620,05039,African American South,39954
-621,05041,African American South,39954
-622,05043,African American South,39954
-623,05057,African American South,39954
-624,05061,African American South,39954
-625,05069,African American South,39954
-626,05073,African American South,39954
-627,05077,African American South,39954
-628,05079,African American South,39954
-629,05091,African American South,39954
-630,05093,African American South,39954
-631,05095,African American South,39954
-632,05099,African American South,39954
-633,05103,African American South,39954
-634,05107,African American South,39954
-635,05123,African American South,39954
-636,05139,African American South,39954
+586,1005,African American South,39954
+587,1011,African American South,39954
+588,1013,African American South,39954
+589,1017,African American South,39954
+590,1023,African American South,39954
+591,1025,African American South,39954
+592,1035,African American South,39954
+593,1037,African American South,39954
+594,1047,African American South,39954
+595,1053,African American South,39954
+596,1063,African American South,39954
+597,1065,African American South,39954
+598,1069,African American South,39954
+599,1073,African American South,39954
+600,1081,African American South,39954
+601,1085,African American South,39954
+602,1087,African American South,39954
+603,1091,African American South,39954
+604,1097,African American South,39954
+605,1099,African American South,39954
+606,1101,African American South,39954
+607,1105,African American South,39954
+608,1107,African American South,39954
+609,1109,African American South,39954
+610,1113,African American South,39954
+611,1119,African American South,39954
+612,1125,African American South,39954
+613,1131,African American South,39954
+614,5003,African American South,39954
+615,5011,African American South,39954
+616,5013,African American South,39954
+617,5017,African American South,39954
+618,5027,African American South,39954
+619,5035,African American South,39954
+620,5039,African American South,39954
+621,5041,African American South,39954
+622,5043,African American South,39954
+623,5057,African American South,39954
+624,5061,African American South,39954
+625,5069,African American South,39954
+626,5073,African American South,39954
+627,5077,African American South,39954
+628,5079,African American South,39954
+629,5091,African American South,39954
+630,5093,African American South,39954
+631,5095,African American South,39954
+632,5099,African American South,39954
+633,5103,African American South,39954
+634,5107,African American South,39954
+635,5123,African American South,39954
+636,5139,African American South,39954
 637,12007,African American South,39954
 638,12013,African American South,39954
 639,12023,African American South,39954
@@ -955,57 +955,57 @@
 953,51730,African American South,39954
 954,51740,African American South,39954
 955,51760,African American South,39954
-956,01007,Evangelical Hubs,140394
-957,01009,Evangelical Hubs,140394
-958,01015,Evangelical Hubs,140394
-959,01021,Evangelical Hubs,140394
-960,01027,Evangelical Hubs,140394
-961,01029,Evangelical Hubs,140394
-962,01033,Evangelical Hubs,140394
-963,01039,Evangelical Hubs,140394
-964,01041,Evangelical Hubs,140394
-965,01043,Evangelical Hubs,140394
-966,01049,Evangelical Hubs,140394
-967,01055,Evangelical Hubs,140394
-968,01057,Evangelical Hubs,140394
-969,01059,Evangelical Hubs,140394
-970,01061,Evangelical Hubs,140394
-971,01067,Evangelical Hubs,140394
-972,01071,Evangelical Hubs,140394
-973,01075,Evangelical Hubs,140394
-974,01077,Evangelical Hubs,140394
-975,01079,Evangelical Hubs,140394
-976,01093,Evangelical Hubs,140394
-977,01095,Evangelical Hubs,140394
-978,01103,Evangelical Hubs,140394
-979,01111,Evangelical Hubs,140394
-980,01121,Evangelical Hubs,140394
-981,01123,Evangelical Hubs,140394
-982,01127,Evangelical Hubs,140394
-983,01129,Evangelical Hubs,140394
-984,01133,Evangelical Hubs,140394
-985,05001,Evangelical Hubs,140394
-986,05009,Evangelical Hubs,140394
-987,05025,Evangelical Hubs,140394
-988,05029,Evangelical Hubs,140394
-989,05033,Evangelical Hubs,140394
-990,05037,Evangelical Hubs,140394
-991,05051,Evangelical Hubs,140394
-992,05053,Evangelical Hubs,140394
-993,05055,Evangelical Hubs,140394
-994,05059,Evangelical Hubs,140394
-995,05063,Evangelical Hubs,140394
-996,05067,Evangelical Hubs,140394
-997,05071,Evangelical Hubs,140394
-998,05081,Evangelical Hubs,140394
-999,05083,Evangelical Hubs,140394
-1000,05109,Evangelical Hubs,140394
-1001,05111,Evangelical Hubs,140394
-1002,05115,Evangelical Hubs,140394
-1003,05127,Evangelical Hubs,140394
-1004,05131,Evangelical Hubs,140394
-1005,05145,Evangelical Hubs,140394
-1006,05147,Evangelical Hubs,140394
+956,1007,Evangelical Hubs,140394
+957,1009,Evangelical Hubs,140394
+958,1015,Evangelical Hubs,140394
+959,1021,Evangelical Hubs,140394
+960,1027,Evangelical Hubs,140394
+961,1029,Evangelical Hubs,140394
+962,1033,Evangelical Hubs,140394
+963,1039,Evangelical Hubs,140394
+964,1041,Evangelical Hubs,140394
+965,1043,Evangelical Hubs,140394
+966,1049,Evangelical Hubs,140394
+967,1055,Evangelical Hubs,140394
+968,1057,Evangelical Hubs,140394
+969,1059,Evangelical Hubs,140394
+970,1061,Evangelical Hubs,140394
+971,1067,Evangelical Hubs,140394
+972,1071,Evangelical Hubs,140394
+973,1075,Evangelical Hubs,140394
+974,1077,Evangelical Hubs,140394
+975,1079,Evangelical Hubs,140394
+976,1093,Evangelical Hubs,140394
+977,1095,Evangelical Hubs,140394
+978,1103,Evangelical Hubs,140394
+979,1111,Evangelical Hubs,140394
+980,1121,Evangelical Hubs,140394
+981,1123,Evangelical Hubs,140394
+982,1127,Evangelical Hubs,140394
+983,1129,Evangelical Hubs,140394
+984,1133,Evangelical Hubs,140394
+985,5001,Evangelical Hubs,140394
+986,5009,Evangelical Hubs,140394
+987,5025,Evangelical Hubs,140394
+988,5029,Evangelical Hubs,140394
+989,5033,Evangelical Hubs,140394
+990,5037,Evangelical Hubs,140394
+991,5051,Evangelical Hubs,140394
+992,5053,Evangelical Hubs,140394
+993,5055,Evangelical Hubs,140394
+994,5059,Evangelical Hubs,140394
+995,5063,Evangelical Hubs,140394
+996,5067,Evangelical Hubs,140394
+997,5071,Evangelical Hubs,140394
+998,5081,Evangelical Hubs,140394
+999,5083,Evangelical Hubs,140394
+1000,5109,Evangelical Hubs,140394
+1001,5111,Evangelical Hubs,140394
+1002,5115,Evangelical Hubs,140394
+1003,5127,Evangelical Hubs,140394
+1004,5131,Evangelical Hubs,140394
+1005,5145,Evangelical Hubs,140394
+1006,5147,Evangelical Hubs,140394
 1007,12041,Evangelical Hubs,140394
 1008,12059,Evangelical Hubs,140394
 1009,13001,Evangelical Hubs,140394
@@ -1327,26 +1327,26 @@
 1325,51770,Evangelical Hubs,140394
 1326,51820,Evangelical Hubs,140394
 1327,56043,Evangelical Hubs,140394
-1328,01019,Working Class Country,54507
-1329,05005,Working Class Country,54507
-1330,05015,Working Class Country,54507
-1331,05021,Working Class Country,54507
-1332,05023,Working Class Country,54507
-1333,05047,Working Class Country,54507
-1334,05049,Working Class Country,54507
-1335,05065,Working Class Country,54507
-1336,05075,Working Class Country,54507
-1337,05089,Working Class Country,54507
-1338,05101,Working Class Country,54507
-1339,05105,Working Class Country,54507
-1340,05113,Working Class Country,54507
-1341,05117,Working Class Country,54507
-1342,05121,Working Class Country,54507
-1343,05129,Working Class Country,54507
-1344,05135,Working Class Country,54507
-1345,05137,Working Class Country,54507
-1346,05141,Working Class Country,54507
-1347,08115,Working Class Country,54507
+1328,1019,Working Class Country,54507
+1329,5005,Working Class Country,54507
+1330,5015,Working Class Country,54507
+1331,5021,Working Class Country,54507
+1332,5023,Working Class Country,54507
+1333,5047,Working Class Country,54507
+1334,5049,Working Class Country,54507
+1335,5065,Working Class Country,54507
+1336,5075,Working Class Country,54507
+1337,5089,Working Class Country,54507
+1338,5101,Working Class Country,54507
+1339,5105,Working Class Country,54507
+1340,5113,Working Class Country,54507
+1341,5117,Working Class Country,54507
+1342,5121,Working Class Country,54507
+1343,5129,Working Class Country,54507
+1344,5135,Working Class Country,54507
+1345,5137,Working Class Country,54507
+1346,5141,Working Class Country,54507
+1347,8115,Working Class Country,54507
 1348,12029,Working Class Country,54507
 1349,13019,Working Class Country,54507
 1350,13111,Working Class Country,54507
@@ -1664,22 +1664,22 @@
 1662,55115,Working Class Country,54507
 1663,55135,Working Class Country,54507
 1664,55137,Working Class Country,54507
-1665,01031,Military Posts,14067
-1666,01045,Military Posts,14067
-1667,02020,Military Posts,14067
-1668,02060,Military Posts,14067
-1669,02068,Military Posts,14067
-1670,02090,Military Posts,14067
-1671,02110,Military Posts,14067
-1672,02130,Military Posts,14067
-1673,02150,Military Posts,14067
-1674,02220,Military Posts,14067
-1675,02240,Military Posts,14067
-1676,02261,Military Posts,14067
-1677,02282,Military Posts,14067
-1678,04003,Military Posts,14067
-1679,08041,Military Posts,14067
-1680,09011,Military Posts,14067
+1665,1031,Military Posts,14067
+1666,1045,Military Posts,14067
+1667,2020,Military Posts,14067
+1668,2060,Military Posts,14067
+1669,2068,Military Posts,14067
+1670,2090,Military Posts,14067
+1671,2110,Military Posts,14067
+1672,2130,Military Posts,14067
+1673,2150,Military Posts,14067
+1674,2220,Military Posts,14067
+1675,2240,Military Posts,14067
+1676,2261,Military Posts,14067
+1677,2282,Military Posts,14067
+1678,4003,Military Posts,14067
+1679,8041,Military Posts,14067
+1680,9011,Military Posts,14067
 1681,10001,Military Posts,14067
 1682,12003,Military Posts,14067
 1683,12005,Military Posts,14067
@@ -1753,27 +1753,27 @@
 1751,53035,Military Posts,14067
 1752,53067,Military Posts,14067
 1753,56021,Military Posts,14067
-1754,01089,Urban Suburbs,65176
-1755,04019,Urban Suburbs,65176
-1756,05119,Urban Suburbs,65176
-1757,06013,Urban Suburbs,65176
-1758,06041,Urban Suburbs,65176
-1759,06055,Urban Suburbs,65176
-1760,06059,Urban Suburbs,65176
-1761,06065,Urban Suburbs,65176
-1762,06071,Urban Suburbs,65176
-1763,06081,Urban Suburbs,65176
-1764,06083,Urban Suburbs,65176
-1765,06087,Urban Suburbs,65176
-1766,06095,Urban Suburbs,65176
-1767,06097,Urban Suburbs,65176
-1768,06111,Urban Suburbs,65176
-1769,06113,Urban Suburbs,65176
-1770,08005,Urban Suburbs,65176
-1771,08014,Urban Suburbs,65176
-1772,09001,Urban Suburbs,65176
-1773,09003,Urban Suburbs,65176
-1774,09009,Urban Suburbs,65176
+1754,1089,Urban Suburbs,65176
+1755,4019,Urban Suburbs,65176
+1756,5119,Urban Suburbs,65176
+1757,6013,Urban Suburbs,65176
+1758,6041,Urban Suburbs,65176
+1759,6055,Urban Suburbs,65176
+1760,6059,Urban Suburbs,65176
+1761,6065,Urban Suburbs,65176
+1762,6071,Urban Suburbs,65176
+1763,6081,Urban Suburbs,65176
+1764,6083,Urban Suburbs,65176
+1765,6087,Urban Suburbs,65176
+1766,6095,Urban Suburbs,65176
+1767,6097,Urban Suburbs,65176
+1768,6111,Urban Suburbs,65176
+1769,6113,Urban Suburbs,65176
+1770,8005,Urban Suburbs,65176
+1771,8014,Urban Suburbs,65176
+1772,9001,Urban Suburbs,65176
+1773,9003,Urban Suburbs,65176
+1774,9009,Urban Suburbs,65176
 1775,10003,Urban Suburbs,65176
 1776,12011,Urban Suburbs,65176
 1777,12057,Urban Suburbs,65176
@@ -1859,31 +1859,31 @@
 1857,53011,Urban Suburbs,65176
 1858,53053,Urban Suburbs,65176
 1859,53061,Urban Suburbs,65176
-1860,04023,Hispanic Centers,60391
-1861,04027,Hispanic Centers,60391
-1862,05133,Hispanic Centers,60391
-1863,05149,Hispanic Centers,60391
-1864,06011,Hispanic Centers,60391
-1865,06019,Hispanic Centers,60391
-1866,06021,Hispanic Centers,60391
-1867,06025,Hispanic Centers,60391
-1868,06029,Hispanic Centers,60391
-1869,06031,Hispanic Centers,60391
-1870,06039,Hispanic Centers,60391
-1871,06047,Hispanic Centers,60391
-1872,06053,Hispanic Centers,60391
-1873,06069,Hispanic Centers,60391
-1874,06077,Hispanic Centers,60391
-1875,06099,Hispanic Centers,60391
-1876,06101,Hispanic Centers,60391
-1877,06107,Hispanic Centers,60391
-1878,08021,Hispanic Centers,60391
-1879,08023,Hispanic Centers,60391
-1880,08063,Hispanic Centers,60391
-1881,08095,Hispanic Centers,60391
-1882,08105,Hispanic Centers,60391
-1883,08109,Hispanic Centers,60391
-1884,08125,Hispanic Centers,60391
+1860,4023,Hispanic Centers,60391
+1861,4027,Hispanic Centers,60391
+1862,5133,Hispanic Centers,60391
+1863,5149,Hispanic Centers,60391
+1864,6011,Hispanic Centers,60391
+1865,6019,Hispanic Centers,60391
+1866,6021,Hispanic Centers,60391
+1867,6025,Hispanic Centers,60391
+1868,6029,Hispanic Centers,60391
+1869,6031,Hispanic Centers,60391
+1870,6039,Hispanic Centers,60391
+1871,6047,Hispanic Centers,60391
+1872,6053,Hispanic Centers,60391
+1873,6069,Hispanic Centers,60391
+1874,6077,Hispanic Centers,60391
+1875,6099,Hispanic Centers,60391
+1876,6101,Hispanic Centers,60391
+1877,6107,Hispanic Centers,60391
+1878,8021,Hispanic Centers,60391
+1879,8023,Hispanic Centers,60391
+1880,8063,Hispanic Centers,60391
+1881,8095,Hispanic Centers,60391
+1882,8105,Hispanic Centers,60391
+1883,8109,Hispanic Centers,60391
+1884,8125,Hispanic Centers,60391
 1885,12027,Hispanic Centers,60391
 1886,12049,Hispanic Centers,60391
 1887,12051,Hispanic Centers,60391
@@ -2020,19 +2020,19 @@
 2018,53021,Hispanic Centers,60391
 2019,53025,Hispanic Centers,60391
 2020,53077,Hispanic Centers,60391
-2021,02013,Native American Lands,5575
-2022,02016,Native American Lands,5575
-2023,02050,Native American Lands,5575
-2024,02070,Native American Lands,5575
-2025,02164,Native American Lands,5575
-2026,02180,Native American Lands,5575
-2027,02185,Native American Lands,5575
-2028,02188,Native American Lands,5575
-2029,02270,Native American Lands,5575
-2030,02290,Native American Lands,5575
-2031,04001,Native American Lands,5575
-2032,04009,Native American Lands,5575
-2033,04017,Native American Lands,5575
+2021,2013,Native American Lands,5575
+2022,2016,Native American Lands,5575
+2023,2050,Native American Lands,5575
+2024,2070,Native American Lands,5575
+2025,2164,Native American Lands,5575
+2026,2180,Native American Lands,5575
+2027,2185,Native American Lands,5575
+2028,2188,Native American Lands,5575
+2029,2270,Native American Lands,5575
+2030,2290,Native American Lands,5575
+2031,4001,Native American Lands,5575
+2032,4009,Native American Lands,5575
+2033,4017,Native American Lands,5575
 2034,27087,Native American Lands,5575
 2035,30003,Native American Lands,5575
 2036,30005,Native American Lands,5575
@@ -2063,13 +2063,13 @@
 2061,46137,Native American Lands,5575
 2062,49037,Native American Lands,5575
 2063,55078,Native American Lands,5575
-2064,02195,Rural Middle America,275735
-2065,02275,Rural Middle America,275735
-2066,05087,Rural Middle America,275735
-2067,08009,Rural Middle America,275735
-2068,08017,Rural Middle America,275735
-2069,08075,Rural Middle America,275735
-2070,08121,Rural Middle America,275735
+2064,2195,Rural Middle America,275735
+2065,2275,Rural Middle America,275735
+2066,5087,Rural Middle America,275735
+2067,8009,Rural Middle America,275735
+2068,8017,Rural Middle America,275735
+2069,8075,Rural Middle America,275735
+2070,8121,Rural Middle America,275735
 2071,13083,Rural Middle America,275735
 2072,16069,Rural Middle America,275735
 2073,17005,Rural Middle America,275735
@@ -2662,20 +2662,20 @@
 2660,56025,Rural Middle America,275735
 2661,56027,Rural Middle America,275735
 2662,56031,Rural Middle America,275735
-2663,04005,College Towns,81498
-2664,05019,College Towns,81498
-2665,05031,College Towns,81498
-2666,05045,College Towns,81498
-2667,05143,College Towns,81498
-2668,06007,College Towns,81498
-2669,06023,College Towns,81498
-2670,06079,College Towns,81498
-2671,06089,College Towns,81498
-2672,08013,College Towns,81498
-2673,08051,College Towns,81498
-2674,08067,College Towns,81498
-2675,08069,College Towns,81498
-2676,09013,College Towns,81498
+2663,4005,College Towns,81498
+2664,5019,College Towns,81498
+2665,5031,College Towns,81498
+2666,5045,College Towns,81498
+2667,5143,College Towns,81498
+2668,6007,College Towns,81498
+2669,6023,College Towns,81498
+2670,6079,College Towns,81498
+2671,6089,College Towns,81498
+2672,8013,College Towns,81498
+2673,8051,College Towns,81498
+2674,8067,College Towns,81498
+2675,8069,College Towns,81498
+2676,9013,College Towns,81498
 2677,12001,College Towns,81498
 2678,12073,College Towns,81498
 2679,13045,College Towns,81498
@@ -2816,47 +2816,6 @@
 2814,55093,College Towns,81498
 2815,55097,College Towns,81498
 2816,56001,College Towns,81498
-2817,16005,LDS Enclaves,2910
-2818,16007,LDS Enclaves,2910
-2819,16011,LDS Enclaves,2910
-2820,16019,LDS Enclaves,2910
-2821,16023,LDS Enclaves,2910
-2822,16029,LDS Enclaves,2910
-2823,16041,LDS Enclaves,2910
-2824,16043,LDS Enclaves,2910
-2825,16051,LDS Enclaves,2910
-2826,16065,LDS Enclaves,2910
-2827,16071,LDS Enclaves,2910
-2828,32017,LDS Enclaves,2910
-2829,49001,LDS Enclaves,2910
-2830,49003,LDS Enclaves,2910
-2831,49005,LDS Enclaves,2910
-2832,49007,LDS Enclaves,2910
-2833,49009,LDS Enclaves,2910
-2834,49011,LDS Enclaves,2910
-2835,49013,LDS Enclaves,2910
-2836,49015,LDS Enclaves,2910
-2837,49017,LDS Enclaves,2910
-2838,49021,LDS Enclaves,2910
-2839,49023,LDS Enclaves,2910
-2840,49025,LDS Enclaves,2910
-2841,49027,LDS Enclaves,2910
-2842,49029,LDS Enclaves,2910
-2843,49031,LDS Enclaves,2910
-2844,49033,LDS Enclaves,2910
-2845,49035,LDS Enclaves,2910
-2846,49039,LDS Enclaves,2910
-2847,49041,LDS Enclaves,2910
-2848,49045,LDS Enclaves,2910
-2849,49047,LDS Enclaves,2910
-2850,49049,LDS Enclaves,2910
-2851,49051,LDS Enclaves,2910
-2852,49053,LDS Enclaves,2910
-2853,49055,LDS Enclaves,2910
-2854,49057,LDS Enclaves,2910
-2855,56003,LDS Enclaves,2910
-2856,56023,LDS Enclaves,2910
-2857,56041,LDS Enclaves,2910
 2858,19009,Aging Farmlands,19731
 2859,19025,Aging Farmlands,19731
 2860,19035,Aging Farmlands,19731
@@ -3018,14 +2977,14 @@
 3016,48319,Aging Farmlands,19731
 3017,48433,Aging Farmlands,19731
 3018,53023,Aging Farmlands,19731
-3019,04013,Big Cities,3004707
-3020,06001,Big Cities,3004707
-3021,06037,Big Cities,3004707
-3022,06067,Big Cities,3004707
-3023,06073,Big Cities,3004707
-3024,06075,Big Cities,3004707
-3025,06085,Big Cities,3004707
-3026,08031,Big Cities,3004707
+3019,4013,Big Cities,3004707
+3020,6001,Big Cities,3004707
+3021,6037,Big Cities,3004707
+3022,6067,Big Cities,3004707
+3023,6073,Big Cities,3004707
+3024,6075,Big Cities,3004707
+3025,6085,Big Cities,3004707
+3026,8031,Big Cities,3004707
 3027,11001,Big Cities,3004707
 3028,12031,Big Cities,3004707
 3029,12086,Big Cities,3004707
@@ -3065,7 +3024,7 @@
 3063,48453,Big Cities,3004707
 3064,53033,Big Cities,3004707
 3065,55079,Big Cities,3004707
-3066,09015,Middle Suburbs,104128
+3066,9015,Middle Suburbs,104128
 3067,17119,Middle Suburbs,104128
 3068,17143,Middle Suburbs,104128
 3069,17161,Middle Suburbs,104128
