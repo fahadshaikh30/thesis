@@ -1,3 +1,5 @@
 .vscode/settings.json
 .vscode/launch.json
 .venv
+final_v2.parquet
+normalized_sentiment.parquet
