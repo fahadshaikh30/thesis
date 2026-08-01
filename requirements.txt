@@ -155,7 +155,7 @@ pyasn1==0.6.4
 pyasn1-modules==0.3.0
 pycparser==2.21
 pydantic==1.10.9
-Pygments==2.13.0
+Pygments==2.20.0
 PyMeeus==0.5.12
 pynndescent==0.5.10
 pyod==1.0.9
