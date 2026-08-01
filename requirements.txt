@@ -136,7 +136,7 @@ patsy==0.5.3
 Pattern==3.6
 pdfminer.six==20221105
 pickleshare==0.7.5
-Pillow==9.5.0
+Pillow==12.3.0
 pipenv==2023.4.29
 platformdirs==3.2.0
 plotly==5.14.0
