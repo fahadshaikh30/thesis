@@ -194,7 +194,7 @@ six==1.16.0
 slicer==0.0.7
 smmap==5.0.0
 snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@3dd9c28e31b8babeb2a187fbae994d9717ded168
-soupsieve==2.4
+soupsieve==2.8.4
 sqlglot==11.4.5
 stack-data==0.5.0
 statsforecast==1.5.0
