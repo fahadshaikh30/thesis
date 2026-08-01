@@ -77,7 +77,7 @@ hdbscan==0.8.29
 hijri-converter==2.2.4
 holidays==0.21.13
 huggingface-hub==0.9.1
-idna==3.4
+idna==3.15
 inflect==6.0.4
 ipykernel==6.15.2
 ipython==8.5.0
