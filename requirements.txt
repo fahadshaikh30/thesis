@@ -96,7 +96,7 @@ jupyter-core==4.11.1
 jupyter-dash==0.4.2
 jupyter_client==7.3.5
 jupyterlab-widgets==3.0.7
-keras==2.12.0
+keras==3.13.2
 kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
 libclang==16.0.0
