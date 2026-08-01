@@ -215,7 +215,7 @@ termcolor==2.3.0
 textsearch==0.0.24
 threadpoolctl==3.1.0
 tokenizers==0.12.1
-torch==2.0.1+cu118
+torch==2.13.0
 torchmetrics==0.11.4
 torchvision==0.15.2+cu118
 tornado==6.2
