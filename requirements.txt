@@ -232,7 +232,7 @@ umap-learn==0.5.3
 uritools==4.0.1
 urlextract==1.8.0
 urllib3==2.7.0
-virtualenv==20.21.0
+virtualenv==20.36.1
 virtualenv-clone==0.5.7
 wandb==0.15.4
 wcwidth==0.2.5
