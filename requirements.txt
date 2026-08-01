@@ -105,7 +105,7 @@ lightning-utilities==0.8.0
 llvmlite==0.39.1
 LunarCalendar==0.0.9
 lxml==6.1.0
-Markdown==3.4.3
+Markdown==3.8.1
 MarkupSafe==2.1.2
 matplotlib==3.5.3
 matplotlib-inline==0.1.6
