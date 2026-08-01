@@ -219,7 +219,7 @@ torch==2.13.0
 torchmetrics==0.11.4
 torchvision==0.15.2+cu118
 tornado==6.5.7
-tqdm==4.65.0
+tqdm==4.66.3
 trace-updater==0.0.9
 traitlets==5.3.0
 transformers==5.5.0
