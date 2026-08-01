@@ -222,7 +222,7 @@ tornado==6.2
 tqdm==4.65.0
 trace-updater==0.0.9
 traitlets==5.3.0
-transformers==4.21.2
+transformers==5.5.0
 triad==0.8.4
 tweetnlp==0.4.4
 typeguard==2.13.3
