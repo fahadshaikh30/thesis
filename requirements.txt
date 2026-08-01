@@ -71,7 +71,7 @@ google-auth==2.20.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 graphviz==0.20.1
-grpcio==1.56.0
+grpcio==1.56.2
 h5py==3.9.0
 hdbscan==0.8.29
 hijri-converter==2.2.4
