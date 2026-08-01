@@ -120,7 +120,7 @@ nbformat==5.9.0
 nest-asyncio==1.5.5
 networkx==3.0
 nfoursid==1.0.1
-nltk==3.8.1
+nltk==3.10.0
 numba==0.56.4
 numpy==1.23.5
 oauthlib==3.2.2
