@@ -104,7 +104,7 @@ lightgbm==4.6.0
 lightning-utilities==0.8.0
 llvmlite==0.39.1
 LunarCalendar==0.0.9
-lxml==4.9.2
+lxml==6.1.0
 Markdown==3.4.3
 MarkupSafe==2.1.2
 matplotlib==3.5.3
