@@ -236,7 +236,7 @@ virtualenv==20.21.0
 virtualenv-clone==0.5.7
 wandb==0.15.4
 wcwidth==0.2.5
-Werkzeug==2.2.3
+Werkzeug==3.1.6
 widgetsnbextension==4.0.7
 wordcloud==1.9.2
 wrapt==1.14.1
