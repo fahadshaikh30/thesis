@@ -167,7 +167,7 @@ pyspellchecker==0.7.2
 python-dateutil==2.8.2
 python-docx==0.8.11
 python-highcharts==0.4.2
-pytorch-lightning==2.0.1
+pytorch-lightning==2.6.1
 pytz==2023.3
 pywin32==304
 PyYAML==6.0
