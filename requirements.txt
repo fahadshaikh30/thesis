@@ -100,7 +100,7 @@ keras==3.13.2
 kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
 libclang==16.0.0
-lightgbm==3.3.5
+lightgbm==4.6.0
 lightning-utilities==0.8.0
 llvmlite==0.39.1
 LunarCalendar==0.0.9
